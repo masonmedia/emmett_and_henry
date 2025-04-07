@@ -1,0 +1,2116 @@
+[
+  {
+    "id": 152528,
+    "date": "2023-10-25T16:36:40",
+    "date_gmt": "2023-10-25T20:36:40",
+    "guid": { "rendered": "https://princeoftravel.com/?page_id=152528" },
+    "modified": "2023-10-25T16:36:40",
+    "modified_gmt": "2023-10-25T20:36:40",
+    "slug": "email-course-signup",
+    "status": "publish",
+    "type": "page",
+    "link": "https://princeoftravel.com/email-course-signup/",
+    "title": {
+      "rendered": "Let&#8217;s Turn Your Travel Dreams Into Reality!"
+    },
+    "content": {
+      "rendered": "<div class=\"klaviyo-form-TdL7kh\"></div>\n",
+      "protected": false
+    },
+    "excerpt": { "rendered": "", "protected": false },
+    "author": 2530,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 39,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_mi_skip_tracking": false,
+      "_monsterinsights_sitenote_active": false,
+      "_monsterinsights_sitenote_note": "",
+      "_monsterinsights_sitenote_category": 0,
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_tribe_ticket_capacity": "0",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": [],
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": ""
+    },
+    "tags": [],
+    "acf": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v19.12 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Let&#039;s Turn Your Travel Dreams Into Reality! | Prince of Travel</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://princeoftravel.com/email-course-signup/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Let&#039;s Turn Your Travel Dreams Into Reality! | Prince of Travel\" />\n<meta property=\"og:url\" content=\"https://princeoftravel.com/email-course-signup/\" />\n<meta property=\"og:site_name\" content=\"Prince of Travel\" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/princeoftravel/\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@princeof_travel\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://princeoftravel.com/email-course-signup/\",\"url\":\"https://princeoftravel.com/email-course-signup/\",\"name\":\"Let's Turn Your Travel Dreams Into Reality! | Prince of Travel\",\"isPartOf\":{\"@id\":\"https://princeoftravel.com/#website\"},\"datePublished\":\"2023-10-25T20:36:40+00:00\",\"dateModified\":\"2023-10-25T20:36:40+00:00\",\"breadcrumb\":{\"@id\":\"https://princeoftravel.com/email-course-signup/#breadcrumb\"},\"inLanguage\":\"en-CA\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://princeoftravel.com/email-course-signup/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://princeoftravel.com/email-course-signup/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://princeoftravel.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Let&#8217;s Turn Your Travel Dreams Into Reality!\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://princeoftravel.com/#website\",\"url\":\"https://princeoftravel.com/\",\"name\":\"Prince of Travel\",\"description\":\"\",\"publisher\":{\"@id\":\"https://princeoftravel.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://princeoftravel.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-CA\"},{\"@type\":\"Organization\",\"@id\":\"https://princeoftravel.com/#organization\",\"name\":\"Prince of Travel\",\"url\":\"https://princeoftravel.com/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-CA\",\"@id\":\"https://princeoftravel.com/#/schema/logo/image/\",\"url\":\"https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png\",\"contentUrl\":\"https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png\",\"width\":118,\"height\":108,\"caption\":\"Prince of Travel\"},\"image\":{\"@id\":\"https://princeoftravel.com/#/schema/logo/image/\"},\"sameAs\":[\"https://www.instagram.com/princeoftravel/\",\"https://www.youtube.com/princeoftravel\",\"https://www.facebook.com/princeoftravel/\",\"https://twitter.com/princeof_travel\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Let's Turn Your Travel Dreams Into Reality! | Prince of Travel",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://princeoftravel.com/email-course-signup/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "Let's Turn Your Travel Dreams Into Reality! | Prince of Travel",
+      "og_url": "https://princeoftravel.com/email-course-signup/",
+      "og_site_name": "Prince of Travel",
+      "article_publisher": "https://www.facebook.com/princeoftravel/",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@princeof_travel",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://princeoftravel.com/email-course-signup/",
+            "url": "https://princeoftravel.com/email-course-signup/",
+            "name": "Let's Turn Your Travel Dreams Into Reality! | Prince of Travel",
+            "isPartOf": { "@id": "https://princeoftravel.com/#website" },
+            "datePublished": "2023-10-25T20:36:40+00:00",
+            "dateModified": "2023-10-25T20:36:40+00:00",
+            "breadcrumb": {
+              "@id": "https://princeoftravel.com/email-course-signup/#breadcrumb"
+            },
+            "inLanguage": "en-CA",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": ["https://princeoftravel.com/email-course-signup/"]
+              }
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://princeoftravel.com/email-course-signup/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://princeoftravel.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Let&#8217;s Turn Your Travel Dreams Into Reality!"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://princeoftravel.com/#website",
+            "url": "https://princeoftravel.com/",
+            "name": "Prince of Travel",
+            "description": "",
+            "publisher": { "@id": "https://princeoftravel.com/#organization" },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://princeoftravel.com/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-CA"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://princeoftravel.com/#organization",
+            "name": "Prince of Travel",
+            "url": "https://princeoftravel.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-CA",
+              "@id": "https://princeoftravel.com/#/schema/logo/image/",
+              "url": "https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png",
+              "contentUrl": "https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png",
+              "width": 118,
+              "height": 108,
+              "caption": "Prince of Travel"
+            },
+            "image": {
+              "@id": "https://princeoftravel.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.instagram.com/princeoftravel/",
+              "https://www.youtube.com/princeoftravel",
+              "https://www.facebook.com/princeoftravel/",
+              "https://twitter.com/princeof_travel"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        { "href": "https://princeoftravel.com/wp-json/wp/v2/pages/152528" }
+      ],
+      "collection": [
+        { "href": "https://princeoftravel.com/wp-json/wp/v2/pages" }
+      ],
+      "about": [
+        { "href": "https://princeoftravel.com/wp-json/wp/v2/types/page" }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/users/2530"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/comments?post=152528"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/pages/152528/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://princeoftravel.com/wp-json/wp/v2/media?parent=152528"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/tags?post=152528"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    }
+  },
+  {
+    "id": 967,
+    "date": "2023-10-18T08:00:53",
+    "date_gmt": "2023-10-18T12:00:53",
+    "guid": { "rendered": "http://princeoftravel.wpengine.com/?page_id=967" },
+    "modified": "2023-10-18T12:15:27",
+    "modified_gmt": "2023-10-18T16:15:27",
+    "slug": "points-valuations",
+    "status": "publish",
+    "type": "page",
+    "link": "https://princeoftravel.com/points-valuations/",
+    "title": { "rendered": "Points Valuations" },
+    "content": {
+      "rendered": "<p>This page aims to provide a valuation of the major points currencies in Canada and around the world.</p>\n<p>Valuing points currencies is a highly subjective exercise, and the value of a point in each program is constantly changing as the program itself changes.</p>\n<p>These valuations should therefore be treated as a general guideline, taking into account the general best-case usage of each program, rather than a definite representation of how much value you <em>will </em>get out of each point you earn.</p>\n<p><a href=\"https://princeoftravel.com/blog/quarterly-valuation-updates/\">We update our Points Valuations on a quarterly basis</a>, so make sure to check back often.</p>\n<h2>Canadian Airline &amp; Bank Programs</h2>\n<p>Below are our points valuations for Canadian and global loyalty programs to which we have easy access via the <a href=\"/credit-cards\">major Canadian credit cards</a>. For the programs with significant participation from US residents, we&#8217;ve included the value in US dollars as well.</p>\n<h3>Aeroplan</h3>\n<p><img decoding=\"async\" class=\"width-25 aligncenter wp-image-27050 size-medium\" src=\"https://princeoftravel.com/wp-content/uploads/2021/01/aeroplan-nouveau-logo-sans-bg-1024x142-1-300x42.png\" alt=\"\" width=\"300\" height=\"42\" srcset=\"https://princeoftravel.com/wp-content/uploads/2021/01/aeroplan-nouveau-logo-sans-bg-1024x142-1-300x42.png 300w, https://princeoftravel.com/wp-content/uploads/2021/01/aeroplan-nouveau-logo-sans-bg-1024x142-1-768x107.png 768w, https://princeoftravel.com/wp-content/uploads/2021/01/aeroplan-nouveau-logo-sans-bg-1024x142-1.png 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></p>\n<ul>\n<li><strong>2.1</strong> cents/point (CAD)</li>\n<li><strong>1.6</strong> cents/point (USD)</li>\n</ul>\n<p><a href=\"/points-programs/aeroplan\">Aeroplan</a> is one of Canada&#8217;s most versatile programs for long-haul international travel.</p>\n<p>Its advantageous <a href=\"https://princeoftravel.com/guides/aeroplan-stopovers/\">stopover</a> policy allows you to book some <a href=\"https://princeoftravel.com/guides/how-to-book-complex-trips-with-aeroplan/\">pretty amazing trips</a> that you&#8217;d never be able to pull off using cash.</p>\n<p>Its ever-growing number of partner airlines provides you with access to some of the best products in the industry, including <a href=\"https://princeoftravel.com/airlines/ana-first-class/\">ANA First Class</a>, <a href=\"https://princeoftravel.com/airlines/emirates-first-class/\">Emirates First Class</a>, <a href=\"https://princeoftravel.com/airlines/etihad-airways-first-class/\">Etihad Airways First Class</a>, <a href=\"https://princeoftravel.com/airlines/etihad-airways-first-class/\">Lufthansa First Class</a>, and more. When redeemed for travel in premium cabins, it&#8217;s not uncommon to get a value of upwards of 10 cents per point.</p>\n<p>Domestic redemptions will be harder to extract value from, but 1.5\u20132 cents/point is still a reasonable target.</p>\n<h3>Air Miles</h3>\n<p><img decoding=\"async\" class=\"width-25 aligncenter wp-image-17436 size-medium\" src=\"https://princeoftravel.com/wp-content/uploads/2020/07/airmiles_white-300x280.png\" alt=\"\" width=\"300\" height=\"280\" srcset=\"https://princeoftravel.com/wp-content/uploads/2020/07/airmiles_white-300x280.png 300w, https://princeoftravel.com/wp-content/uploads/2020/07/airmiles_white.png 467w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></p>\n<ul>\n<li><strong>10.5</strong>&nbsp;cents/mile (CAD)</li>\n</ul>\n<p><a href=\"/points-programs/air-miles\">Air Miles</a> Cash Rewards are typically redeemed at a ratio of 95 Air Miles = $10, giving you a baseline value of 10.5 cents/mile. Occasional promotions allow Cash Rewards to be redeemed at a higher value.</p>\n<p>It&#8217;s also possible to earn Dream Rewards instead, which can be redeemed for flights around the world and in any class of service, but the value isn&#8217;t great and rarely exceeds 11.5 cents/mile.&nbsp;</p>\n<h3>American Express (Canada) Membership Rewards</h3>\n<p><img decoding=\"async\" class=\"width-25 aligncenter wp-image-29772 size-medium\" src=\"https://princeoftravel.com/wp-content/uploads/2021/04/1200px-American_Express_logo_2018.svg-300x300.png\" alt=\"\" width=\"300\" height=\"300\" srcset=\"https://princeoftravel.com/wp-content/uploads/2021/04/1200px-American_Express_logo_2018.svg-300x300.png 300w, https://princeoftravel.com/wp-content/uploads/2021/04/1200px-American_Express_logo_2018.svg-1024x1022.png 1024w, https://princeoftravel.com/wp-content/uploads/2021/04/1200px-American_Express_logo_2018.svg-150x150.png 150w, https://princeoftravel.com/wp-content/uploads/2021/04/1200px-American_Express_logo_2018.svg-768x767.png 768w, https://princeoftravel.com/wp-content/uploads/2021/04/1200px-American_Express_logo_2018.svg.png 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></p>\n<ul>\n<li><strong>2.2</strong> cents/point (CAD)</li>\n</ul>\n<p><a href=\"/points-programs/american-express-membership-rewards\">Amex MR</a> is by far the most flexible travel rewards currency in Canada. All things being equal, its optimal usage is probably through a 1:1 transfer to Aeroplan (2.1 cents/point).</p>\n<p>The program&#8217;s overall flexibility (including other airline and hotel partners, <a href=\"https://princeoftravel.com/guides/amex-fixed-points-travel/\">Amex Fixed Points Travel</a>, etc.) also gives it value a further boost to 2.2 cents/point.</p>\n<h3>BMO Rewards</h3>\n<p><img decoding=\"async\" class=\"width-25 aligncenter wp-image-17442 size-full\" src=\"https://princeoftravel.com/wp-content/uploads/2020/07/BMO-logo.jpg\" alt=\"\" width=\"400\" height=\"400\" srcset=\"https://princeoftravel.com/wp-content/uploads/2020/07/BMO-logo.jpg 400w, https://princeoftravel.com/wp-content/uploads/2020/07/BMO-logo-150x150.jpg 150w\" sizes=\"(max-width: 400px) 100vw, 400px\" /></p>\n<ul>\n<li><strong>0.67</strong> cents/point (CAD)</li>\n</ul>\n<p><a href=\"https://princeoftravel.com/points-programs/bmo-rewards/\">BMO Rewards</a> can be redeemed towards the cost of travel booked through BMO&#8217;s in-house travel agency or into a BMO investment account at a ratio of 150 points = $1, thus giving you 0.67 cents/point. You can also redeem points at this value against any travel purchases charged to the card.</p>\n<p>There aren&#8217;t many other compelling ways to redeem BMO Rewards, as you&#8217;ll get lower value from your points if you redeem them for gift cards or merchandise.</p>\n<h3>CIBC Aventura</h3>\n<p><img decoding=\"async\" class=\"width-25 aligncenter wp-image-20192 size-medium\" src=\"https://princeoftravel.com/wp-content/uploads/2020/08/CIBC_logo.svg-300x274.png\" alt=\"\" width=\"300\" height=\"274\" srcset=\"https://princeoftravel.com/wp-content/uploads/2020/08/CIBC_logo.svg-300x274.png 300w, https://princeoftravel.com/wp-content/uploads/2020/08/CIBC_logo.svg.png 657w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></p>\n<ul>\n<li><strong>1.25</strong> cents/point (CAD)&nbsp;</li>\n</ul>\n<p><a href=\"https://princeoftravel.com/points-programs/cibc-aventura/\">CIBC Aventura</a> points offer a baseline redemption option of offsetting the cost of travel booked through the CIBC in-house travel agency at 1 cent/point.</p>\n<p>The fixed-value travel schedule, which allows you to get up to 2.2 cents/point on certain redemptions, gives the program some measure of upside.</p>\n<p>CIBC Aventura is <a href=\"https://princeoftravel.com/deals/redeem-cibc-aventura-points-for-1-25-cents-per-point/\">putting on a special promotion</a> through March 31, 2024, allowing cardholders to use points to redeem against any travel purchase at double the usual rate: 1.25 cents/point instead of 0.625 cents/point.</p>\n<h3>HSBC Rewards</h3>\n<p><img decoding=\"async\" class=\"width-25 aligncenter wp-image-17447 size-medium\" src=\"https://princeoftravel.com/wp-content/uploads/2020/07/lTYdUpD-e1620381477223-300x151.png\" alt=\"\" width=\"300\" height=\"151\" srcset=\"https://princeoftravel.com/wp-content/uploads/2020/07/lTYdUpD-e1620381477223-300x151.png 300w, https://princeoftravel.com/wp-content/uploads/2020/07/lTYdUpD-e1620381477223.png 512w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></p>\n<ul>\n<li><strong>0.8</strong>&nbsp;cents/point (CAD)&nbsp;</li>\n</ul>\n<p><a href=\"https://princeoftravel.com/points-programs/hsbc-rewards/\">HSBC Rewards</a><strong> points</strong> are worth 0.5 cents/point at a minimum, since you can use them to offset any travel purchase on your card at a ratio of 200 points = $1.</p>\n<p>On top of that, the ability to transfer HSBC Rewards points to <a href=\"https://princeoftravel.com/points-programs/cathay-pacific-asia-miles/\">Cathay Pacific Asia Miles</a>, <a href=\"https://princeoftravel.com/points-programs/singapore-airlines-krisflyer/\">Singapore Airlines KrisFlyer</a>, or <a href=\"https://princeoftravel.com/points-programs/british-airways-avios/\">British Airways Avios</a> gives the program some added value.</p>\n<h3>MBNA Rewards</h3>\n<p><img decoding=\"async\" class=\"width-25 wp-image-138131 aligncenter\" src=\"https://princeoftravel.com/wp-content/uploads/2023/04/MBNA.png\" alt=\"\" width=\"2560\" height=\"864\" srcset=\"https://princeoftravel.com/wp-content/uploads/2023/04/MBNA.png 2560w, https://princeoftravel.com/wp-content/uploads/2023/04/MBNA-300x101.png 300w, https://princeoftravel.com/wp-content/uploads/2023/04/MBNA-1024x346.png 1024w, https://princeoftravel.com/wp-content/uploads/2023/04/MBNA-768x259.png 768w, https://princeoftravel.com/wp-content/uploads/2023/04/MBNA-1536x518.png 1536w, https://princeoftravel.com/wp-content/uploads/2023/04/MBNA-2048x691.png 2048w, https://princeoftravel.com/wp-content/uploads/2023/04/MBNA-150x51.png 150w\" sizes=\"(max-width: 2560px) 100vw, 2560px\" /></p>\n<ul>\n<li><strong>1</strong> cent/point (CAD)</li>\n</ul>\n<p>MBNA&#8217;s in-house loyalty program, MBNA Rewards, can be used to book travel through the MBNA Rewards Redemption Centre at a rate of 1 cent per point.&nbsp;</p>\n<p>These points can be useful to book things like car rentals, independent hotels, and cruises, which are otherwise difficult to book with points.</p>\n<p>In the future, it&#8217;s likely that MBNA Rewards will be transferable to <a href=\"https://princeoftravel.com/points-programs/alaska-airlines-mileage-plan/\">Alaska Airlines Mileage Plan</a> at a 1:1 ratio, which will make them both more useful and valuable.</p>\n<h3>National Bank \u00c0 la carte Rewards</h3>\n<p><img decoding=\"async\" class=\"size-full width-25 wp-image-95733 aligncenter\" src=\"https://princeoftravel.com/wp-content/uploads/2022/10/national-bank-logo-1.jpg\" alt=\"\" width=\"2052\" height=\"732\" srcset=\"https://princeoftravel.com/wp-content/uploads/2022/10/national-bank-logo-1.jpg 2052w, https://princeoftravel.com/wp-content/uploads/2022/10/national-bank-logo-1-300x107.jpg 300w, https://princeoftravel.com/wp-content/uploads/2022/10/national-bank-logo-1-1024x365.jpg 1024w, https://princeoftravel.com/wp-content/uploads/2022/10/national-bank-logo-1-768x274.jpg 768w, https://princeoftravel.com/wp-content/uploads/2022/10/national-bank-logo-1-1536x548.jpg 1536w, https://princeoftravel.com/wp-content/uploads/2022/10/national-bank-logo-1-2048x731.jpg 2048w, https://princeoftravel.com/wp-content/uploads/2022/10/national-bank-logo-1-600x214.jpg 600w, https://princeoftravel.com/wp-content/uploads/2022/10/national-bank-logo-1-150x54.jpg 150w\" sizes=\"(max-width: 2052px) 100vw, 2052px\" /></p>\n<ul>\n<li><strong>1</strong> cent/point (CAD)</li>\n</ul>\n<p>National Bank&#8217;s in-house loyalty program, \u00c0 la carte Rewards, are best redeemed through the program&#8217;s online travel portal. Doing so will net you a value of 1 cent/point for travel bookings.</p>\n<p>If you&#8217;d rather book directly with vendors, you can still redeem \u00c0 la carte Rewards for a statement credit, albeit at a lower value. Redeeming fewer than 55,000 points will result in 0.83 cents per point, and redeeming more than 55,000 points will result in 0.91 cents per point.</p>\n<h3>RBC Avion</h3>\n<p><img decoding=\"async\" class=\"width-25 aligncenter wp-image-20541 size-medium\" src=\"https://princeoftravel.com/wp-content/uploads/2020/08/1200px-RBC_Royal_Bank.svg-231x300.png\" alt=\"\" width=\"231\" height=\"300\" srcset=\"https://princeoftravel.com/wp-content/uploads/2020/08/1200px-RBC_Royal_Bank.svg-231x300.png 231w, https://princeoftravel.com/wp-content/uploads/2020/08/1200px-RBC_Royal_Bank.svg-788x1024.png 788w, https://princeoftravel.com/wp-content/uploads/2020/08/1200px-RBC_Royal_Bank.svg-768x998.png 768w, https://princeoftravel.com/wp-content/uploads/2020/08/1200px-RBC_Royal_Bank.svg-1182x1536.png 1182w, https://princeoftravel.com/wp-content/uploads/2020/08/1200px-RBC_Royal_Bank.svg.png 1200w\" sizes=\"(max-width: 231px) 100vw, 231px\" /></p>\n<ul>\n<li><strong>2.0</strong>&nbsp;cents/point (CAD)&nbsp;</li>\n</ul>\n<p>Unique among the Big 5 banks in Canada, <a href=\"/points-programs/rbc-avion\">RBC Avion points</a> can be transferred to a wide range of airline partners.</p>\n<p>The general best-case usage is probably converting to <a href=\"https://princeoftravel.com/points-programs/british-airways-avios/\">British Airways Avios</a> or <a href=\"https://princeoftravel.com/points-programs/cathay-pacific-asia-miles/\">Cathay Pacific Asia Miles</a> at a 1:1 ratio, but RBC Avion&#8217;s value is boosted even further by their frequent conversion bonuses and the option to redeem via the <a href=\"https://princeoftravel.com/guides/rbc-air-travel-redemption-schedule/\">RBC Travel Redemption Chart</a>, which can deliver up to 2 cents/point in value.</p>\n<h3>Scene+</h3>\n<p><img decoding=\"async\" class=\"width-33 aligncenter wp-image-43477 size-medium\" src=\"https://princeoftravel.com/wp-content/uploads/2022/01/Scene_logo.svg-300x122.png\" alt=\"\" width=\"300\" height=\"122\" srcset=\"https://princeoftravel.com/wp-content/uploads/2022/01/Scene_logo.svg-300x122.png 300w, https://princeoftravel.com/wp-content/uploads/2022/01/Scene_logo.svg-1024x415.png 1024w, https://princeoftravel.com/wp-content/uploads/2022/01/Scene_logo.svg-768x311.png 768w, https://princeoftravel.com/wp-content/uploads/2022/01/Scene_logo.svg-600x243.png 600w, https://princeoftravel.com/wp-content/uploads/2022/01/Scene_logo.svg.png 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></p>\n<ul>\n<li><strong>1</strong> cent/point (CAD)</li>\n</ul>\n<p>Nothing fancy here: <a href=\"https://princeoftravel.com/points-programs/scene-plus/\">Scene+</a><strong> points</strong> can be used to offset the cost of travel purchases charged to your card at 1 cent/point. They&#8217;re useful to collect for the purpose of reducing your out-of-pocket travel expenses, such as independent hotels, car rentals, trains, cruises, and the like.</p>\n<h3>TD Rewards</h3>\n<p><img decoding=\"async\" class=\"width-25 aligncenter wp-image-20191 size-medium\" src=\"https://princeoftravel.com/wp-content/uploads/2020/08/672px-TD_Canada_Trust_logo.svg-300x268.png\" alt=\"\" width=\"300\" height=\"268\" srcset=\"https://princeoftravel.com/wp-content/uploads/2020/08/672px-TD_Canada_Trust_logo.svg-300x268.png 300w, https://princeoftravel.com/wp-content/uploads/2020/08/672px-TD_Canada_Trust_logo.svg.png 672w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></p>\n<ul>\n<li><strong>0.5</strong> cents/point (CAD)</li>\n</ul>\n<p><a href=\"https://princeoftravel.com/points-programs/td-rewards/\">TD Rewards</a> can be redeemed at a value of 0.5 cents/point via the Expedia for TD online portal towards flights, hotels, car rentals, vacations, etc. If you don&#8217;t go through Expedia for TD, the value is lower at 0.4 cents/point.</p>\n<p>Similar to the other Big 5 banks&#8217; points (besides <a href=\"https://princeoftravel.com/points-programs/rbc-avion/\">RBC Avion</a>), their value is rather limited.</p>\n<h3>WestJet Rewards</h3>\n<p><img decoding=\"async\" class=\"width-33 aligncenter wp-image-27052 size-medium\" src=\"https://princeoftravel.com/wp-content/uploads/2021/01/L_2018_WestJet_Leaf_Rewards_RGB-e1599223795842-300x82.png\" alt=\"\" width=\"300\" height=\"82\" srcset=\"https://princeoftravel.com/wp-content/uploads/2021/01/L_2018_WestJet_Leaf_Rewards_RGB-e1599223795842-300x82.png 300w, https://princeoftravel.com/wp-content/uploads/2021/01/L_2018_WestJet_Leaf_Rewards_RGB-e1599223795842-1024x280.png 1024w, https://princeoftravel.com/wp-content/uploads/2021/01/L_2018_WestJet_Leaf_Rewards_RGB-e1599223795842-768x210.png 768w, https://princeoftravel.com/wp-content/uploads/2021/01/L_2018_WestJet_Leaf_Rewards_RGB-e1599223795842-1536x420.png 1536w, https://princeoftravel.com/wp-content/uploads/2021/01/L_2018_WestJet_Leaf_Rewards_RGB-e1599223795842-2048x560.png 2048w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></p>\n<ul>\n<li><strong>$1.02</strong>/WestJet Dollar (CAD)</li>\n</ul>\n<p><a href=\"https://princeoftravel.com/points-programs/westjet-rewards/\">WestJet Rewards</a> is unique in using &#8220;Dollars&#8221; as their rewards currency: 1 WestJet Dollar can be redeemed towards the cost of $1 off a WestJet flight.</p>\n<p>WestJet&#8217;s <a href=\"https://princeoftravel.com/guides/analyzing-westjet-new-member-exclusive-fares/\">Member Exclusive fares</a> offer small discounts on the cost of a WestJet flight when you book with WestJet Dollars; hence, the valuation is a shade over par.</p>\n<h2>US Airline &amp; Bank Programs</h2>\n<p>Below are our points valuations for the major US-based loyalty programs, some of which are accessible via the <a href=\"/credit-cards\">major Canadian credit cards</a>; others may only be accessible by <a href=\"/blog/getting-us-credit-cards-for-canadians/\">applying for US credit cards</a>.</p>\n<h3>Alaska Airlines Mileage Plan</h3>\n<p><img decoding=\"async\" class=\"width-33 aligncenter wp-image-29766 size-medium\" src=\"https://princeoftravel.com/wp-content/uploads/2021/04/PngJoy_alaska-airlines-logo-alaska-airlines-mileage-plan-logo_1781113-1-300x118.png\" alt=\"\" width=\"300\" height=\"118\" srcset=\"https://princeoftravel.com/wp-content/uploads/2021/04/PngJoy_alaska-airlines-logo-alaska-airlines-mileage-plan-logo_1781113-1-300x118.png 300w, https://princeoftravel.com/wp-content/uploads/2021/04/PngJoy_alaska-airlines-logo-alaska-airlines-mileage-plan-logo_1781113-1-768x301.png 768w, https://princeoftravel.com/wp-content/uploads/2021/04/PngJoy_alaska-airlines-logo-alaska-airlines-mileage-plan-logo_1781113-1.png 814w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></p>\n<ul>\n<li><strong>2.1 </strong>cents/mile (CAD)&nbsp;</li>\n<li><strong>1.6</strong> cents/mile (USD)</li>\n</ul>\n<p><a href=\"/points-programs/alaska-airlines-mileage-plan\">Alaska Airlines Mileage Plan</a> features a wide array of unique airline partners, including some of the world&#8217;s best premium cabins.</p>\n<p>In addition, the redemption rates on some premium flights are amongst the lowest in the industry, although there is uncertainty about the future of the pricing due to recent devaluations and the implementation of new award charts.</p>\n<p>For the time being, a one-way transpacific flight in Cathay Pacific business class or <a href=\"https://princeoftravel.com/airlines/cathay-pacific-first-class/\">Cathay Pacific First Class</a> can be booked at around <strong>50,000 or 70,000 miles,</strong> respectively, as long as you can find availability.</p>\n<h3>American Airlines AAdvantage</h3>\n<p><img decoding=\"async\" class=\"width-33 aligncenter wp-image-29759 size-medium\" src=\"https://princeoftravel.com/wp-content/uploads/2021/04/aadvantage_logo_2013-svg-300x61.png\" alt=\"\" width=\"300\" height=\"61\" srcset=\"https://princeoftravel.com/wp-content/uploads/2021/04/aadvantage_logo_2013-svg-300x61.png 300w, https://princeoftravel.com/wp-content/uploads/2021/04/aadvantage_logo_2013-svg-768x155.png 768w, https://princeoftravel.com/wp-content/uploads/2021/04/aadvantage_logo_2013-svg.png 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></p>\n<ul>\n<li><strong>1.4</strong> cents/mile (USD)</li>\n<li><strong>1.9</strong> cents/mile (CAD)</li>\n</ul>\n<p><a href=\"https://princeoftravel.com/points-programs/american-airlines-aadvantage/\">American Airlines AAdvantage</a> offers fairly competitive award pricing for premium flights on Oneworld airlines, including a few very attractive sweet spots like 75,000 miles for <a href=\"https://princeoftravel.com/airlines/qatar-airways-qsuites/\">Qatar Airways Qsuites</a> to <a href=\"https://princeoftravel.com/guides/the-8-best-ways-to-fly-business-class-to-africa-on-points/\">Africa</a> with no surcharges.</p>\n<p>Other sweet spots lie in the AAdvantage program\u2019s unique airline partnerships, like <a href=\"https://princeoftravel.com/reviews/air-tahiti-nui-business-class-los-angeles-to-papeete/\">Air Tahiti Nui business class</a> to French Polynesia for 80,000 miles one-way.</p>\n<p>AAdvantage is a 1:0.7 transfer partner from <a href=\"https://princeoftravel.com/points-programs/rbc-avion/\">RBC Avion</a> points.</p>\n<h3>American Express US Membership Rewards</h3>\n<p><img decoding=\"async\" class=\"width-25 aligncenter wp-image-31565 size-full\" src=\"https://princeoftravel.com/wp-content/uploads/2021/05/1200px-American_Express_logo_2018.svg-300x300.png\" alt=\"\" width=\"300\" height=\"300\" srcset=\"https://princeoftravel.com/wp-content/uploads/2021/05/1200px-American_Express_logo_2018.svg-300x300.png 300w, https://princeoftravel.com/wp-content/uploads/2021/05/1200px-American_Express_logo_2018.svg-300x300-150x150.png 150w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></p>\n<ul>\n<li><strong>1.8</strong> cents/point (USD)</li>\n<li><b>2.4 </b>cents/point (CAD)</li>\n</ul>\n<p>Some of the most popular US-exclusive airline loyalty program partners, such as <a href=\"https://princeoftravel.com/points-programs/virgin-atlantic-flying-club/\">Virgin Atlantic Flying Club</a>, <a href=\"https://princeoftravel.com/points-programs/emirates-skywards/\">Emirates Skywards</a>, and <a href=\"https://princeoftravel.com/points-programs/singapore-airlines-krisflyer/\">Singapore Airlines KrisFlyer</a>, are in fact common to all three major transferable currencies between <a href=\"https://princeoftravel.com/points-programs/american-express-us-membership-rewards/\">Amex US MR</a>, <a href=\"https://princeoftravel.com/points-programs/chase-ultimate-rewards/\">Chase Ultimate Rewards</a>, and <a href=\"https://princeoftravel.com/points-programs/citi-thankyou-rewards/\">Citi ThankYou Rewards</a>.</p>\n<p>However, Amex packs the greatest punch with its own exclusive airline partners, such as <a href=\"https://princeoftravel.com/points-programs/ana-mileage-club/\">ANA Mileage Club</a> and their great-value <a href=\"https://princeoftravel.com/guides/the-ana-mileage-club-round-the-world-award/\">round-the-world awards</a>. Amex also tends to offer more frequent transfer bonuses to partner programs compared to Chase and Citi.</p>\n<h3>Capital One Miles</h3>\n<p><img decoding=\"async\" class=\"width-25 wp-image-135818 aligncenter\" src=\"https://princeoftravel.com/wp-content/uploads/2023/06/capital-one-logo.png\" alt=\"\" width=\"2560\" height=\"1440\" srcset=\"https://princeoftravel.com/wp-content/uploads/2023/06/capital-one-logo.png 2560w, https://princeoftravel.com/wp-content/uploads/2023/06/capital-one-logo-300x169.png 300w, https://princeoftravel.com/wp-content/uploads/2023/06/capital-one-logo-1024x576.png 1024w, https://princeoftravel.com/wp-content/uploads/2023/06/capital-one-logo-768x432.png 768w, https://princeoftravel.com/wp-content/uploads/2023/06/capital-one-logo-1536x864.png 1536w, https://princeoftravel.com/wp-content/uploads/2023/06/capital-one-logo-2048x1152.png 2048w, https://princeoftravel.com/wp-content/uploads/2023/06/capital-one-logo-150x84.png 150w\" sizes=\"(max-width: 2560px) 100vw, 2560px\" /></p>\n<ul>\n<li><strong>1.7</strong> cents/point (USD)</li>\n<li><b>2.3 </b>cents/point (CAD)</li>\n</ul>\n<p><a href=\"https://princeoftravel.com/points-programs/capital-one-miles/\">Capital One Miles</a> can be transferred to 15 airline programs and 3 hotel programs. Amongst these are some fan favourites, including <a href=\"https://princeoftravel.com/points-programs/aeroplan/\">Air Canada Aeroplan</a>, <a href=\"https://princeoftravel.com/points-programs/air-france-klm-flying-blue/\">Air France KLM Flying Blue</a>, <a href=\"https://princeoftravel.com/points-programs/british-airways-avios/\">British Airways Executive Club</a>, <a href=\"https://princeoftravel.com/points-programs/singapore-airlines-krisflyer/\">Singapore Airlines KrisFlyer</a>, and more.</p>\n<p>Meanwhile, on the hotel side, Capital One has transfer arrangements with <a href=\"https://princeoftravel.com/points-programs/accor-live-limitless/\">Accor Live Limitless</a>, Choice Privileges, and Wyndham Rewards.</p>\n<p>However, Capital One Miles aren&#8217;t quite as flexible as American Express US Membership Rewards, hence the slightly lower value.</p>\n<h3>Chase Ultimate Rewards</h3>\n<p><img decoding=\"async\" class=\"width-50 aligncenter wp-image-33332 size-medium\" src=\"https://princeoftravel.com/wp-content/uploads/2021/07/1024px-Chase_logo_2007.svg-300x56.png\" alt=\"\" width=\"300\" height=\"56\" srcset=\"https://princeoftravel.com/wp-content/uploads/2021/07/1024px-Chase_logo_2007.svg-300x56.png 300w, https://princeoftravel.com/wp-content/uploads/2021/07/1024px-Chase_logo_2007.svg-768x144.png 768w, https://princeoftravel.com/wp-content/uploads/2021/07/1024px-Chase_logo_2007.svg.png 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></p>\n<ul>\n<li><strong>1.7</strong> cents/point (USD)</li>\n<li><b>2.3 </b>cents/point (CAD)</li>\n</ul>\n<p>Among the exclusive partners for <a href=\"https://princeoftravel.com/points-programs/chase-ultimate-rewards/\">Chase Ultimate Rewards</a>, the only airline partner that really jumps out as potentially valuable is <a href=\"https://princeoftravel.com/points-programs/united-mileageplus/\">United MileagePlus</a>, although those same Star Alliance flights can also be booked at a good value using a program like <a href=\"https://princeoftravel.com/points-programs/aeroplan/\">Aeroplan</a>.&nbsp;</p>\n<p>Along that vein, it&#8217;s fair to peg Chase at least the same valuation as Aeroplan, at 1.6 cents/point.</p>\n<p>Meanwhile, on the hotel side, Chase has exclusive agreements with <a href=\"https://princeoftravel.com/points-programs/world-of-hyatt/\">World of Hyatt</a> and <a href=\"https://princeoftravel.com/points-programs/ihg-one-rewards/\">IHG One Rewards</a>, both at a 1:1 ratio.&nbsp;</p>\n<p>Hyatt is the only truly &#8220;aspirational&#8221; exclusive Ultimate Rewards loyalty partner.</p>\n<h3>Citi ThankYou Rewards</h3>\n<p><img decoding=\"async\" class=\"width-25 aligncenter wp-image-33333 size-medium\" src=\"https://princeoftravel.com/wp-content/uploads/2021/07/Citi-300x195.png\" alt=\"\" width=\"300\" height=\"195\" srcset=\"https://princeoftravel.com/wp-content/uploads/2021/07/Citi-300x195.png 300w, https://princeoftravel.com/wp-content/uploads/2021/07/Citi-1024x666.png 1024w, https://princeoftravel.com/wp-content/uploads/2021/07/Citi-768x499.png 768w, https://princeoftravel.com/wp-content/uploads/2021/07/Citi.png 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></p>\n<ul>\n<li><strong>1.7</strong> cents/point (USD)</li>\n<li><b>2.3 </b>cents/point (CAD)</li>\n</ul>\n<p>The <a href=\"https://princeoftravel.com/points-programs/citi-thankyou-rewards/\">Citi ThankYou Rewards</a> program has a fair few unique airline partners, including <a href=\"https://princeoftravel.com/points-programs/turkish-airlines-miles-smiles/\">Turkish Airlines Miles&amp;Smiles</a> for high-value North America redemptions, as well as <a href=\"https://princeoftravel.com/points-programs/qatar-airways-privilege-club/\">Qatar Airways Privilege Club</a> that can offer exceptional value on <a href=\"https://princeoftravel.com/airlines/qatar-airways-qsuites/\">Qsuites</a> business class bookings.</p>\n<p>That&#8217;s in addition to well-established airline partners that are common to all three, like Virgin Atlantic Flying Club, <a href=\"https://princeoftravel.com/points-programs/emirates-skywards/\">Emirates Skywards</a>, and <a href=\"https://princeoftravel.com/points-programs/singapore-airlines-krisflyer/\">Singapore Airlines KrisFlyer</a>, plus other popular programs like <a href=\"https://princeoftravel.com/points-programs/avianca-lifemiles/\">Avianca LifeMiles</a> and <a href=\"https://princeoftravel.com/points-programs/air-france-klm-flying-blue/\">Air France KLM Flying Blue</a>.</p>\n<p>ThankYou Rewards points can certainly be very useful to collect as a supplement to your Amex US MR points, in case you need to pool together a big balance in a certain program on short notice.</p>\n<h3>Delta SkyMiles</h3>\n<p><img decoding=\"async\" class=\"width-33 aligncenter wp-image-30975 size-full\" src=\"https://princeoftravel.com/wp-content/uploads/2021/05/getcatalogimage.jpeg\" alt=\"\" width=\"304\" height=\"82\" srcset=\"https://princeoftravel.com/wp-content/uploads/2021/05/getcatalogimage.jpeg 304w, https://princeoftravel.com/wp-content/uploads/2021/05/getcatalogimage-300x81.jpeg 300w\" sizes=\"(max-width: 304px) 100vw, 304px\" /></p>\n<ul>\n<li><strong>1.2</strong> cents/mile (USD)</li>\n<li><strong>1.6</strong> cents/mile (CAD)</li>\n</ul>\n<p><a href=\"https://princeoftravel.com/points-programs/delta-skymiles/\">Delta SkyMiles</a> is a dynamically priced program that is subject to frequent unannounced devaluations.</p>\n<p>For Canadians, it&#8217;s often not worth using Delta SkyMiles to book premium international flights, as there are other programs that are more fit for that purpose.</p>\n<p>Instead, it can be a great deal to redeem SkyMiles towards domestic flights within Canada on WestJet at a fixed price of 12,500 SkyMiles one-way.</p>\n<h3>United MileagePlus</h3>\n<p><img decoding=\"async\" class=\"width-25 wp-image-135096 aligncenter\" src=\"https://princeoftravel.com/wp-content/uploads/2023/06/United_MileagePlus_logo.svg.png\" alt=\"\" width=\"1200\" height=\"489\" srcset=\"https://princeoftravel.com/wp-content/uploads/2023/06/United_MileagePlus_logo.svg.png 1200w, https://princeoftravel.com/wp-content/uploads/2023/06/United_MileagePlus_logo.svg-300x122.png 300w, https://princeoftravel.com/wp-content/uploads/2023/06/United_MileagePlus_logo.svg-1024x417.png 1024w, https://princeoftravel.com/wp-content/uploads/2023/06/United_MileagePlus_logo.svg-768x313.png 768w, https://princeoftravel.com/wp-content/uploads/2023/06/United_MileagePlus_logo.svg-150x61.png 150w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" /></p>\n<ul>\n<li><strong>1.2</strong> cents/mile (USD)</li>\n<li><strong>1.6</strong> cents/mile (CAD)</li>\n</ul>\n<p><a href=\"https://princeoftravel.com/points-programs/united-mileageplus/\">United MileagePlus</a> is one of the weaker Star Alliance loyalty programs, which recently went through a hefty devaluation.</p>\n<p>You&#8217;re mostly better off booking Star Alliance flights with other programs, as you&#8217;ll get a much more preferable rate.</p>\n<p>On the other hand, if you can make use of the Excursionist perk, there is still some value to be found in the program.</p>\n<h2>International Airline Programs</h2>\n<h3>Air France KLM Flying Blue</h3>\n<p><img decoding=\"async\" class=\"width-25 aligncenter wp-image-39512 size-full\" src=\"https://princeoftravel.com/wp-content/uploads/2021/10/logo-flying-blue.png\" alt=\"\" width=\"202\" height=\"202\" srcset=\"https://princeoftravel.com/wp-content/uploads/2021/10/logo-flying-blue.png 202w, https://princeoftravel.com/wp-content/uploads/2021/10/logo-flying-blue-150x150.png 150w, https://princeoftravel.com/wp-content/uploads/2021/10/logo-flying-blue-100x100.png 100w\" sizes=\"(max-width: 202px) 100vw, 202px\" /></p>\n<ul>\n<li><strong>1.9</strong> cents/point (CAD) <span style=\"color: green;\">\u25b2</span></li>\n<li><strong>1.4 </strong>cents/point (USD) <span style=\"color: green;\">\u25b2</span></li>\n</ul>\n<p><a href=\"https://princeoftravel.com/points-programs/air-france-klm-flying-blue/\">Air France KLM Flying Blue</a> offers useful redemption options in otherwise underserved or hard-to-book markets, such as Bora Bora, Mauritius, or New Caledonia.</p>\n<p>It also provides Canadians with another option for booking transatlantic flights, especially with a monthly rotating selection of <a href=\"https://princeoftravel.com/deals/air-france-klm-flying-blue-promo-rewards/\">Promo Rewards</a>. You won&#8217;t find a much cheaper way to fly economy to Europe, which is a big draw to some</p>\n<p>On the other hand, carrier-imposed surcharges can get quite expensive when redeeming Flying Blue miles for premium cabins.&nbsp;</p>\n<h3>British Airways Executive Club Avios</h3>\n<p><img decoding=\"async\" class=\"width-25 aligncenter wp-image-30042 size-medium\" src=\"https://princeoftravel.com/wp-content/uploads/2020/01/British-Airways-Avios-logo-3-2-300x200.png\" alt=\"\" width=\"300\" height=\"200\" srcset=\"https://princeoftravel.com/wp-content/uploads/2020/01/British-Airways-Avios-logo-3-2-300x200.png 300w, https://princeoftravel.com/wp-content/uploads/2020/01/British-Airways-Avios-logo-3-2.png 375w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></p>\n<ul>\n<li><strong>2.0</strong>&nbsp;cents/Avios (CAD)</li>\n<li><strong>1.5</strong> cents/Avios (USD)&nbsp;</li>\n</ul>\n<p>With a unique distance-based award chart, <a href=\"/points-programs/british-airways-avios\">British Airways Executive Club</a> has a wide range of redemption sweet spots. The best example is to book <a href=\"https://princeoftravel.com/airlines/qatar-airways-qsuites/\">Qatar Airways Qsuites</a> starting at only 70,000 Avios.&nbsp;</p>\n<p>Avios are also incredibly useful for short-haul side-trips on Oneworld partners while you&#8217;re travelling internationally.</p>\n<h3>Cathay Pacific Asia Miles</h3>\n<p><img decoding=\"async\" class=\"width-25 aligncenter wp-image-17444 size-medium\" src=\"https://princeoftravel.com/wp-content/uploads/2020/07/AsiaMiles_logo-246x300.png\" alt=\"\" width=\"246\" height=\"300\" srcset=\"https://princeoftravel.com/wp-content/uploads/2020/07/AsiaMiles_logo-246x300.png 246w, https://princeoftravel.com/wp-content/uploads/2020/07/AsiaMiles_logo-768x936.png 768w, https://princeoftravel.com/wp-content/uploads/2020/07/AsiaMiles_logo.png 840w\" sizes=\"(max-width: 246px) 100vw, 246px\" /></p>\n<ul>\n<li><strong>1.6</strong>&nbsp;cents/mile (CAD) <span style=\"color: red;\">\u25bc</span></li>\n<li><strong>1.2</strong> cents/mile (USD) <span style=\"color: red;\">\u25bc</span></li>\n</ul>\n<p><a href=\"/points-programs/cathay-pacific-asia-miles\">Asia Miles</a>&#8216;s very generous routing rules and access to additional availability on Cathay Pacific&#8217;s own flights make it a good program to consider for Canadians travelling to Asia and points beyond.</p>\n<p>The program underwent a devaluation in October 2023, which resulted in increased costs for redemptions, especially in premium cabins. On the upside, award availability is better than it used to be.</p>\n<h3>Qatar Airways Privilege Club Avios</h3>\n<p><img decoding=\"async\" class=\"width-25 aligncenter wp-image-30042 size-medium\" src=\"https://princeoftravel.com/wp-content/uploads/2020/01/British-Airways-Avios-logo-3-2-300x200.png\" alt=\"\" width=\"300\" height=\"200\" srcset=\"https://princeoftravel.com/wp-content/uploads/2020/01/British-Airways-Avios-logo-3-2-300x200.png 300w, https://princeoftravel.com/wp-content/uploads/2020/01/British-Airways-Avios-logo-3-2.png 375w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></p>\n<ul>\n<li><strong>2.0</strong>&nbsp;cents/Avios (CAD)</li>\n<li><strong>1.5</strong> cents/Avios (USD)&nbsp;</li>\n</ul>\n<p>Qatar Airways Privilege Club is one of the best programs to use for booking <a href=\"https://princeoftravel.com/airlines/qatar-airways-qsuites/\">Qatar Airways Qsuites</a> and <a href=\"https://princeoftravel.com/airlines/qatar-airways-first-class/\">Qatar Airways First Class</a>.</p>\n<p>Since the points can be <a href=\"https://princeoftravel.com/guides/transferring-avios-between-accounts/\">transferred instantly to other flavours of Avios</a>, our valuation of Qatar Airways Avios is the same as British Airways Avios.</p>\n<h3>Singapore Airlines KrisFlyer</h3>\n<p><img decoding=\"async\" class=\"width-33 aligncenter wp-image-43553 size-medium\" src=\"https://princeoftravel.com/wp-content/uploads/2022/01/NicePng_singapore-airlines-logo-png_3785031-300x77.png\" alt=\"\" width=\"300\" height=\"77\" srcset=\"https://princeoftravel.com/wp-content/uploads/2022/01/NicePng_singapore-airlines-logo-png_3785031-300x77.png 300w, https://princeoftravel.com/wp-content/uploads/2022/01/NicePng_singapore-airlines-logo-png_3785031-1024x262.png 1024w, https://princeoftravel.com/wp-content/uploads/2022/01/NicePng_singapore-airlines-logo-png_3785031-768x197.png 768w, https://princeoftravel.com/wp-content/uploads/2022/01/NicePng_singapore-airlines-logo-png_3785031-600x154.png 600w, https://princeoftravel.com/wp-content/uploads/2022/01/NicePng_singapore-airlines-logo-png_3785031.png 1264w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></p>\n<ul>\n<li><strong>1.7</strong>&nbsp;cents/mile (CAD)&nbsp;</li>\n<li><strong>1.3</strong> cents/mile (USD)&nbsp;</li>\n</ul>\n<p>Singapore Airlines traditionally limits its aspirational <a href=\"https://princeoftravel.com/airlines/singapore-airlines-business-class/\">business class</a> and <a href=\"https://princeoftravel.com/airlines/singapore-airlines-first-class/\">First Class</a> redemptions to members of its own <a href=\"https://princeoftravel.com/points-programs/singapore-airlines-krisflyer/\">KrisFlyer</a> loyalty program, which makes KrisFlyer an essential program for anyone wanting to sample some of the world&#8217;s best flying experiences.</p>\n<p>However, despite the potential for incredible flight redemptions, KrisFlyer&#8217;s strict mileage expiration policy (in which miles expire on a rolling basis of three years after you&#8217;ve earned them) certainly counts against it.&nbsp;</p>\n<h2>Hotel Loyalty Programs</h2>\n<h3>Best Western Rewards</h3>\n<p><img decoding=\"async\" class=\"width-33 aligncenter wp-image-17441 size-medium\" src=\"https://princeoftravel.com/wp-content/uploads/2020/07/33670787-e1620380282535-300x71.jpg\" alt=\"\" width=\"300\" height=\"71\" srcset=\"https://princeoftravel.com/wp-content/uploads/2020/07/33670787-e1620380282535-300x71.jpg 300w, https://princeoftravel.com/wp-content/uploads/2020/07/33670787-e1620380282535-768x181.jpg 768w, https://princeoftravel.com/wp-content/uploads/2020/07/33670787-e1620380282535-1024x241.jpg 1024w, https://princeoftravel.com/wp-content/uploads/2020/07/33670787-e1620380282535.jpg 1152w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></p>\n<ul>\n<li><strong>0.8</strong> cents/point (CAD)</li>\n<li><strong>0.6</strong> cents/point (USD)</li>\n</ul>\n<p><strong>Best Western Rewards</strong> redemptions cost up to 70,000 points per night, with pricing generally reflecting the nightly cash rate.</p>\n<p>While one of Best Western&#8217;s strengths is that it often has hotels in places that other hotel chains lack coverage, an unannounced devaluation in late 2019 slashed the value of the program dramatically.</p>\n<h3>Marriott Bonvoy</h3>\n<p><img decoding=\"async\" class=\"width-33 aligncenter wp-image-17636 size-medium\" src=\"https://princeoftravel.com/wp-content/uploads/2020/07/marriott-bonvoy-logo-1-300x86.png\" alt=\"\" width=\"300\" height=\"86\" srcset=\"https://princeoftravel.com/wp-content/uploads/2020/07/marriott-bonvoy-logo-1-300x86.png 300w, https://princeoftravel.com/wp-content/uploads/2020/07/marriott-bonvoy-logo-1.png 521w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></p>\n<ul>\n<li><strong>0.8</strong> cent/point (CAD)&nbsp;</li>\n<li><strong>0.6</strong> cents/point (USD)&nbsp;</li>\n</ul>\n<p><a href=\"/points-programs/marriott-bonvoy\">Marriott Bonvoy</a> is one of the most useful hotel loyalty programs in Canada. The value in redeeming points for hotel nights is quite variable, as there are plenty of high-value and low-value opportunities. Overall, I&#8217;d say that&nbsp; 0.8 cents/point (CAD) is a reasonable target to aim for.</p>\n<p>Marriott Bonvoy points can also be <a href=\"https://princeoftravel.com/guides/transferring-marriott-bonvoy-points-into-airline-miles/\">transferred to 40+ airlines</a>, giving it some added value in terms of flexibility as well.</p>\n<h3>Hilton Honors</h3>\n<p><img decoding=\"async\" class=\"width-33 aligncenter wp-image-27056 size-full\" src=\"https://princeoftravel.com/wp-content/uploads/2021/01/hilton-honors-logo-339C632E76-seeklogo.com.png\" alt=\"\" width=\"300\" height=\"128\"></p>\n<ul>\n<li><strong>0.7</strong> cents/point (CAD)</li>\n<li><strong>0.5</strong> cents/point (USD)</li>\n</ul>\n<p><a href=\"/points-programs/hilton-honors\">Hilton Honors</a> does not publish an award chart, so each hotel&#8217;s award price point can vary based on many factors. On balance, 0.7 cents/point (CAD) is a reasonable target to aim for.</p>\n<p>In general, award redemptions at both the very lowest and highest ends of the spectrum will give you the greatest chance of maximizing your value.</p>\n<h3>IHG One Rewards</h3>\n<p><img decoding=\"async\" class=\"width-33 aligncenter wp-image-29775 size-medium\" src=\"https://princeoftravel.com/wp-content/uploads/2021/04/IHG_Hotels__Resorts_logo.svg-300x118.png\" alt=\"\" width=\"300\" height=\"118\" srcset=\"https://princeoftravel.com/wp-content/uploads/2021/04/IHG_Hotels__Resorts_logo.svg-300x118.png 300w, https://princeoftravel.com/wp-content/uploads/2021/04/IHG_Hotels__Resorts_logo.svg.png 538w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></p>\n<ul>\n<li><strong>0.5</strong> cents/point (CAD)</li>\n<li><strong>0.4</strong> cents/point (USD)</li>\n</ul>\n<p><a href=\"https://princeoftravel.com/points-programs/ihg-one-rewards/\">IHG One Rewards</a> is generally considered one of the weaker among the major hotel loyalty programs. The program uses dynamic pricing that varies frequently, and redemption price points are often devalued without notice.</p>\n<p>There are select pockets of value at the lower and higher end of the spectrum, but on average, an IHG One Rewards point is worth a fair bit less than other hotel points currencies.</p>\n<h3>World of Hyatt</h3>\n<p><img decoding=\"async\" class=\"width-25 aligncenter wp-image-30976 size-full\" src=\"https://princeoftravel.com/wp-content/uploads/2021/05/hyatt-logo.png\" alt=\"\" width=\"250\" height=\"250\" srcset=\"https://princeoftravel.com/wp-content/uploads/2021/05/hyatt-logo.png 250w, https://princeoftravel.com/wp-content/uploads/2021/05/hyatt-logo-150x150.png 150w\" sizes=\"(max-width: 250px) 100vw, 250px\" /></p>\n<ul>\n<li><strong>2</strong> cents/point (CAD)</li>\n<li><strong>1.5</strong> cents/point (USD)</li>\n</ul>\n<p><a href=\"https://princeoftravel.com/points-programs/world-of-hyatt/\">World of Hyatt</a> points are considered one of the more valuable points currencies for hotel rewards.</p>\n<p>Despite a limited global footprint, Hyatt&#8217;s hotels are impressive in quality and offer a high level of service, especially for World of Hyatt elite members.</p>\n<p>With Hyatt&#8217;s top-tier hotels costing only 45,000 World of Hyatt points per night (compared to 100,000+ points in other hotel loyalty programs), it&#8217;s no wonder Hyatt&#8217;s valuation is much higher than its peers.</p>\n<div id=\"accel-snackbar\" style=\"left: 50px; top: 50px;\">&nbsp;</div>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>This page aims to provide a valuation of the major points currencies in Canada and around the world. Valuing points currencies is a highly subjective exercise, and the value of [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 3,
+    "featured_media": 16585,
+    "parent": 0,
+    "menu_order": 36,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "page-templates/regular-pages.php",
+    "meta": {
+      "_mi_skip_tracking": false,
+      "_monsterinsights_sitenote_active": false,
+      "_monsterinsights_sitenote_note": "",
+      "_monsterinsights_sitenote_category": 0,
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_tribe_ticket_capacity": "0",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": [],
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": ""
+    },
+    "tags": [],
+    "acf": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v19.12 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Points Valuations | Prince of Travel</title>\n<meta name=\"description\" content=\"This page aims to provide a valuation of the major points currencies in Canada and around the world. Valuing points currencies is a highly subjective\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://princeoftravel.com/points-valuations/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Points Valuations | Prince of Travel\" />\n<meta property=\"og:description\" content=\"This page aims to provide a valuation of the major points currencies in Canada and around the world. Valuing points currencies is a highly subjective\" />\n<meta property=\"og:url\" content=\"https://princeoftravel.com/points-valuations/\" />\n<meta property=\"og:site_name\" content=\"Prince of Travel\" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/princeoftravel/\" />\n<meta property=\"article:modified_time\" content=\"2023-10-18T16:15:27+00:00\" />\n<meta property=\"og:image\" content=\"https://princeoftravel.com/wp-content/uploads/2020/06/ScreenShot2019-06-04at11.jpg\" />\n\t<meta property=\"og:image:width\" content=\"2079\" />\n\t<meta property=\"og:image:height\" content=\"1386\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@princeof_travel\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"16 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://princeoftravel.com/points-valuations/\",\"url\":\"https://princeoftravel.com/points-valuations/\",\"name\":\"Points Valuations | Prince of Travel\",\"isPartOf\":{\"@id\":\"https://princeoftravel.com/#website\"},\"datePublished\":\"2023-10-18T12:00:53+00:00\",\"dateModified\":\"2023-10-18T16:15:27+00:00\",\"description\":\"This page aims to provide a valuation of the major points currencies in Canada and around the world. Valuing points currencies is a highly subjective\",\"breadcrumb\":{\"@id\":\"https://princeoftravel.com/points-valuations/#breadcrumb\"},\"inLanguage\":\"en-CA\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://princeoftravel.com/points-valuations/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://princeoftravel.com/points-valuations/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://princeoftravel.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Points Valuations\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://princeoftravel.com/#website\",\"url\":\"https://princeoftravel.com/\",\"name\":\"Prince of Travel\",\"description\":\"\",\"publisher\":{\"@id\":\"https://princeoftravel.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://princeoftravel.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-CA\"},{\"@type\":\"Organization\",\"@id\":\"https://princeoftravel.com/#organization\",\"name\":\"Prince of Travel\",\"url\":\"https://princeoftravel.com/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-CA\",\"@id\":\"https://princeoftravel.com/#/schema/logo/image/\",\"url\":\"https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png\",\"contentUrl\":\"https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png\",\"width\":118,\"height\":108,\"caption\":\"Prince of Travel\"},\"image\":{\"@id\":\"https://princeoftravel.com/#/schema/logo/image/\"},\"sameAs\":[\"https://www.instagram.com/princeoftravel/\",\"https://www.youtube.com/princeoftravel\",\"https://www.facebook.com/princeoftravel/\",\"https://twitter.com/princeof_travel\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Points Valuations | Prince of Travel",
+      "description": "This page aims to provide a valuation of the major points currencies in Canada and around the world. Valuing points currencies is a highly subjective",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://princeoftravel.com/points-valuations/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "Points Valuations | Prince of Travel",
+      "og_description": "This page aims to provide a valuation of the major points currencies in Canada and around the world. Valuing points currencies is a highly subjective",
+      "og_url": "https://princeoftravel.com/points-valuations/",
+      "og_site_name": "Prince of Travel",
+      "article_publisher": "https://www.facebook.com/princeoftravel/",
+      "article_modified_time": "2023-10-18T16:15:27+00:00",
+      "og_image": [
+        {
+          "width": 2079,
+          "height": 1386,
+          "url": "https://princeoftravel.com/wp-content/uploads/2020/06/ScreenShot2019-06-04at11.jpg",
+          "type": "image/jpeg"
+        }
+      ],
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@princeof_travel",
+      "twitter_misc": { "Est. reading time": "16 minutes" },
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://princeoftravel.com/points-valuations/",
+            "url": "https://princeoftravel.com/points-valuations/",
+            "name": "Points Valuations | Prince of Travel",
+            "isPartOf": { "@id": "https://princeoftravel.com/#website" },
+            "datePublished": "2023-10-18T12:00:53+00:00",
+            "dateModified": "2023-10-18T16:15:27+00:00",
+            "description": "This page aims to provide a valuation of the major points currencies in Canada and around the world. Valuing points currencies is a highly subjective",
+            "breadcrumb": {
+              "@id": "https://princeoftravel.com/points-valuations/#breadcrumb"
+            },
+            "inLanguage": "en-CA",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": ["https://princeoftravel.com/points-valuations/"]
+              }
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://princeoftravel.com/points-valuations/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://princeoftravel.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Points Valuations"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://princeoftravel.com/#website",
+            "url": "https://princeoftravel.com/",
+            "name": "Prince of Travel",
+            "description": "",
+            "publisher": { "@id": "https://princeoftravel.com/#organization" },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://princeoftravel.com/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-CA"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://princeoftravel.com/#organization",
+            "name": "Prince of Travel",
+            "url": "https://princeoftravel.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-CA",
+              "@id": "https://princeoftravel.com/#/schema/logo/image/",
+              "url": "https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png",
+              "contentUrl": "https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png",
+              "width": 118,
+              "height": 108,
+              "caption": "Prince of Travel"
+            },
+            "image": {
+              "@id": "https://princeoftravel.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.instagram.com/princeoftravel/",
+              "https://www.youtube.com/princeoftravel",
+              "https://www.facebook.com/princeoftravel/",
+              "https://twitter.com/princeof_travel"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        { "href": "https://princeoftravel.com/wp-json/wp/v2/pages/967" }
+      ],
+      "collection": [
+        { "href": "https://princeoftravel.com/wp-json/wp/v2/pages" }
+      ],
+      "about": [
+        { "href": "https://princeoftravel.com/wp-json/wp/v2/types/page" }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/users/3"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/comments?post=967"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/pages/967/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/media/16585"
+        }
+      ],
+      "wp:attachment": [
+        { "href": "https://princeoftravel.com/wp-json/wp/v2/media?parent=967" }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/tags?post=967"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    }
+  },
+  {
+    "id": 136848,
+    "date": "2023-06-25T21:32:17",
+    "date_gmt": "2023-06-26T01:32:17",
+    "guid": { "rendered": "https://princeoftravel.com/?page_id=136848" },
+    "modified": "2023-06-26T01:52:23",
+    "modified_gmt": "2023-06-26T05:52:23",
+    "slug": "hotel-crowns-program",
+    "status": "publish",
+    "type": "page",
+    "link": "https://princeoftravel.com/hotel-crowns-program/",
+    "title": { "rendered": "Hotel Crowns Program Terms &#038; Conditions" },
+    "content": {
+      "rendered": "<p>Prince of Travel <a href=\"/membership\">Platinum Members</a> are eligible to participate in the Prince of Travel Hotel Crowns Program.</p>\n<p>Summary: After staying 10 nights at a preferred partner rate <a href=\"/book-travel\">booked with Prince of Travel</a>, members can book an 11th night free, up to the average value of the previous 10 nights.</p>\n<p>Earning Crowns:</p>\n<ul>\n<li>Only hotel stays <a href=\"/book-travel\">booked through our travel agency at our preferred partner rates</a> (e.g. Virtuoso, Marriott STARS, Hyatt Priv\u00e9, etc.) are eligible to earn and redeem Crowns.</li>\n<li>For each eligible hotel night stayed, the member earns one Crown.</li>\n<li>Each Crown has a qualifying spend attached to it, equal to the base room rate for the night, as confirmed by Prince of Travel at the time the reservation is made, excluding other charges such as taxes, fees, service charges, and incidentals.</li>\n<li>For multi-night reservations where the room rate differs between nights, each night will be valued at the average rate of all nights.</li>\n<li>Members do not earn Crowns when redeeming Crowns towards a hotel night. If a member redeems a Crown towards one night of a multi-night stay, the member will still earn Crowns on the other nights of the stay.&nbsp;</li>\n<li>Qualifying spend is tracked in US dollars. If the room rate is priced in a different currency, it will be converted to US dollars at the spot rate on the date the reservation is made.</li>\n<li>Crowns for the entire stay are deposited after Prince of Travel has received commission from the hotel for the stay, which may take up to 60 days in normal circumstances, or longer in exceptional cases.</li>\n</ul>\n<p>Redeeming Crowns:</p>\n<ul>\n<li>If a member has at least 10 Crowns in their account, they can redeem a free hotel night rebate.</li>\n<li>Crowns are only available for redemption once they have been deposited.</li>\n<li>Crowns are redeemed 10 at a time. The redemption value is equal to the average qualifying spend attached to the 10 Crowns.</li>\n<li>The redemption value can only be used to cover the base room rate for the night, as confirmed by Prince of Travel at the time the reservation is made, excluding other charges such as taxes, fees, service charges, and incidentals.</li>\n<li>For multi-night reservations where the room rate differs between nights, the base rate for each night will be calculated as the average rate of all nights.</li>\n<li>For redemption values exceeding the base rate of one room for one night, any value in excess of the base rate is forfeited.\n<ul>\n<li>The redemption value can only be used to cover one hotel night, i.e. the value of a redemption cannot be spread across more than one night on the same reservation.</li>\n<li>The redemption value can only be used to cover one room, i.e. the value of a redemption cannot be spread across more than one room on the same night. If a member books more than one room for the same night at different rates (e.g. one base-level room and one suite), the redemption will be applied to the more expensive room rate.</li>\n</ul>\n</li>\n<li>Redemptions may be used for base room rates exceeding the redemption value. In that case, the member would be rebated up to the redemption value, and then they would be responsible for bearing the remaining cost.</li>\n<li>Redemption values and room rates are calculated in US dollars. If the room rate is priced in a different currency, it will be converted to US dollars at the spot rate on the date the reservation is made.</li>\n<li>Crowns are redeemed on a first-in-first-out basis: if a member has more than 10 Crowns, the oldest 10 will be redeemed first. Members with at least 20 Crowns may elect to redeem more than one night on the same reservation. Each batch of 10 Crowns may have a different redemption value, depending on the average qualifying spend of each batch of 10 Crowns.</li>\n<li>Crowns expire one year after the date they were deposited.</li>\n<li>Crowns can only be redeemed for new reservations. They cannot be redeemed for upcoming reservations that have already been made, nor can they be applied as a credit against stays that have been completed.</li>\n<li>To make a redemption, the member must elect to do so at the time of booking, and they must inform their travel advsior in writing that they wish to do so.</li>\n<li>Members are responsible for paying for their entire hotel bill up front, either prepaid or upon check-out depending on the terms of the reservation. The free night will be distributed to the member as a rebate after Prince of Travel has received commission from the hotel for the stay, which may take up to 60 days in normal circumstances, or longer in exceptional cases. Redemption values will be converted from US dollars to the member\u2019s preferred currency at the spot rate on the date the rebate payment is initiated, and sent via a digital money transfer method:\n<ul>\n<li>USD: ACH</li>\n<li>CAD: Interac e-Transfer</li>\n<li>Also available for other currencies, at Prince of Travel\u2019s discretion</li>\n</ul>\n</li>\n</ul>\n<p>Hotel Crowns are displayed on the <a href=\"/account\">Membership dashboard</a> on the Prince of Travel website. This information may not be updated in real time.</p>\n<p>The opportunity to earn and redeem Crowns is exclusively available to Prince of Travel Platinum Members. Crowns cannot be earned on hotel nights prior to June 26, 2023, or on hotel nights stayed while the individual did not have an active Prince of Travel Platinum Membership in good standing. Individuals must be a Prince of Travel Platinum Member on or before the calendar check-in date of their reservation for any nights on the reservation to be eligible to earn Crowns. If an individual\u2019s Platinum Membership lapses or is suspended for any reason, all pending and unredeemed Crowns, and any pending rebates, are forfeited.</p>\n<p>Members can only earn and redeem Crowns on reservations booked in their own name. If a member books multiple rooms at the same property for the same night, they can earn Crowns for each room, as long as their name is attached to one of the rooms for that night.</p>\n<p>Members deemed to be abusing the Hotel Crowns Program in the sole discretion of Prince of Travel may have their participation in the program and/or their Platinum Membership suspended or terminated.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Prince of Travel Platinum Members are eligible to participate in the Prince of Travel Hotel Crowns Program. Summary: After staying 10 nights at a preferred partner rate booked with Prince [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 13,
+    "featured_media": 136256,
+    "parent": 0,
+    "menu_order": 1,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "page-templates/regular-pages.php",
+    "meta": {
+      "_mi_skip_tracking": false,
+      "_monsterinsights_sitenote_active": false,
+      "_monsterinsights_sitenote_note": "",
+      "_monsterinsights_sitenote_category": 0,
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_tribe_ticket_capacity": "",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": [],
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": ""
+    },
+    "tags": [],
+    "acf": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v19.12 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Hotel Crowns Program Terms &amp; Conditions | Prince of Travel</title>\n<meta name=\"description\" content=\"Prince of Travel Platinum Members are eligible to participate in the Prince of Travel Hotel Crowns Program. Summary: After staying 10 nights at a\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://princeoftravel.com/hotel-crowns-program/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Hotel Crowns Program Terms &amp; Conditions | Prince of Travel\" />\n<meta property=\"og:description\" content=\"Prince of Travel Platinum Members are eligible to participate in the Prince of Travel Hotel Crowns Program. Summary: After staying 10 nights at a\" />\n<meta property=\"og:url\" content=\"https://princeoftravel.com/hotel-crowns-program/\" />\n<meta property=\"og:site_name\" content=\"Prince of Travel\" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/princeoftravel/\" />\n<meta property=\"article:modified_time\" content=\"2023-06-26T05:52:23+00:00\" />\n<meta property=\"og:image\" content=\"https://princeoftravel.com/wp-content/uploads/2023/06/DSC05499-scaled.jpg\" />\n\t<meta property=\"og:image:width\" content=\"2560\" />\n\t<meta property=\"og:image:height\" content=\"1707\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@princeof_travel\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"5 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://princeoftravel.com/hotel-crowns-program/\",\"url\":\"https://princeoftravel.com/hotel-crowns-program/\",\"name\":\"Hotel Crowns Program Terms & Conditions | Prince of Travel\",\"isPartOf\":{\"@id\":\"https://princeoftravel.com/#website\"},\"datePublished\":\"2023-06-26T01:32:17+00:00\",\"dateModified\":\"2023-06-26T05:52:23+00:00\",\"description\":\"Prince of Travel Platinum Members are eligible to participate in the Prince of Travel Hotel Crowns Program. Summary: After staying 10 nights at a\",\"breadcrumb\":{\"@id\":\"https://princeoftravel.com/hotel-crowns-program/#breadcrumb\"},\"inLanguage\":\"en-CA\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://princeoftravel.com/hotel-crowns-program/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://princeoftravel.com/hotel-crowns-program/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://princeoftravel.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Hotel Crowns Program Terms &#038; Conditions\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://princeoftravel.com/#website\",\"url\":\"https://princeoftravel.com/\",\"name\":\"Prince of Travel\",\"description\":\"\",\"publisher\":{\"@id\":\"https://princeoftravel.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://princeoftravel.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-CA\"},{\"@type\":\"Organization\",\"@id\":\"https://princeoftravel.com/#organization\",\"name\":\"Prince of Travel\",\"url\":\"https://princeoftravel.com/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-CA\",\"@id\":\"https://princeoftravel.com/#/schema/logo/image/\",\"url\":\"https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png\",\"contentUrl\":\"https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png\",\"width\":118,\"height\":108,\"caption\":\"Prince of Travel\"},\"image\":{\"@id\":\"https://princeoftravel.com/#/schema/logo/image/\"},\"sameAs\":[\"https://www.instagram.com/princeoftravel/\",\"https://www.youtube.com/princeoftravel\",\"https://www.facebook.com/princeoftravel/\",\"https://twitter.com/princeof_travel\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Hotel Crowns Program Terms & Conditions | Prince of Travel",
+      "description": "Prince of Travel Platinum Members are eligible to participate in the Prince of Travel Hotel Crowns Program. Summary: After staying 10 nights at a",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://princeoftravel.com/hotel-crowns-program/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "Hotel Crowns Program Terms & Conditions | Prince of Travel",
+      "og_description": "Prince of Travel Platinum Members are eligible to participate in the Prince of Travel Hotel Crowns Program. Summary: After staying 10 nights at a",
+      "og_url": "https://princeoftravel.com/hotel-crowns-program/",
+      "og_site_name": "Prince of Travel",
+      "article_publisher": "https://www.facebook.com/princeoftravel/",
+      "article_modified_time": "2023-06-26T05:52:23+00:00",
+      "og_image": [
+        {
+          "width": 2560,
+          "height": 1707,
+          "url": "https://princeoftravel.com/wp-content/uploads/2023/06/DSC05499-scaled.jpg",
+          "type": "image/jpeg"
+        }
+      ],
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@princeof_travel",
+      "twitter_misc": { "Est. reading time": "5 minutes" },
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://princeoftravel.com/hotel-crowns-program/",
+            "url": "https://princeoftravel.com/hotel-crowns-program/",
+            "name": "Hotel Crowns Program Terms & Conditions | Prince of Travel",
+            "isPartOf": { "@id": "https://princeoftravel.com/#website" },
+            "datePublished": "2023-06-26T01:32:17+00:00",
+            "dateModified": "2023-06-26T05:52:23+00:00",
+            "description": "Prince of Travel Platinum Members are eligible to participate in the Prince of Travel Hotel Crowns Program. Summary: After staying 10 nights at a",
+            "breadcrumb": {
+              "@id": "https://princeoftravel.com/hotel-crowns-program/#breadcrumb"
+            },
+            "inLanguage": "en-CA",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": ["https://princeoftravel.com/hotel-crowns-program/"]
+              }
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://princeoftravel.com/hotel-crowns-program/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://princeoftravel.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Hotel Crowns Program Terms &#038; Conditions"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://princeoftravel.com/#website",
+            "url": "https://princeoftravel.com/",
+            "name": "Prince of Travel",
+            "description": "",
+            "publisher": { "@id": "https://princeoftravel.com/#organization" },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://princeoftravel.com/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-CA"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://princeoftravel.com/#organization",
+            "name": "Prince of Travel",
+            "url": "https://princeoftravel.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-CA",
+              "@id": "https://princeoftravel.com/#/schema/logo/image/",
+              "url": "https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png",
+              "contentUrl": "https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png",
+              "width": 118,
+              "height": 108,
+              "caption": "Prince of Travel"
+            },
+            "image": {
+              "@id": "https://princeoftravel.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.instagram.com/princeoftravel/",
+              "https://www.youtube.com/princeoftravel",
+              "https://www.facebook.com/princeoftravel/",
+              "https://twitter.com/princeof_travel"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        { "href": "https://princeoftravel.com/wp-json/wp/v2/pages/136848" }
+      ],
+      "collection": [
+        { "href": "https://princeoftravel.com/wp-json/wp/v2/pages" }
+      ],
+      "about": [
+        { "href": "https://princeoftravel.com/wp-json/wp/v2/types/page" }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/users/13"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/comments?post=136848"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/pages/136848/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/media/136256"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://princeoftravel.com/wp-json/wp/v2/media?parent=136848"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/tags?post=136848"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    }
+  },
+  {
+    "id": 132196,
+    "date": "2023-05-12T20:14:36",
+    "date_gmt": "2023-05-13T00:14:36",
+    "guid": { "rendered": "https://princeoftravel.com/?page_id=132196" },
+    "modified": "2023-05-22T01:11:11",
+    "modified_gmt": "2023-05-22T05:11:11",
+    "slug": "trains",
+    "status": "publish",
+    "type": "page",
+    "link": "https://princeoftravel.com/book-travel/trains/",
+    "title": { "rendered": "Book Trains with Prince of Travel" },
+    "content": { "rendered": "", "protected": false },
+    "excerpt": { "rendered": "", "protected": false },
+    "author": 13,
+    "featured_media": 92540,
+    "parent": 99671,
+    "menu_order": 5,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "page-templates/agency-page.php",
+    "meta": {
+      "_mi_skip_tracking": false,
+      "_monsterinsights_sitenote_active": false,
+      "_monsterinsights_sitenote_note": "",
+      "_monsterinsights_sitenote_category": 0,
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_tribe_ticket_capacity": "0",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": [],
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": ""
+    },
+    "tags": [],
+    "acf": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v19.12 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Book Trains with Prince of Travel | Prince of Travel</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://princeoftravel.com/book-travel/trains/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Book Trains with Prince of Travel | Prince of Travel\" />\n<meta property=\"og:url\" content=\"https://princeoftravel.com/book-travel/trains/\" />\n<meta property=\"og:site_name\" content=\"Prince of Travel\" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/princeoftravel/\" />\n<meta property=\"article:modified_time\" content=\"2023-05-22T05:11:11+00:00\" />\n<meta property=\"og:image\" content=\"https://princeoftravel.com/wp-content/uploads/2022/09/Rocky-Mountaineer-Vancouver-to-Banff-80.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1536\" />\n\t<meta property=\"og:image:height\" content=\"1024\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@princeof_travel\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://princeoftravel.com/book-travel/trains/\",\"url\":\"https://princeoftravel.com/book-travel/trains/\",\"name\":\"Book Trains with Prince of Travel | Prince of Travel\",\"isPartOf\":{\"@id\":\"https://princeoftravel.com/#website\"},\"datePublished\":\"2023-05-13T00:14:36+00:00\",\"dateModified\":\"2023-05-22T05:11:11+00:00\",\"breadcrumb\":{\"@id\":\"https://princeoftravel.com/book-travel/trains/#breadcrumb\"},\"inLanguage\":\"en-CA\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://princeoftravel.com/book-travel/trains/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://princeoftravel.com/book-travel/trains/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://princeoftravel.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Book with Prince of Travel\",\"item\":\"https://princeoftravel.com/book-travel/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Book Trains with Prince of Travel\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://princeoftravel.com/#website\",\"url\":\"https://princeoftravel.com/\",\"name\":\"Prince of Travel\",\"description\":\"\",\"publisher\":{\"@id\":\"https://princeoftravel.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://princeoftravel.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-CA\"},{\"@type\":\"Organization\",\"@id\":\"https://princeoftravel.com/#organization\",\"name\":\"Prince of Travel\",\"url\":\"https://princeoftravel.com/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-CA\",\"@id\":\"https://princeoftravel.com/#/schema/logo/image/\",\"url\":\"https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png\",\"contentUrl\":\"https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png\",\"width\":118,\"height\":108,\"caption\":\"Prince of Travel\"},\"image\":{\"@id\":\"https://princeoftravel.com/#/schema/logo/image/\"},\"sameAs\":[\"https://www.instagram.com/princeoftravel/\",\"https://www.youtube.com/princeoftravel\",\"https://www.facebook.com/princeoftravel/\",\"https://twitter.com/princeof_travel\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Book Trains with Prince of Travel | Prince of Travel",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://princeoftravel.com/book-travel/trains/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "Book Trains with Prince of Travel | Prince of Travel",
+      "og_url": "https://princeoftravel.com/book-travel/trains/",
+      "og_site_name": "Prince of Travel",
+      "article_publisher": "https://www.facebook.com/princeoftravel/",
+      "article_modified_time": "2023-05-22T05:11:11+00:00",
+      "og_image": [
+        {
+          "width": 1536,
+          "height": 1024,
+          "url": "https://princeoftravel.com/wp-content/uploads/2022/09/Rocky-Mountaineer-Vancouver-to-Banff-80.jpg",
+          "type": "image/jpeg"
+        }
+      ],
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@princeof_travel",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://princeoftravel.com/book-travel/trains/",
+            "url": "https://princeoftravel.com/book-travel/trains/",
+            "name": "Book Trains with Prince of Travel | Prince of Travel",
+            "isPartOf": { "@id": "https://princeoftravel.com/#website" },
+            "datePublished": "2023-05-13T00:14:36+00:00",
+            "dateModified": "2023-05-22T05:11:11+00:00",
+            "breadcrumb": {
+              "@id": "https://princeoftravel.com/book-travel/trains/#breadcrumb"
+            },
+            "inLanguage": "en-CA",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": ["https://princeoftravel.com/book-travel/trains/"]
+              }
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://princeoftravel.com/book-travel/trains/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://princeoftravel.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Book with Prince of Travel",
+                "item": "https://princeoftravel.com/book-travel/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Book Trains with Prince of Travel"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://princeoftravel.com/#website",
+            "url": "https://princeoftravel.com/",
+            "name": "Prince of Travel",
+            "description": "",
+            "publisher": { "@id": "https://princeoftravel.com/#organization" },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://princeoftravel.com/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-CA"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://princeoftravel.com/#organization",
+            "name": "Prince of Travel",
+            "url": "https://princeoftravel.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-CA",
+              "@id": "https://princeoftravel.com/#/schema/logo/image/",
+              "url": "https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png",
+              "contentUrl": "https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png",
+              "width": 118,
+              "height": 108,
+              "caption": "Prince of Travel"
+            },
+            "image": {
+              "@id": "https://princeoftravel.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.instagram.com/princeoftravel/",
+              "https://www.youtube.com/princeoftravel",
+              "https://www.facebook.com/princeoftravel/",
+              "https://twitter.com/princeof_travel"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        { "href": "https://princeoftravel.com/wp-json/wp/v2/pages/132196" }
+      ],
+      "collection": [
+        { "href": "https://princeoftravel.com/wp-json/wp/v2/pages" }
+      ],
+      "about": [
+        { "href": "https://princeoftravel.com/wp-json/wp/v2/types/page" }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/users/13"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/comments?post=132196"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/pages/132196/revisions"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/pages/99671"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/media/92540"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://princeoftravel.com/wp-json/wp/v2/media?parent=132196"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/tags?post=132196"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    }
+  },
+  {
+    "id": 962,
+    "date": "2023-04-05T14:30:53",
+    "date_gmt": "2023-04-05T18:30:53",
+    "guid": { "rendered": "http://princeoftravel.wpengine.com/?page_id=962" },
+    "modified": "2023-04-05T19:37:09",
+    "modified_gmt": "2023-04-05T23:37:09",
+    "slug": "amex-flowchart",
+    "status": "publish",
+    "type": "page",
+    "link": "https://princeoftravel.com/amex-flowchart/",
+    "title": { "rendered": "American&nbsp;Express Credit&nbsp;Card Flowchart" },
+    "content": {
+      "rendered": "<p class=\"\">American Express offers by far the most generous signup bonuses here in Canada, as well as a lucrative refer-a-friend program. By maximizing both of these points-earning techniques, you can rack up a spectacular amount of points in a short time.</p>\n<h2>American Express Credit Card Families</h2>\n<p class=\"\">The various Amex cards can be grouped into a few different \u201cfamilies\u201d. The refer-a-friend program only allows you to refer from/to the specific cards within each family.</p>\n<ul data-rte-list=\"default\">\n<li>\n<p class=\"\">The <a href=\"/american-express-business-platinum-card\" target=\"_blank\" rel=\"noopener noreferrer\">Business Platinum Card</a>, the <a href=\"/american-express-business-gold-card\" target=\"_blank\" rel=\"noopener noreferrer\">Business Gold Card</a>, the <a href=\"/american-express-business-edge-card\">Business Edge Card</a>, and the <a href=\"/credit-cards/american-express-platinum-card\">Platinum Card</a> can refer among each other (with the exceptions that the Business Edge cannot refer to the Platinum Card, and the Platinum Card can only refer to itself or to the Business Platinum)</p>\n</li>\n<li>\n<p class=\"\">The <a href=\"/american-express-aeroplan-reserve-card\">Aeroplan Reserve</a>, <a href=\"/american-express-aeroplan-business-reserve-card\">Aeroplan Business Reserve</a>, and <a href=\"/credit-cards/american-express-aeroplan-card\">Aeroplan Card</a> can refer among each other (although not from the premium cards to the core card)</p>\n</li>\n<li>\n<p class=\"\">The <a href=\"/american-express-gold-rewards-card\" target=\"_blank\" rel=\"noopener noreferrer\">Gold Rewards Card</a> and the <a href=\"/american-express-cobalt-card\" target=\"_blank\" rel=\"noopener noreferrer\">Cobalt Card</a> can refer among each other, and can also refer to the personal and business Platinum cards</p>\n</li>\n<li>\n<p class=\"\">The <a href=\"/american-express-marriott-bonvoy-card\" target=\"_blank\" rel=\"noopener noreferrer\">Bonvoy Card</a> and the <a href=\"/american-express-marriott-bonvoy-business-card\" target=\"_blank\" rel=\"noopener noreferrer\">Bonvoy Business Card</a> can refer among each other</p>\n</li>\n</ul>\n<p class=\"\">Below you\u2019ll find a comprehensive flowchart showing you the optimal strategy for applying for, and referring to, the various Amex cards, based on the specific welcome bonus and referral bonus offers on each card.</p>\n<h2>American Express Credit Card Flowchart</h2>\n<p><img decoding=\"async\" class=\"size-full wp-image-33553 aligncenter\" src=\"https://princeoftravel.com/wp-content/uploads/2021/07/Amex-Flowchart-Jul-2021-8.png\" alt=\"\" width=\"1470\" height=\"3000\" srcset=\"https://princeoftravel.com/wp-content/uploads/2021/07/Amex-Flowchart-Jul-2021-8.png 1470w, https://princeoftravel.com/wp-content/uploads/2021/07/Amex-Flowchart-Jul-2021-8-147x300.png 147w, https://princeoftravel.com/wp-content/uploads/2021/07/Amex-Flowchart-Jul-2021-8-502x1024.png 502w, https://princeoftravel.com/wp-content/uploads/2021/07/Amex-Flowchart-Jul-2021-8-768x1567.png 768w, https://princeoftravel.com/wp-content/uploads/2021/07/Amex-Flowchart-Jul-2021-8-753x1536.png 753w, https://princeoftravel.com/wp-content/uploads/2021/07/Amex-Flowchart-Jul-2021-8-1004x2048.png 1004w\" sizes=\"(max-width: 1470px) 100vw, 1470px\" /></p>\n<p class=\"\" style=\"text-align: center;\"><a href=\"https://princeoftravel.com/wp-content/uploads/2021/07/Amex-Flowchart-Jul-2021-8.png\"><em>Click here to save a copy for yourself!</em></a></p>\n<div id=\"accel-snackbar\">&nbsp;</div>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>American Express offers by far the most generous signup bonuses here in Canada, as well as a lucrative refer-a-friend program. By maximizing both of these points-earning techniques, you can rack [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 3,
+    "featured_media": 16998,
+    "parent": 0,
+    "menu_order": 28,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "page-templates/wide-pages.php",
+    "meta": {
+      "_mi_skip_tracking": false,
+      "_monsterinsights_sitenote_active": false,
+      "_monsterinsights_sitenote_note": "",
+      "_monsterinsights_sitenote_category": 0,
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_tribe_ticket_capacity": "0",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": [],
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": ""
+    },
+    "tags": [17],
+    "acf": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v19.12 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>American&nbsp;Express Credit&nbsp;Card Flowchart | Prince of Travel</title>\n<meta name=\"description\" content=\"American Express offers by far the most generous signup bonuses here in Canada, as well as a lucrative refer-a-friend program. By maximizing both of these\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://princeoftravel.com/amex-flowchart/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"American&nbsp;Express Credit&nbsp;Card Flowchart | Prince of Travel\" />\n<meta property=\"og:description\" content=\"American Express offers by far the most generous signup bonuses here in Canada, as well as a lucrative refer-a-friend program. By maximizing both of these\" />\n<meta property=\"og:url\" content=\"https://princeoftravel.com/amex-flowchart/\" />\n<meta property=\"og:site_name\" content=\"Prince of Travel\" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/princeoftravel/\" />\n<meta property=\"article:modified_time\" content=\"2023-04-05T23:37:09+00:00\" />\n<meta property=\"og:image\" content=\"https://princeoftravel.com/wp-content/uploads/2020/07/mockup-of-an-ipad-on-a-photographer-s-desk-set-up-22806.png\" />\n\t<meta property=\"og:image:width\" content=\"1920\" />\n\t<meta property=\"og:image:height\" content=\"1280\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@princeof_travel\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"2 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://princeoftravel.com/amex-flowchart/\",\"url\":\"https://princeoftravel.com/amex-flowchart/\",\"name\":\"American&nbsp;Express Credit&nbsp;Card Flowchart | Prince of Travel\",\"isPartOf\":{\"@id\":\"https://princeoftravel.com/#website\"},\"datePublished\":\"2023-04-05T18:30:53+00:00\",\"dateModified\":\"2023-04-05T23:37:09+00:00\",\"description\":\"American Express offers by far the most generous signup bonuses here in Canada, as well as a lucrative refer-a-friend program. By maximizing both of these\",\"breadcrumb\":{\"@id\":\"https://princeoftravel.com/amex-flowchart/#breadcrumb\"},\"inLanguage\":\"en-CA\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://princeoftravel.com/amex-flowchart/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://princeoftravel.com/amex-flowchart/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://princeoftravel.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"American&nbsp;Express Credit&nbsp;Card Flowchart\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://princeoftravel.com/#website\",\"url\":\"https://princeoftravel.com/\",\"name\":\"Prince of Travel\",\"description\":\"\",\"publisher\":{\"@id\":\"https://princeoftravel.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://princeoftravel.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-CA\"},{\"@type\":\"Organization\",\"@id\":\"https://princeoftravel.com/#organization\",\"name\":\"Prince of Travel\",\"url\":\"https://princeoftravel.com/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-CA\",\"@id\":\"https://princeoftravel.com/#/schema/logo/image/\",\"url\":\"https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png\",\"contentUrl\":\"https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png\",\"width\":118,\"height\":108,\"caption\":\"Prince of Travel\"},\"image\":{\"@id\":\"https://princeoftravel.com/#/schema/logo/image/\"},\"sameAs\":[\"https://www.instagram.com/princeoftravel/\",\"https://www.youtube.com/princeoftravel\",\"https://www.facebook.com/princeoftravel/\",\"https://twitter.com/princeof_travel\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "American&nbsp;Express Credit&nbsp;Card Flowchart | Prince of Travel",
+      "description": "American Express offers by far the most generous signup bonuses here in Canada, as well as a lucrative refer-a-friend program. By maximizing both of these",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://princeoftravel.com/amex-flowchart/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "American&nbsp;Express Credit&nbsp;Card Flowchart | Prince of Travel",
+      "og_description": "American Express offers by far the most generous signup bonuses here in Canada, as well as a lucrative refer-a-friend program. By maximizing both of these",
+      "og_url": "https://princeoftravel.com/amex-flowchart/",
+      "og_site_name": "Prince of Travel",
+      "article_publisher": "https://www.facebook.com/princeoftravel/",
+      "article_modified_time": "2023-04-05T23:37:09+00:00",
+      "og_image": [
+        {
+          "width": 1920,
+          "height": 1280,
+          "url": "https://princeoftravel.com/wp-content/uploads/2020/07/mockup-of-an-ipad-on-a-photographer-s-desk-set-up-22806.png",
+          "type": "image/png"
+        }
+      ],
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@princeof_travel",
+      "twitter_misc": { "Est. reading time": "2 minutes" },
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://princeoftravel.com/amex-flowchart/",
+            "url": "https://princeoftravel.com/amex-flowchart/",
+            "name": "American&nbsp;Express Credit&nbsp;Card Flowchart | Prince of Travel",
+            "isPartOf": { "@id": "https://princeoftravel.com/#website" },
+            "datePublished": "2023-04-05T18:30:53+00:00",
+            "dateModified": "2023-04-05T23:37:09+00:00",
+            "description": "American Express offers by far the most generous signup bonuses here in Canada, as well as a lucrative refer-a-friend program. By maximizing both of these",
+            "breadcrumb": {
+              "@id": "https://princeoftravel.com/amex-flowchart/#breadcrumb"
+            },
+            "inLanguage": "en-CA",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": ["https://princeoftravel.com/amex-flowchart/"]
+              }
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://princeoftravel.com/amex-flowchart/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://princeoftravel.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "American&nbsp;Express Credit&nbsp;Card Flowchart"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://princeoftravel.com/#website",
+            "url": "https://princeoftravel.com/",
+            "name": "Prince of Travel",
+            "description": "",
+            "publisher": { "@id": "https://princeoftravel.com/#organization" },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://princeoftravel.com/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-CA"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://princeoftravel.com/#organization",
+            "name": "Prince of Travel",
+            "url": "https://princeoftravel.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-CA",
+              "@id": "https://princeoftravel.com/#/schema/logo/image/",
+              "url": "https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png",
+              "contentUrl": "https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png",
+              "width": 118,
+              "height": 108,
+              "caption": "Prince of Travel"
+            },
+            "image": {
+              "@id": "https://princeoftravel.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.instagram.com/princeoftravel/",
+              "https://www.youtube.com/princeoftravel",
+              "https://www.facebook.com/princeoftravel/",
+              "https://twitter.com/princeof_travel"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        { "href": "https://princeoftravel.com/wp-json/wp/v2/pages/962" }
+      ],
+      "collection": [
+        { "href": "https://princeoftravel.com/wp-json/wp/v2/pages" }
+      ],
+      "about": [
+        { "href": "https://princeoftravel.com/wp-json/wp/v2/types/page" }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/users/3"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/comments?post=962"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/pages/962/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/media/16998"
+        }
+      ],
+      "wp:attachment": [
+        { "href": "https://princeoftravel.com/wp-json/wp/v2/media?parent=962" }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/tags?post=962"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    }
+  },
+  {
+    "id": 125976,
+    "date": "2023-03-17T12:29:59",
+    "date_gmt": "2023-03-17T16:29:59",
+    "guid": { "rendered": "https://princeoftravel.com/tickets-order/" },
+    "modified": "2023-03-17T12:29:59",
+    "modified_gmt": "2023-03-17T16:29:59",
+    "slug": "tickets-order",
+    "status": "publish",
+    "type": "page",
+    "link": "https://princeoftravel.com/tickets-order/",
+    "title": { "rendered": "Order Completed" },
+    "content": {
+      "rendered": "<p>[tec_tickets_success]</p>\n",
+      "protected": false
+    },
+    "excerpt": { "rendered": "", "protected": false },
+    "author": 13,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 2,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_mi_skip_tracking": false,
+      "_monsterinsights_sitenote_active": false,
+      "_monsterinsights_sitenote_note": "",
+      "_monsterinsights_sitenote_category": 0,
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_tribe_ticket_capacity": "0",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": [],
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": ""
+    },
+    "tags": [],
+    "acf": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v19.12 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Order Completed | Prince of Travel</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://princeoftravel.com/tickets-order/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Order Completed | Prince of Travel\" />\n<meta property=\"og:url\" content=\"https://princeoftravel.com/tickets-order/\" />\n<meta property=\"og:site_name\" content=\"Prince of Travel\" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/princeoftravel/\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@princeof_travel\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://princeoftravel.com/tickets-order/\",\"url\":\"https://princeoftravel.com/tickets-order/\",\"name\":\"Order Completed | Prince of Travel\",\"isPartOf\":{\"@id\":\"https://princeoftravel.com/#website\"},\"datePublished\":\"2023-03-17T16:29:59+00:00\",\"dateModified\":\"2023-03-17T16:29:59+00:00\",\"breadcrumb\":{\"@id\":\"https://princeoftravel.com/tickets-order/#breadcrumb\"},\"inLanguage\":\"en-CA\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://princeoftravel.com/tickets-order/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://princeoftravel.com/tickets-order/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://princeoftravel.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Order Completed\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://princeoftravel.com/#website\",\"url\":\"https://princeoftravel.com/\",\"name\":\"Prince of Travel\",\"description\":\"\",\"publisher\":{\"@id\":\"https://princeoftravel.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://princeoftravel.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-CA\"},{\"@type\":\"Organization\",\"@id\":\"https://princeoftravel.com/#organization\",\"name\":\"Prince of Travel\",\"url\":\"https://princeoftravel.com/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-CA\",\"@id\":\"https://princeoftravel.com/#/schema/logo/image/\",\"url\":\"https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png\",\"contentUrl\":\"https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png\",\"width\":118,\"height\":108,\"caption\":\"Prince of Travel\"},\"image\":{\"@id\":\"https://princeoftravel.com/#/schema/logo/image/\"},\"sameAs\":[\"https://www.instagram.com/princeoftravel/\",\"https://www.youtube.com/princeoftravel\",\"https://www.facebook.com/princeoftravel/\",\"https://twitter.com/princeof_travel\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Order Completed | Prince of Travel",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://princeoftravel.com/tickets-order/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "Order Completed | Prince of Travel",
+      "og_url": "https://princeoftravel.com/tickets-order/",
+      "og_site_name": "Prince of Travel",
+      "article_publisher": "https://www.facebook.com/princeoftravel/",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@princeof_travel",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://princeoftravel.com/tickets-order/",
+            "url": "https://princeoftravel.com/tickets-order/",
+            "name": "Order Completed | Prince of Travel",
+            "isPartOf": { "@id": "https://princeoftravel.com/#website" },
+            "datePublished": "2023-03-17T16:29:59+00:00",
+            "dateModified": "2023-03-17T16:29:59+00:00",
+            "breadcrumb": {
+              "@id": "https://princeoftravel.com/tickets-order/#breadcrumb"
+            },
+            "inLanguage": "en-CA",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": ["https://princeoftravel.com/tickets-order/"]
+              }
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://princeoftravel.com/tickets-order/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://princeoftravel.com/"
+              },
+              { "@type": "ListItem", "position": 2, "name": "Order Completed" }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://princeoftravel.com/#website",
+            "url": "https://princeoftravel.com/",
+            "name": "Prince of Travel",
+            "description": "",
+            "publisher": { "@id": "https://princeoftravel.com/#organization" },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://princeoftravel.com/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-CA"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://princeoftravel.com/#organization",
+            "name": "Prince of Travel",
+            "url": "https://princeoftravel.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-CA",
+              "@id": "https://princeoftravel.com/#/schema/logo/image/",
+              "url": "https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png",
+              "contentUrl": "https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png",
+              "width": 118,
+              "height": 108,
+              "caption": "Prince of Travel"
+            },
+            "image": {
+              "@id": "https://princeoftravel.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.instagram.com/princeoftravel/",
+              "https://www.youtube.com/princeoftravel",
+              "https://www.facebook.com/princeoftravel/",
+              "https://twitter.com/princeof_travel"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        { "href": "https://princeoftravel.com/wp-json/wp/v2/pages/125976" }
+      ],
+      "collection": [
+        { "href": "https://princeoftravel.com/wp-json/wp/v2/pages" }
+      ],
+      "about": [
+        { "href": "https://princeoftravel.com/wp-json/wp/v2/types/page" }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/users/13"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/comments?post=125976"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/pages/125976/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://princeoftravel.com/wp-json/wp/v2/media?parent=125976"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/tags?post=125976"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    }
+  },
+  {
+    "id": 125975,
+    "date": "2023-03-17T12:29:58",
+    "date_gmt": "2023-03-17T16:29:58",
+    "guid": { "rendered": "https://princeoftravel.com/tickets-checkout/" },
+    "modified": "2023-03-17T12:29:58",
+    "modified_gmt": "2023-03-17T16:29:58",
+    "slug": "tickets-checkout",
+    "status": "publish",
+    "type": "page",
+    "link": "https://princeoftravel.com/tickets-checkout/",
+    "title": { "rendered": "Tickets Checkout" },
+    "content": {
+      "rendered": "<p>[tec_tickets_checkout]</p>\n",
+      "protected": false
+    },
+    "excerpt": { "rendered": "", "protected": false },
+    "author": 13,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 3,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_mi_skip_tracking": false,
+      "_monsterinsights_sitenote_active": false,
+      "_monsterinsights_sitenote_note": "",
+      "_monsterinsights_sitenote_category": 0,
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_tribe_ticket_capacity": "0",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": [],
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": ""
+    },
+    "tags": [],
+    "acf": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v19.12 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Tickets Checkout | Prince of Travel</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://princeoftravel.com/tickets-checkout/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Tickets Checkout | Prince of Travel\" />\n<meta property=\"og:url\" content=\"https://princeoftravel.com/tickets-checkout/\" />\n<meta property=\"og:site_name\" content=\"Prince of Travel\" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/princeoftravel/\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@princeof_travel\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://princeoftravel.com/tickets-checkout/\",\"url\":\"https://princeoftravel.com/tickets-checkout/\",\"name\":\"Tickets Checkout | Prince of Travel\",\"isPartOf\":{\"@id\":\"https://princeoftravel.com/#website\"},\"datePublished\":\"2023-03-17T16:29:58+00:00\",\"dateModified\":\"2023-03-17T16:29:58+00:00\",\"breadcrumb\":{\"@id\":\"https://princeoftravel.com/tickets-checkout/#breadcrumb\"},\"inLanguage\":\"en-CA\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://princeoftravel.com/tickets-checkout/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://princeoftravel.com/tickets-checkout/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://princeoftravel.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tickets Checkout\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://princeoftravel.com/#website\",\"url\":\"https://princeoftravel.com/\",\"name\":\"Prince of Travel\",\"description\":\"\",\"publisher\":{\"@id\":\"https://princeoftravel.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://princeoftravel.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-CA\"},{\"@type\":\"Organization\",\"@id\":\"https://princeoftravel.com/#organization\",\"name\":\"Prince of Travel\",\"url\":\"https://princeoftravel.com/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-CA\",\"@id\":\"https://princeoftravel.com/#/schema/logo/image/\",\"url\":\"https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png\",\"contentUrl\":\"https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png\",\"width\":118,\"height\":108,\"caption\":\"Prince of Travel\"},\"image\":{\"@id\":\"https://princeoftravel.com/#/schema/logo/image/\"},\"sameAs\":[\"https://www.instagram.com/princeoftravel/\",\"https://www.youtube.com/princeoftravel\",\"https://www.facebook.com/princeoftravel/\",\"https://twitter.com/princeof_travel\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Tickets Checkout | Prince of Travel",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://princeoftravel.com/tickets-checkout/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "Tickets Checkout | Prince of Travel",
+      "og_url": "https://princeoftravel.com/tickets-checkout/",
+      "og_site_name": "Prince of Travel",
+      "article_publisher": "https://www.facebook.com/princeoftravel/",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@princeof_travel",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://princeoftravel.com/tickets-checkout/",
+            "url": "https://princeoftravel.com/tickets-checkout/",
+            "name": "Tickets Checkout | Prince of Travel",
+            "isPartOf": { "@id": "https://princeoftravel.com/#website" },
+            "datePublished": "2023-03-17T16:29:58+00:00",
+            "dateModified": "2023-03-17T16:29:58+00:00",
+            "breadcrumb": {
+              "@id": "https://princeoftravel.com/tickets-checkout/#breadcrumb"
+            },
+            "inLanguage": "en-CA",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": ["https://princeoftravel.com/tickets-checkout/"]
+              }
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://princeoftravel.com/tickets-checkout/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://princeoftravel.com/"
+              },
+              { "@type": "ListItem", "position": 2, "name": "Tickets Checkout" }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://princeoftravel.com/#website",
+            "url": "https://princeoftravel.com/",
+            "name": "Prince of Travel",
+            "description": "",
+            "publisher": { "@id": "https://princeoftravel.com/#organization" },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://princeoftravel.com/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-CA"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://princeoftravel.com/#organization",
+            "name": "Prince of Travel",
+            "url": "https://princeoftravel.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-CA",
+              "@id": "https://princeoftravel.com/#/schema/logo/image/",
+              "url": "https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png",
+              "contentUrl": "https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png",
+              "width": 118,
+              "height": 108,
+              "caption": "Prince of Travel"
+            },
+            "image": {
+              "@id": "https://princeoftravel.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.instagram.com/princeoftravel/",
+              "https://www.youtube.com/princeoftravel",
+              "https://www.facebook.com/princeoftravel/",
+              "https://twitter.com/princeof_travel"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        { "href": "https://princeoftravel.com/wp-json/wp/v2/pages/125975" }
+      ],
+      "collection": [
+        { "href": "https://princeoftravel.com/wp-json/wp/v2/pages" }
+      ],
+      "about": [
+        { "href": "https://princeoftravel.com/wp-json/wp/v2/types/page" }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/users/13"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/comments?post=125975"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/pages/125975/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://princeoftravel.com/wp-json/wp/v2/media?parent=125975"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/tags?post=125975"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    }
+  },
+  {
+    "id": 112128,
+    "date": "2022-11-25T13:36:20",
+    "date_gmt": "2022-11-25T18:36:20",
+    "guid": { "rendered": "https://princeoftravel.com/?page_id=112128" },
+    "modified": "2023-04-02T15:33:35",
+    "modified_gmt": "2023-04-02T19:33:35",
+    "slug": "sitemap",
+    "status": "publish",
+    "type": "page",
+    "link": "https://princeoftravel.com/sitemap/",
+    "title": { "rendered": "Sitemap" },
+    "content": {
+      "rendered": "<h2>Articles</h2>\n<ul>\n<li><a href=\"/news\">News</a></li>\n<li><a href=\"/deals\">Deals</a></li>\n<li><a href=\"/guides\">Guides</a></li>\n<li><a href=\"/reviews\">Reviews</a>\n<ul>\n<li><a href=\"/reviews/airlines\">Airlines</a></li>\n<li><a href=\"/reviews/hotels\">Hotels</a></li>\n<li><a href=\"/reviews/lounges\">Lounges</a></li>\n<li><a href=\"/reviews/trains\">Trains</a></li>\n<li><a href=\"/reviews/restaurants\">Restaurants</a></li>\n<li><a href=\"/reviews/cruises\">Cruises</a></li>\n</ul>\n</li>\n<li><a href=\"/insights\">Insights</a></li>\n<li><a href=\"/about\">About Prince of Travel</a></li>\n</ul>\n<h2>Products</h2>\n<ul>\n<li><a href=\"/thetravelsummit\">The Travel Summit</a></li>\n<li><a href=\"/book-travel\">Travel Agency</a></li>\n<li><a href=\"/membership\">Membership</a></li>\n<li><a href=\"/events\">Events</a></li>\n<li><a href=\"/consulting\">Points Consulting</a></li>\n</ul>\n<h2>Resources</h2>\n<ul>\n<li><a href=\"/credit-cards\">Credit Cards</a></li>\n<li><a href=\"/points-programs\">Points Programs</a></li>\n<li><a href=\"/best-credit-cards\">Best Credit Cards</a></li>\n<li><a href=\"/airlines\">Airline Products</a></li>\n<li><a href=\"/hotel-programs\">Hotel Programs</a></li>\n<li><a href=\"/airports\">Airports</a></li>\n<li><a href=\"/newbie-guide\">Newbie&#8217;s Guide</a></li>\n<li><a href=\"/points-valuations\">Points Valuations</a></li>\n<li><a href=\"/the-lingo\">Glossary</a></li>\n</ul>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Articles News Deals Guides Reviews Airlines Hotels Lounges Trains Restaurants Cruises Insights About Prince of Travel Products The Travel Summit Travel Agency Membership Events Points Consulting Resources Credit Cards Points [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 13,
+    "featured_media": 50062,
+    "parent": 0,
+    "menu_order": 4,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "page-templates/regular-pages.php",
+    "meta": {
+      "_mi_skip_tracking": false,
+      "_monsterinsights_sitenote_active": false,
+      "_monsterinsights_sitenote_note": "",
+      "_monsterinsights_sitenote_category": 0,
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_tribe_ticket_capacity": "0",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": [],
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": ""
+    },
+    "tags": [],
+    "acf": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v19.12 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Sitemap | Prince of Travel</title>\n<meta name=\"description\" content=\"Articles News Deals Guides Reviews Airlines Hotels Lounges Trains Restaurants Cruises Insights About Prince of Travel Products The Travel Summit Travel\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://princeoftravel.com/sitemap/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Sitemap | Prince of Travel\" />\n<meta property=\"og:description\" content=\"Articles News Deals Guides Reviews Airlines Hotels Lounges Trains Restaurants Cruises Insights About Prince of Travel Products The Travel Summit Travel\" />\n<meta property=\"og:url\" content=\"https://princeoftravel.com/sitemap/\" />\n<meta property=\"og:site_name\" content=\"Prince of Travel\" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/princeoftravel/\" />\n<meta property=\"article:modified_time\" content=\"2023-04-02T19:33:35+00:00\" />\n<meta property=\"og:image\" content=\"https://princeoftravel.com/wp-content/uploads/2022/03/NewLookBanner2.png\" />\n\t<meta property=\"og:image:width\" content=\"2000\" />\n\t<meta property=\"og:image:height\" content=\"1333\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@princeof_travel\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://princeoftravel.com/sitemap/\",\"url\":\"https://princeoftravel.com/sitemap/\",\"name\":\"Sitemap | Prince of Travel\",\"isPartOf\":{\"@id\":\"https://princeoftravel.com/#website\"},\"datePublished\":\"2022-11-25T18:36:20+00:00\",\"dateModified\":\"2023-04-02T19:33:35+00:00\",\"description\":\"Articles News Deals Guides Reviews Airlines Hotels Lounges Trains Restaurants Cruises Insights About Prince of Travel Products The Travel Summit Travel\",\"breadcrumb\":{\"@id\":\"https://princeoftravel.com/sitemap/#breadcrumb\"},\"inLanguage\":\"en-CA\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://princeoftravel.com/sitemap/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://princeoftravel.com/sitemap/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://princeoftravel.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Sitemap\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://princeoftravel.com/#website\",\"url\":\"https://princeoftravel.com/\",\"name\":\"Prince of Travel\",\"description\":\"\",\"publisher\":{\"@id\":\"https://princeoftravel.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://princeoftravel.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-CA\"},{\"@type\":\"Organization\",\"@id\":\"https://princeoftravel.com/#organization\",\"name\":\"Prince of Travel\",\"url\":\"https://princeoftravel.com/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-CA\",\"@id\":\"https://princeoftravel.com/#/schema/logo/image/\",\"url\":\"https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png\",\"contentUrl\":\"https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png\",\"width\":118,\"height\":108,\"caption\":\"Prince of Travel\"},\"image\":{\"@id\":\"https://princeoftravel.com/#/schema/logo/image/\"},\"sameAs\":[\"https://www.instagram.com/princeoftravel/\",\"https://www.youtube.com/princeoftravel\",\"https://www.facebook.com/princeoftravel/\",\"https://twitter.com/princeof_travel\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Sitemap | Prince of Travel",
+      "description": "Articles News Deals Guides Reviews Airlines Hotels Lounges Trains Restaurants Cruises Insights About Prince of Travel Products The Travel Summit Travel",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://princeoftravel.com/sitemap/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "Sitemap | Prince of Travel",
+      "og_description": "Articles News Deals Guides Reviews Airlines Hotels Lounges Trains Restaurants Cruises Insights About Prince of Travel Products The Travel Summit Travel",
+      "og_url": "https://princeoftravel.com/sitemap/",
+      "og_site_name": "Prince of Travel",
+      "article_publisher": "https://www.facebook.com/princeoftravel/",
+      "article_modified_time": "2023-04-02T19:33:35+00:00",
+      "og_image": [
+        {
+          "width": 2000,
+          "height": 1333,
+          "url": "https://princeoftravel.com/wp-content/uploads/2022/03/NewLookBanner2.png",
+          "type": "image/png"
+        }
+      ],
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@princeof_travel",
+      "twitter_misc": { "Est. reading time": "1 minute" },
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://princeoftravel.com/sitemap/",
+            "url": "https://princeoftravel.com/sitemap/",
+            "name": "Sitemap | Prince of Travel",
+            "isPartOf": { "@id": "https://princeoftravel.com/#website" },
+            "datePublished": "2022-11-25T18:36:20+00:00",
+            "dateModified": "2023-04-02T19:33:35+00:00",
+            "description": "Articles News Deals Guides Reviews Airlines Hotels Lounges Trains Restaurants Cruises Insights About Prince of Travel Products The Travel Summit Travel",
+            "breadcrumb": {
+              "@id": "https://princeoftravel.com/sitemap/#breadcrumb"
+            },
+            "inLanguage": "en-CA",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": ["https://princeoftravel.com/sitemap/"]
+              }
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://princeoftravel.com/sitemap/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://princeoftravel.com/"
+              },
+              { "@type": "ListItem", "position": 2, "name": "Sitemap" }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://princeoftravel.com/#website",
+            "url": "https://princeoftravel.com/",
+            "name": "Prince of Travel",
+            "description": "",
+            "publisher": { "@id": "https://princeoftravel.com/#organization" },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://princeoftravel.com/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-CA"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://princeoftravel.com/#organization",
+            "name": "Prince of Travel",
+            "url": "https://princeoftravel.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-CA",
+              "@id": "https://princeoftravel.com/#/schema/logo/image/",
+              "url": "https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png",
+              "contentUrl": "https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png",
+              "width": 118,
+              "height": 108,
+              "caption": "Prince of Travel"
+            },
+            "image": {
+              "@id": "https://princeoftravel.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.instagram.com/princeoftravel/",
+              "https://www.youtube.com/princeoftravel",
+              "https://www.facebook.com/princeoftravel/",
+              "https://twitter.com/princeof_travel"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        { "href": "https://princeoftravel.com/wp-json/wp/v2/pages/112128" }
+      ],
+      "collection": [
+        { "href": "https://princeoftravel.com/wp-json/wp/v2/pages" }
+      ],
+      "about": [
+        { "href": "https://princeoftravel.com/wp-json/wp/v2/types/page" }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/users/13"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/comments?post=112128"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/pages/112128/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/media/50062"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://princeoftravel.com/wp-json/wp/v2/media?parent=112128"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/tags?post=112128"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    }
+  },
+  {
+    "id": 105110,
+    "date": "2022-10-30T09:23:34",
+    "date_gmt": "2022-10-30T13:23:34",
+    "guid": { "rendered": "https://princeoftravel.com/?page_id=105110" },
+    "modified": "2022-10-30T15:03:58",
+    "modified_gmt": "2022-10-30T19:03:58",
+    "slug": "concierge",
+    "status": "publish",
+    "type": "page",
+    "link": "https://princeoftravel.com/concierge/",
+    "title": { "rendered": "Concierge" },
+    "content": { "rendered": "", "protected": false },
+    "excerpt": { "rendered": "", "protected": false },
+    "author": 13,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 7,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "page-templates/concierge-page.php",
+    "meta": {
+      "_mi_skip_tracking": false,
+      "_monsterinsights_sitenote_active": false,
+      "_monsterinsights_sitenote_note": "",
+      "_monsterinsights_sitenote_category": 0,
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_tribe_ticket_capacity": "0",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": [],
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": ""
+    },
+    "tags": [],
+    "acf": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v19.12 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Concierge | Prince of Travel</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://princeoftravel.com/concierge/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Concierge | Prince of Travel\" />\n<meta property=\"og:url\" content=\"https://princeoftravel.com/concierge/\" />\n<meta property=\"og:site_name\" content=\"Prince of Travel\" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/princeoftravel/\" />\n<meta property=\"article:modified_time\" content=\"2022-10-30T19:03:58+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@princeof_travel\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://princeoftravel.com/concierge/\",\"url\":\"https://princeoftravel.com/concierge/\",\"name\":\"Concierge | Prince of Travel\",\"isPartOf\":{\"@id\":\"https://princeoftravel.com/#website\"},\"datePublished\":\"2022-10-30T13:23:34+00:00\",\"dateModified\":\"2022-10-30T19:03:58+00:00\",\"breadcrumb\":{\"@id\":\"https://princeoftravel.com/concierge/#breadcrumb\"},\"inLanguage\":\"en-CA\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://princeoftravel.com/concierge/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://princeoftravel.com/concierge/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://princeoftravel.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Concierge\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://princeoftravel.com/#website\",\"url\":\"https://princeoftravel.com/\",\"name\":\"Prince of Travel\",\"description\":\"\",\"publisher\":{\"@id\":\"https://princeoftravel.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://princeoftravel.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-CA\"},{\"@type\":\"Organization\",\"@id\":\"https://princeoftravel.com/#organization\",\"name\":\"Prince of Travel\",\"url\":\"https://princeoftravel.com/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-CA\",\"@id\":\"https://princeoftravel.com/#/schema/logo/image/\",\"url\":\"https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png\",\"contentUrl\":\"https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png\",\"width\":118,\"height\":108,\"caption\":\"Prince of Travel\"},\"image\":{\"@id\":\"https://princeoftravel.com/#/schema/logo/image/\"},\"sameAs\":[\"https://www.instagram.com/princeoftravel/\",\"https://www.youtube.com/princeoftravel\",\"https://www.facebook.com/princeoftravel/\",\"https://twitter.com/princeof_travel\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Concierge | Prince of Travel",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://princeoftravel.com/concierge/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "Concierge | Prince of Travel",
+      "og_url": "https://princeoftravel.com/concierge/",
+      "og_site_name": "Prince of Travel",
+      "article_publisher": "https://www.facebook.com/princeoftravel/",
+      "article_modified_time": "2022-10-30T19:03:58+00:00",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@princeof_travel",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://princeoftravel.com/concierge/",
+            "url": "https://princeoftravel.com/concierge/",
+            "name": "Concierge | Prince of Travel",
+            "isPartOf": { "@id": "https://princeoftravel.com/#website" },
+            "datePublished": "2022-10-30T13:23:34+00:00",
+            "dateModified": "2022-10-30T19:03:58+00:00",
+            "breadcrumb": {
+              "@id": "https://princeoftravel.com/concierge/#breadcrumb"
+            },
+            "inLanguage": "en-CA",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": ["https://princeoftravel.com/concierge/"]
+              }
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://princeoftravel.com/concierge/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://princeoftravel.com/"
+              },
+              { "@type": "ListItem", "position": 2, "name": "Concierge" }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://princeoftravel.com/#website",
+            "url": "https://princeoftravel.com/",
+            "name": "Prince of Travel",
+            "description": "",
+            "publisher": { "@id": "https://princeoftravel.com/#organization" },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://princeoftravel.com/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-CA"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://princeoftravel.com/#organization",
+            "name": "Prince of Travel",
+            "url": "https://princeoftravel.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-CA",
+              "@id": "https://princeoftravel.com/#/schema/logo/image/",
+              "url": "https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png",
+              "contentUrl": "https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png",
+              "width": 118,
+              "height": 108,
+              "caption": "Prince of Travel"
+            },
+            "image": {
+              "@id": "https://princeoftravel.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.instagram.com/princeoftravel/",
+              "https://www.youtube.com/princeoftravel",
+              "https://www.facebook.com/princeoftravel/",
+              "https://twitter.com/princeof_travel"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        { "href": "https://princeoftravel.com/wp-json/wp/v2/pages/105110" }
+      ],
+      "collection": [
+        { "href": "https://princeoftravel.com/wp-json/wp/v2/pages" }
+      ],
+      "about": [
+        { "href": "https://princeoftravel.com/wp-json/wp/v2/types/page" }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/users/13"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/comments?post=105110"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/pages/105110/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://princeoftravel.com/wp-json/wp/v2/media?parent=105110"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/tags?post=105110"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    }
+  },
+  {
+    "id": 99671,
+    "date": "2022-10-14T17:33:16",
+    "date_gmt": "2022-10-14T21:33:16",
+    "guid": { "rendered": "https://princeoftravel.com/?page_id=99671" },
+    "modified": "2023-10-11T09:05:09",
+    "modified_gmt": "2023-10-11T13:05:09",
+    "slug": "book-travel",
+    "status": "publish",
+    "type": "page",
+    "link": "https://princeoftravel.com/book-travel/",
+    "title": { "rendered": "Book with Prince of Travel" },
+    "content": { "rendered": "", "protected": false },
+    "excerpt": { "rendered": "", "protected": false },
+    "author": 13,
+    "featured_media": 95494,
+    "parent": 0,
+    "menu_order": 6,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "page-templates/agency-page.php",
+    "meta": {
+      "_mi_skip_tracking": false,
+      "_monsterinsights_sitenote_active": false,
+      "_monsterinsights_sitenote_note": "",
+      "_monsterinsights_sitenote_category": 0,
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_tribe_ticket_capacity": "0",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": [],
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": ""
+    },
+    "tags": [],
+    "acf": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v19.12 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Book with Prince of Travel | Prince of Travel</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://princeoftravel.com/book-travel/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Book with Prince of Travel | Prince of Travel\" />\n<meta property=\"og:url\" content=\"https://princeoftravel.com/book-travel/\" />\n<meta property=\"og:site_name\" content=\"Prince of Travel\" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/princeoftravel/\" />\n<meta property=\"article:modified_time\" content=\"2023-10-11T13:05:09+00:00\" />\n<meta property=\"og:image\" content=\"https://princeoftravel.com/wp-content/uploads/2022/10/Park-Hyatt-Kyoto-24.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1536\" />\n\t<meta property=\"og:image:height\" content=\"1024\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@princeof_travel\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://princeoftravel.com/book-travel/\",\"url\":\"https://princeoftravel.com/book-travel/\",\"name\":\"Book with Prince of Travel | Prince of Travel\",\"isPartOf\":{\"@id\":\"https://princeoftravel.com/#website\"},\"datePublished\":\"2022-10-14T21:33:16+00:00\",\"dateModified\":\"2023-10-11T13:05:09+00:00\",\"breadcrumb\":{\"@id\":\"https://princeoftravel.com/book-travel/#breadcrumb\"},\"inLanguage\":\"en-CA\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://princeoftravel.com/book-travel/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://princeoftravel.com/book-travel/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://princeoftravel.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Book with Prince of Travel\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://princeoftravel.com/#website\",\"url\":\"https://princeoftravel.com/\",\"name\":\"Prince of Travel\",\"description\":\"\",\"publisher\":{\"@id\":\"https://princeoftravel.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://princeoftravel.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-CA\"},{\"@type\":\"Organization\",\"@id\":\"https://princeoftravel.com/#organization\",\"name\":\"Prince of Travel\",\"url\":\"https://princeoftravel.com/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-CA\",\"@id\":\"https://princeoftravel.com/#/schema/logo/image/\",\"url\":\"https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png\",\"contentUrl\":\"https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png\",\"width\":118,\"height\":108,\"caption\":\"Prince of Travel\"},\"image\":{\"@id\":\"https://princeoftravel.com/#/schema/logo/image/\"},\"sameAs\":[\"https://www.instagram.com/princeoftravel/\",\"https://www.youtube.com/princeoftravel\",\"https://www.facebook.com/princeoftravel/\",\"https://twitter.com/princeof_travel\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Book with Prince of Travel | Prince of Travel",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://princeoftravel.com/book-travel/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "Book with Prince of Travel | Prince of Travel",
+      "og_url": "https://princeoftravel.com/book-travel/",
+      "og_site_name": "Prince of Travel",
+      "article_publisher": "https://www.facebook.com/princeoftravel/",
+      "article_modified_time": "2023-10-11T13:05:09+00:00",
+      "og_image": [
+        {
+          "width": 1536,
+          "height": 1024,
+          "url": "https://princeoftravel.com/wp-content/uploads/2022/10/Park-Hyatt-Kyoto-24.jpg",
+          "type": "image/jpeg"
+        }
+      ],
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@princeof_travel",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://princeoftravel.com/book-travel/",
+            "url": "https://princeoftravel.com/book-travel/",
+            "name": "Book with Prince of Travel | Prince of Travel",
+            "isPartOf": { "@id": "https://princeoftravel.com/#website" },
+            "datePublished": "2022-10-14T21:33:16+00:00",
+            "dateModified": "2023-10-11T13:05:09+00:00",
+            "breadcrumb": {
+              "@id": "https://princeoftravel.com/book-travel/#breadcrumb"
+            },
+            "inLanguage": "en-CA",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": ["https://princeoftravel.com/book-travel/"]
+              }
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://princeoftravel.com/book-travel/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://princeoftravel.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Book with Prince of Travel"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://princeoftravel.com/#website",
+            "url": "https://princeoftravel.com/",
+            "name": "Prince of Travel",
+            "description": "",
+            "publisher": { "@id": "https://princeoftravel.com/#organization" },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://princeoftravel.com/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-CA"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://princeoftravel.com/#organization",
+            "name": "Prince of Travel",
+            "url": "https://princeoftravel.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-CA",
+              "@id": "https://princeoftravel.com/#/schema/logo/image/",
+              "url": "https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png",
+              "contentUrl": "https://princeoftravel.com/wp-content/uploads/2020/07/headerlogo.png",
+              "width": 118,
+              "height": 108,
+              "caption": "Prince of Travel"
+            },
+            "image": {
+              "@id": "https://princeoftravel.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.instagram.com/princeoftravel/",
+              "https://www.youtube.com/princeoftravel",
+              "https://www.facebook.com/princeoftravel/",
+              "https://twitter.com/princeof_travel"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        { "href": "https://princeoftravel.com/wp-json/wp/v2/pages/99671" }
+      ],
+      "collection": [
+        { "href": "https://princeoftravel.com/wp-json/wp/v2/pages" }
+      ],
+      "about": [
+        { "href": "https://princeoftravel.com/wp-json/wp/v2/types/page" }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/users/13"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/comments?post=99671"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/pages/99671/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/media/95494"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://princeoftravel.com/wp-json/wp/v2/media?parent=99671"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://princeoftravel.com/wp-json/wp/v2/tags?post=99671"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    }
+  }
+]
