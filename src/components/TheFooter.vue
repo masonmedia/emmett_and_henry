@@ -3,9 +3,10 @@
         <div id="footer" class="container-fluid p-0">
             <div class="row p-5 bg-dark text-light">
                 <div class="col-lg-3 col-md-6 top-center">
-          <h1 style="font-family: Montserrat;
+          <!--<h1 style="font-family: Montserrat;
     letter-spacing: -34px;
-    font-size: 25vmin; line-height: 90%" class="fw-bold mb-0 pb-2">e&h</h1>
+    font-size: 25vmin; line-height: 90%" class="fw-bold mb-0 pb-2">e&h</h1>-->
+        <img class="m-0" style="width: 300px; height: auto;" :src="getImageUrlSubfolder('logos', 'eh_dark_crop', 'png')" alt="e&h logo" />
 
                 </div>
 
@@ -38,6 +39,8 @@
 
 <script setup>
 import { useRoute, useRouter } from "vue-router";
+import { getImageUrl, getImageUrlSubfolder } from '../js/imageUtils'
+
 const location = useRoute();
 const router = useRouter();
 
