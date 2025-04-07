@@ -30,14 +30,14 @@ const getImageUrlSubfolder = (subfolder, name, extension) => {
 </script>
 
 <template>
-  <main>
+  <main class="overflow-x-hidden">
   <TheNav/>
 
     <div class="container-fluid px-0">
 
       <div class="row m-0" style="min-height: 700px">
         <div class="col-lg-12 d-flex flex-column justify-content-center align-items-center text-center p-5">
-          <img class="rounded-4 mt-5" style="width: 300px; height: auto" :src="getImageUrlSubfolder('logos','eh_white1_crop','png')" alt="">
+          <img class="rounded-4 mt-4" style="width: 300px; height: auto" :src="getImageUrlSubfolder('logos','eh_dark_light1_crop','png')" alt="">
          <!-- <h1 style="font-family: Montserrat;
     letter-spacing: -34px;
     font-size: 45vmin; line-height: 90%" class="fw-bold mb-0 pb-2">e&h</h1>-->

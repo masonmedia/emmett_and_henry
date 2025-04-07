@@ -7,8 +7,17 @@
 
 body {
     font-family: 'Inter', Arial, Helvetica, sans-serif;
-    overflow-x: hidden;
 }
+
+main {
+    position: relative;
+    width: 100%;
+    overflow-x: hidden;
+  }
+
+  .container-fluid {
+    max-width: 100%;
+  }
 
 h1, h2, h3, h4 {
     font-family: 'Inter', Arial, Helvetica, sans-serif;
