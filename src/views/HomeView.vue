@@ -6,6 +6,7 @@ import TheModal from '../components/TheModal.vue'
 import TheButton from '../components/TheButton.vue'
 import ButtonGroup from '../components/ButtonGroup.vue'
 // where 'name' is the actual name of the file, and 'ext' is the extension
+
 // i.e. myjpg.jpg
 // Function to dynamically get image URLs from the assets folder
 const getImageUrl = (name, extension) => {
@@ -27,6 +28,10 @@ const getImageUrlSubfolder = (subfolder, name, extension) => {
     return '' // Return empty string if image fails to load
   }
 }
+
+import { ref } from 'vue'
+
+const imageLoaded = ref(false)
 </script>
 
 <template>
@@ -37,10 +42,13 @@ const getImageUrlSubfolder = (subfolder, name, extension) => {
 
       <div class="row m-0" style="min-height: 700px">
         <div class="col-lg-12 d-flex flex-column justify-content-center align-items-center text-center p-5">
-          <img class="rounded-4 mt-4" style="width: 300px; height: auto" :src="getImageUrlSubfolder('logos','eh_dark_light1_crop','png')" alt="">
-         <!-- <h1 style="font-family: Montserrat;
+
+          <!--<img class="rounded-4 mt-4" style="" :src="getImageUrlSubfolder('logos','eh_museo_light1','png')" alt="">-->
+         <img class="rounded-4 mt-4" style="width: 400px; height: auto" :src="getImageUrlSubfolder('logos','eh_dark_light1_crop','png')" alt="">
+         
+         <!--<h1 style="
     letter-spacing: -34px;
-    font-size: 45vmin; line-height: 90%" class="fw-bold mb-0 pb-2">e&h</h1>-->
+    font-size: 45vmin; line-height: 90%" class="text-museo fw-bold mb-0 pb-2">e<span class="text-secondary">&</span>h</h1>-->
           <h3 class="ls-base fw-bold text-dark pb-3">Custom furniture and wood products made in Canada.</h3>
           <div class="d-flex">
             <TheButton
@@ -72,15 +80,48 @@ const getImageUrlSubfolder = (subfolder, name, extension) => {
           <ButtonGroup />
         </div>
         <div class="col-lg-3 col-md-6 mb-3">
-          <img class="w-100 h-100 rounded-4" style="object-fit: cover;
-  background: linear-gradient(45deg, #f4a261, transparent),
-    linear-gradient(-45deg, #e76f51, transparent),
-    linear-gradient(90deg, #8ab17d, transparent),
-    linear-gradient(0deg, #d62828, #023047);
-" :src="getImageUrlSubfolder('benches','bench2','jpg')" alt="">
+        <!-- new image lazy load component -->
+        <div class="position-relative w-100 h-100">
+          <div 
+            class="position-absolute w-100 h-100 bg-light rounded-4 d-flex justify-content-center align-items-center"
+            :class="{ 'd-none': imageLoaded }"
+          >
+            <div class="spinner-border text-secondary" role="status">
+              <span class="visually-hidden">Loading...</span>
+            </div>
+          </div>
+          <img 
+            class="w-100 h-100 rounded-4" 
+            style="object-fit: cover;" 
+            loading="lazy"
+            :src="getImageUrlSubfolder('benches','bench2','jpg')" 
+            alt=""
+            @load="imageLoaded = true"
+          >
+        </div>
+  <!--end lazy load -->
         </div>
         <div class="col-lg-3 col-md-6 mb-3">
-          <img class="w-100 h-100 rounded-4" style="object-fit: cover; --lqip:-776357" :src="getImageUrlSubfolder('benches','bench3','jpg')" alt="">
+        
+
+          <div class="position-relative w-100 h-100">
+          <div 
+            class="position-absolute w-100 h-100 bg-light rounded-4 d-flex justify-content-center align-items-center"
+            :class="{ 'd-none': imageLoaded }"
+          >
+            <div class="spinner-border text-secondary" role="status">
+              <span class="visually-hidden">Loading...</span>
+            </div>
+          </div>
+          <img 
+            class="w-100 h-100 rounded-4" 
+            style="object-fit: cover;" 
+            loading="lazy"
+            :src="getImageUrlSubfolder('benches','bench3','jpg')" 
+            alt=""
+            @load="imageLoaded = true"
+          >
+        </div>
         </div>
         <div class="col-lg-3 col-md-6 mb-3">
           <img class="w-100 h-100 rounded-4" style="object-fit: cover;" :src="getImageUrlSubfolder('benches','bench7','jpg')" alt="">
@@ -144,7 +185,17 @@ const getImageUrlSubfolder = (subfolder, name, extension) => {
           <p class="fs-5 py-3">What began as an effort to creatively use scrap lumber grew into a fun and creative project for my own kids. Incorporating square, rectangle, triangle, column, and house shapes, larger block sizes, and natural, unfinished pine, this building block set is perfect for infants to preschoolers.</p>
           <ButtonGroup />
         </div>
-        <div class="col-lg-12 px-4 pt-4 min-vh-75" :style="{'background' : 'url('+ getImageUrl('eh_blocks_selection','jpeg') +') center', 'background-size' : 'cover'}">
+        <div class="col-lg-3 col-md-6 mb-3">
+          <img class="w-100 h-100 rounded-4" style="object-fit: cover;" :src="getImageUrlSubfolder('blocks','eh_blocks_selection','jpeg')" alt="">
+        </div>
+        <div class="col-lg-3 col-md-6 mb-3">
+          <img class="w-100 h-100 rounded-4" style="object-fit: cover;" :src="getImageUrlSubfolder('blocks','eh_blocks_selection2','jpeg')" alt="">
+        </div>
+        <div class="col-lg-3 col-md-6 mb-3">
+          <img class="w-100 h-100 rounded-4" style="object-fit: cover;" :src="getImageUrlSubfolder('blocks','eh_blocks_shape','jpeg')" alt="">
+        </div>
+        <div class="col-lg-3 col-md-6 mb-3">
+          <img class="w-100 h-100 rounded-4" style="object-fit: cover;" :src="getImageUrlSubfolder('blocks','eh_blocks_box','jpg')" alt="">
         </div>
       </div>
 

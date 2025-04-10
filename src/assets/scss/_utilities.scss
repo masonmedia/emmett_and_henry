@@ -5,3 +5,15 @@
 .min-vh-75 {
     min-height: 75vh;
 }
+
+.image-crop {
+    width: 500px;
+    height: 450px;
+    overflow: hidden; /* Ensures the image is cropped */
+  }
+  
+  .image-crop img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Crops the image to fill the container while maintaining aspect ratio */
+  }
