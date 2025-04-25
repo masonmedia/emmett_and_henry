@@ -66,7 +66,7 @@ const imageLoaded = ref(false)
       </div>
       
       <div class="row m-0">
-          <div class="col-lg-12 px-4 pt-4 min-vh-75" :style="{'background' : 'url('+ getImageUrl('eh_blocks_shape','jpeg') +') center', 'background-size' : 'cover'}">
+          <div class="col-lg-12 px-4 pt-4 min-vh-75" :style="{'background' : 'url('+ getImageUrlSubfolder('blocks','eh_blocks_shape','jpeg') +') center', 'background-size' : 'cover'}">
         </div>
        
       </div>
@@ -159,8 +159,8 @@ const imageLoaded = ref(false)
 
       <div id="beds" class="row m-0 pt-2">
         <div class="col-lg-8 offset-lg-2 min-vh-75 d-flex flex-column justify-content-center align-items-start align-items-lg-center text-start text-lg-center p-5">
-          <h2 class="display-3 fw-900 ls-1 lh-1">Beds</h2>
-          <p class="fs-5 py-3">We currently have two bed models, a house-frame style, single mattress floor bed with roofline, and a bunkbed. Both are made with construction quality lumber (2x6, 2x4, 2x3, and 1x4 knotty pine), structural fasteners and construction screws, and are built to last: think 2 boys swinging, hanging, jumping, climbing, traversing, launching, and otherwise doing their best to shred it to pieces. Frames are modular, assembled on-site, and fit standard twin mattresses. Beds come unstained but can be customized with a variety of colours and finishes.</p>
+          <h2 class="display-3 fw-900 ls-1 lh-1">Kids Beds</h2>
+          <p class="fs-5 py-3">We currently have two bed frame models, a house-frame style, single mattress floor bed with roofline, and a bunkbed. Both are made with dimensional lumber (2x6, 2x4, 2x3, and 1x4 knotty pine), structural fasteners and construction screws, and are built to last: think 2 boys swinging, hanging, jumping, climbing, traversing, launching, and otherwise doing their best to shred it to pieces. Frames are modular, assembled on-site, and fit standard twin mattresses. Beds come unstained.</p>
           <ButtonGroup />
         </div>
         <div class="col-lg-3 col-md-6 mb-3">
@@ -290,7 +290,7 @@ const imageLoaded = ref(false)
               Learn more
             </TheButton>
         </div>
-        <div class="col-lg-12 px-4 pt-4 min-vh-75" :style="{'background' : 'url('+ getImageUrl('eh_blocks_selection2','jpeg') +') center', 'background-size' : 'cover'}">
+        <div class="col-lg-12 px-4 pt-4 min-vh-75" :style="{'background' : 'url('+ getImageUrlSubfolder('blocks','eh_blocks_selection2','jpeg') +') center', 'background-size' : 'cover'}">
         </div>
       </div>
 
