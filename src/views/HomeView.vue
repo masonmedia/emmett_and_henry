@@ -94,7 +94,7 @@ const imageLoaded = ref(false)
             class="w-100 h-100 rounded-4" 
             style="object-fit: cover;" 
             loading="lazy"
-            :src="getImageUrlSubfolder('benches','bench2','jpg')" 
+            :src="getImageUrlSubfolder('benches','cedar4','jpg')" 
             alt=""
             @load="imageLoaded = true"
           >
