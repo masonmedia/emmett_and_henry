@@ -15,10 +15,13 @@
                         <a href="https://www.etsy.com/ca/shop/EmmettAndHenryCo" target="_blank">
                             <li class="nav-item">Etsy</li>
                         </a>
+                        <a href="https://www.instagram.com/emmettandhenrywoodworks/" target="_blank">
+                            <li class="nav-item">Instagram</li>
+                        </a>
                         <a href="https://www.facebook.com/profile.php?id=61568463073233" target="_blank">
                             <li class="nav-item">Facebook</li>
                         </a>
-                        <a href="mailto:emmettandhenrywoodworking@gmail.com" target="_blank">
+                        <a href="mailto:emmettandhenrywoodworks@gmail.com" target="_blank">
                             <li class="nav-item">Contact</li>
                         </a>
                     </ul>

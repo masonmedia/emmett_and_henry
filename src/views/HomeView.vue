@@ -40,35 +40,116 @@ const imageLoaded = ref(false)
 
     <div class="container-fluid px-0">
 
-      <div class="row m-0" style="min-height: 700px">
-        <div class="col-lg-12 d-flex flex-column justify-content-center align-items-center text-center p-5">
 
-          <!--<img class="rounded-4 mt-4" style="" :src="getImageUrlSubfolder('logos','eh_museo_light1','png')" alt="">-->
-         <img class="rounded-4 mt-4" style="width: 400px; height: auto" :src="getImageUrlSubfolder('logos','eh_dark_light1_crop','png')" alt="">
-         
-         <!--<h1 style="
-    letter-spacing: -34px;
-    font-size: 45vmin; line-height: 90%" class="text-museo fw-bold mb-0 pb-2">e<span class="text-secondary">&</span>h</h1>-->
-          <h3 class="ls-base fw-bold text-dark pb-3">Custom furniture and wood products made in Canada.</h3>
-          <div class="d-flex">
+      <div class="row m-0" style="height: 100svh; background: url('https://images.pexels.com/photos/172277/pexels-photo-172277.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2') center; background-size: cover;">
+        <div class="col-lg-8 d-flex flex-column justify-content-end align-items-start text-start p-5"> 
+          <h1 class="h4 text-uppercase fw-bold" style="font-family: 'Montserrat', sans-serif; letter-spacing: 2px;">Emmett & Henry</h1>   
+          <h2 class="display-2 text-burnt ls-base lh-1 fw-bold py-3">Handcrafted furniture and wood products, built tough, built beautiful, built to last in Canada.</h2>
+          <div class="d-flex mt-4">
             <TheButton
-              ButtonClass="btn-dark me-1"
+              ButtonClass="btn-light me-2"
               ButtonLink="#benches">
               Shop
             </TheButton>
             <TheButton
-             ButtonClass="btn-outline-dark"
+             ButtonClass="btn-dark"
               ButtonLink="#about">
               About us
             </TheButton>
           </div>
         </div>
       </div>
+
+      <!-- hero with burn eh logo -->
+      <!-- <div class="row m-0" style="height: 100svh; background: url('https://images.pexels.com/photos/172277/pexels-photo-172277.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2') center; background-size: cover;">
+        <div class="col-lg-8 offset-lg-2 d-flex flex-column justify-content-center align-items-center text-center p-5">
+         <img class="mt-4" style="width: 250px; height: auto; filter: grayscale(1); margin-left: -30px; margin-bottom: -70px" :src="getImageUrlSubfolder('logos','eh_burned1_trans','png')" alt="">
+         <h2 class="display-3 ls-base lh-1 fw-bold py-3 mt-2" style="color: #3b2a1a; text-shadow:
+  0 1px 0 #00000055,
+  0 2px 1px #00000033,
+  0 3px 2px #00000022,
+  1px 1px 2px #00000044,
+  -1px -1px 2px #00000044;
+mix-blend-mode: multiply;">Handcrafted furniture and wood products, built tough, built beautiful, built to last in Canada.</h2>
+          <div class="d-flex mt-4">
+            <TheButton
+              ButtonClass="btn-light me-2"
+              ButtonLink="#benches">
+              Shop
+            </TheButton>
+            <TheButton
+             ButtonClass="btn-dark"
+              ButtonLink="#about">
+              About us
+            </TheButton>
+          </div>
+        </div>
+      </div> -->
       
-      <div class="row m-0">
+      <!-- <div class="row m-0">
           <div class="col-lg-12 px-4 pt-4 min-vh-75" :style="{'background' : 'url('+ getImageUrlSubfolder('blocks','eh_blocks_shape','jpeg') +') center', 'background-size' : 'cover'}">
         </div>
        
+      </div> -->
+
+      <!-- patio furniture -->
+
+      <div id="patio" class="row m-0 pt-2">
+        <div class="col-lg-8 offset-lg-2 min-vh-75 d-flex flex-column justify-content-center align-items-start align-items-lg-center text-start text-lg-center p-5">
+          <h2 class="display-3 fw-900 ls-1 lh-1">Patio furniture</h2>
+          <p class="fs-5 py-3">Our outdoor line of deck, patio, pool and yard furniture features handcrafted sofa chairs, loveseats, 3-seat sofas, coffee tables, end tables, and benches — all made from solid wood, and built for Canadian weather. Each piece is finished by hand with optional stain and waterproofing. Premium cushions are available as add-ons. Built to last, these are not your average patio sets — they're handcrafted, custom built, heirloom-quality outdoor furniture.</p>
+          <ButtonGroup />
+        </div>
+        <div class="col-lg-8 col-md-6 mb-3">
+        <!-- new image lazy load component -->
+        <div class="position-relative w-100 h-100">
+          <div 
+            class="position-absolute w-100 h-100 bg-light rounded-4 d-flex justify-content-center align-items-center"
+            :class="{ 'd-none': imageLoaded }"
+          >
+            <div class="spinner-border text-secondary" role="status">
+              <span class="visually-hidden">Loading...</span>
+            </div>
+          </div>
+          <img 
+            class="w-100 h-100 rounded-4" 
+            style="object-fit: cover;" 
+            loading="lazy"
+            :src="getImageUrlSubfolder('patio','chair6','png')" 
+            alt=""
+            @load="imageLoaded = true"
+          >
+        </div>
+  <!--end lazy load -->
+        </div>
+        <div class="col-lg-4 col-md-6 mb-3">
+        
+
+          <div class="position-relative w-100 h-100">
+          <div 
+            class="position-absolute w-100 h-100 bg-light rounded-4 d-flex justify-content-center align-items-center"
+            :class="{ 'd-none': imageLoaded }"
+          >
+            <div class="spinner-border text-secondary" role="status">
+              <span class="visually-hidden">Loading...</span>
+            </div>
+          </div>
+          <img 
+            class="w-100 h-100 rounded-4" 
+            style="object-fit: cover;" 
+            loading="lazy"
+            :src="getImageUrlSubfolder('patio','chair2','jpg')" 
+            alt=""
+            @load="imageLoaded = true"
+          >
+        </div>
+        </div>
+        <div class="col-lg-6 col-md-6 mb-3">
+          <img class="w-100 h-100 rounded-4" style="object-fit: cover;" :src="getImageUrlSubfolder('patio','chair4','jpg')" alt="">
+        </div>
+        <div class="col-lg-6 col-md-6 mb-3">
+          <img class="w-100 h-100 rounded-4" style="object-fit: cover;" :src="getImageUrlSubfolder('patio','sofa3','png')" alt="">
+        </div>
       </div>
 
       <!-- benches -->
@@ -76,7 +157,7 @@ const imageLoaded = ref(false)
       <div id="benches" class="row m-0 pt-2">
         <div class="col-lg-8 offset-lg-2 min-vh-75 d-flex flex-column justify-content-center align-items-start align-items-lg-center text-start text-lg-center p-5">
           <h2 class="display-3 fw-900 ls-1 lh-1">Benches</h2>
-          <p class="fs-5 py-3">Perfect for front door entry, hallway, mudroom, and coffee table applications, our rustic farmhouse benches are stylish and strong, built with solid Canadian wood, construction adhesive, and structural finishing screws for strength and durability. Base model is 3' long x 14" high x 15.5" deep, and can be built with custom dimensions on request. Available space underneath is 29" wide which fits a standard 28" plastic shoe mat. Comes unstained/natural finish, with a variety of stain options available.</p>
+          <p class="fs-5 py-3">Perfect for entryways, hallways, mudrooms, or as rustic coffee tables, our handcrafted benches combine strength and style. Made from solid Canadian wood with structural screws and high-grade adhesive, these benches are built to last. The standard size is 3' long × 14" high × 15.5" deep, with a 29" wide opening below that fits a standard 28" plastic shoe mat. Custom dimensions and stain finishes available by request.</p>
           <ButtonGroup />
         </div>
         <div class="col-lg-3 col-md-6 mb-3">
@@ -138,7 +219,7 @@ const imageLoaded = ref(false)
       <div id="tables" class="row m-0 pt-2">
         <div class="col-lg-8 offset-lg-2 min-vh-75 d-flex flex-column justify-content-center align-items-start align-items-lg-center text-start text-lg-center p-5">
           <h2 class="display-3 fw-900 ls-1 lh-1">Tables</h2>
-          <p class="fs-5 py-3">Our handcrafted slimline console tables are perfect for narrow hallways and front entries with limited space. With room for keys, candles, vases and decorative items, they can be customized with a lower shelf for baskets and further storage. Base dimensions are 36" wide (long) x 35.5" high x 7.5" deep. Tables come unstained and can be built to order, with customizable dimensions and stain colors on request. Please inquire for more information!</p>
+          <p class="fs-5 py-3">Our slimline console tables are perfect for narrow spaces like front entries or hallways. Designed to hold keys, vases, and decorative pieces, these tables can also include a lower shelf for added storage. Standard dimensions: 36" long × 35.5" high × 7.5" deep. comes unstained. Built to order in your choice of dimensions and stain.</p>
           <ButtonGroup />
         </div>
         <div class="col-lg-3 col-md-6 mb-3">
@@ -160,7 +241,7 @@ const imageLoaded = ref(false)
       <div id="beds" class="row m-0 pt-2">
         <div class="col-lg-8 offset-lg-2 min-vh-75 d-flex flex-column justify-content-center align-items-start align-items-lg-center text-start text-lg-center p-5">
           <h2 class="display-3 fw-900 ls-1 lh-1">Kids Beds</h2>
-          <p class="fs-5 py-3">We currently have two bed frame models, a house-frame style, single mattress floor bed with roofline, and a bunkbed. Both are made with dimensional lumber (2x6, 2x4, 2x3, and 1x4 knotty pine), structural fasteners and construction screws, and are built to last: think 2 boys swinging, hanging, jumping, climbing, traversing, launching, and otherwise doing their best to shred it to pieces. Frames are modular, assembled on-site, and fit standard twin mattresses. Beds come unstained.</p>
+          <p class="fs-5 py-3">Built tough for real-life kids, our modular house-frame floor bed and twin bunkbed are crafted with dimensional lumber and knotty pine (2x6, 2x4, 2x3, 1x4) and assembled on-site. Designed to withstand climbing, hanging, swinging, jumping, gymnastics, and all forms of monkey business, these beds are made to last through years of wear and tear. Fits standard twin mattresses. Beds are delivered in a natural, unstained finish and can be stained upon request.</p>
           <ButtonGroup />
         </div>
         <div class="col-lg-3 col-md-6 mb-3">
@@ -181,8 +262,8 @@ const imageLoaded = ref(false)
       
       <div id="blocks" class="row m-0 pt-2">
         <div class="col-lg-8 offset-lg-2 min-vh-75 d-flex flex-column justify-content-center align-items-start align-items-lg-center text-start text-lg-center p-5">
-          <h2 class="display-3 fw-900 ls-1 lh-1">Blocks</h2>
-          <p class="fs-5 py-3">What began as an effort to creatively use scrap lumber grew into a fun and creative project for my own kids. Incorporating square, rectangle, triangle, column, and house shapes, larger block sizes, and natural, unfinished pine, this building block set is perfect for infants to preschoolers.</p>
+          <h2 class="display-3 fw-900 ls-1 lh-1">Building Blocks</h2>
+          <p class="fs-5 py-3">Born from scrap and made with love, our building block sets are crafted from natural, unfinished pine and come in a variety of shapes and sizes. These large-format blocks inspire creative play for infants through preschoolers.</p>
           <ButtonGroup />
         </div>
         <div class="col-lg-3 col-md-6 mb-3">
@@ -217,7 +298,7 @@ const imageLoaded = ref(false)
       <div id="climbers" class="row m-0 pt-2">
         <div class="col-lg-8 offset-lg-2 min-vh-75 d-flex flex-column justify-content-center align-items-start align-items-lg-center text-start text-lg-center p-5">
           <h2 class="display-3 fw-900 ls-1 lh-1">Climbers</h2>
-          <p class="fs-5 pt-3">The <span class="fw-bold">e&h</span> kids triangle climber is designed around the famous Pikler triangle. We make a few modifications to the original design including 2x4 construction with tighter ladder/stair spacing for easier climbing and less chance of little legs getting stuck. It uses structural furniture fasteners for durability, strength, and aesthetic beauty, and pairs perfectly with the e&h climbing ramp and slide ramp add-ons. The climber is intended for supervised indoor use, however the wood can be sealed and stained* for outdoor fun.</p>
+          <p class="fs-5 pt-3">Inspired by the classic Pikler triangle, our <span class="fw-bold">e&h</span> triangle climber features solid 2x4 construction with closer ladder spacing for added safety and easier climbing. Assembled with structural fasteners, it pairs perfectly with our slide and climbing ramp add-ons. Ideal for supervised indoor use, but can be sealed and stained for outdoor adventures.</p>
           <p class="small fst-italic mt-0 mb-3">*Be sure to use no/low-VOC and non-toxic stain/seal options for kid safety. Outdoor use exposes material to wear, rot, and rust. Always supervise children when using this product.</p> 
           <ButtonGroup />
         </div>
@@ -243,7 +324,7 @@ const imageLoaded = ref(false)
       <div id="ladders" class="row m-0 pt-2">
         <div class="col-lg-8 offset-lg-2 min-vh-75 d-flex flex-column justify-content-center align-items-start align-items-lg-center text-start text-lg-center p-5">
           <h2 class="display-3 fw-900 ls-1 lh-1">Ladders</h2>
-          <p class="fs-5 pt-3">What started as a complement/add-on to the e&h bunkbed became a standalone item. The e&h ladder is a simple and customizable unit built with dimensional 2x4s, construction screws and/or structural fasteners. It's sanded to a high natural finish and can be customized with different sizes and orientations. It can be used as a wall decoration, towel hanger, bedroom accent, attic staircase, in addition to more traditional laddery applications.</p>
+          <p class="fs-5 pt-3">Originally created as a complement to our bunkbeds, the e&h ladder is now a favorite in its own right. Crafted from 2x4 and available in custom sizes and orientations, it's as functional as it is decorative. Use it as a towel rack, blanket ladder, accent piece, or just as a step ladder. Smooth-sanded and ready for stain or natural use.</p>
           <p class="small fst-italic mt-0 mb-3">*Model shown is a 6 foot slimline 5-step variation, with 11.5" step width, 12" step spacing. Great for tight spaces, closets, bathrooms, bunkbeds, etc.</p> 
           <ButtonGroup />
         </div>
@@ -283,10 +364,10 @@ const imageLoaded = ref(false)
       <div id="how-we-work" class="row m-0 pt-2">
         <div class="col-lg-8 offset-lg-2 min-vh-75 d-flex flex-column justify-content-center align-items-start align-items-lg-center text-start text-lg-center p-5">
           <h2 class="display-3 fw-900 ls-1 lh-1">How we work</h2>
-          <p class="fs-5 py-3">Our products are made to order. We have varying levels of stock, but most often build on request. Timelines vary though generally take 2-4 weeks for average turnaround. At the moment we offer delivery within the Great Toronto Area and surrounding environ and ship wood blocks and giant jenga. All products are also available for pickup. Contact us for custom orders, special requests, or more information.</p>
+          <p class="fs-5 py-3">Our products are made to order. We have varying levels of stock, but most often build on request. Timelines vary though generally take 2-4 weeks for average turnaround. We offer delivery on certain items within the Great Toronto Area, and ship wood blocks and giant jenga. All products are also available for pickup. Contact us for more details, custom orders, or special requests.</p>
           <TheButton
              ButtonClass="btn-dark"
-              ButtonLink="mailto:emmettandhenrywoodworking@gmail.com">
+              ButtonLink="mailto:emmettandhenrywoodworks@gmail.com">
               Learn more
             </TheButton>
         </div>
@@ -302,7 +383,7 @@ const imageLoaded = ref(false)
           <p class="fs-5 py-3">Emmett & Henry is a Canadian company that builds custom furniture and wood products with precision, high quality materials, and a modern, farmhouse design aesthetic. We love what we do and are proud to create innovative, solid wood products that are safe, strong, stylish, and designed to withstand the rigors of our own family. We think they'll be great for yours too. Drop us a line for more information or to place a custom order.</p>
           <TheButton
             ButtonClass="btn-dark"
-            ButtonLink="mailto:emmettandhenrywoodworking@gmail.com">
+            ButtonLink="mailto:emmettandhenrywoodworks@gmail.com">
             Get in touch
           </TheButton>
         </div>

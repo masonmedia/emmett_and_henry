@@ -36,10 +36,12 @@ import { getImageUrl, getImageUrlSubfolder } from '../js/imageUtils'
 		<div class="container-fluid">
 
 			<a class="navbar-brand d-block d-md-none" href="/">
-				<img class="h-auto animate-in rounded-3" style="width: 70px;" :src="getImageUrlSubfolder('logos', 'eh_dark_crop', 'png')" alt="emmett & henry logo" />	
+        <h1 class="small text-uppercase fw-bold text-light mb-0 ms-2" style="font-family: 'Montserrat', sans-serif; letter-spacing: 2px;">E&H</h1>   
+				<!-- <img class="h-auto animate-in rounded-3" style="width: 70px;" :src="getImageUrlSubfolder('logos', 'eh_dark_crop', 'png')" alt="emmett & henry logo" />	 -->
 			</a>
 			<a class="navbar-brand d-none d-md-block me-auto" href="/">
-				<img class="h-auto animate-in rounded-3" style="width: 80px;" :src="getImageUrlSubfolder('logos', 'eh_dark_crop', 'png')" alt="Emmett & Henry logo" />	
+        <h1 class="small text-uppercase fw-bold text-light mb-0 ms-2" style="font-family: 'Montserrat', sans-serif; letter-spacing: 2px;">Emmett & Henry</h1>   
+				<!-- <img class="h-auto animate-in rounded-3" style="width: 80px;" :src="getImageUrlSubfolder('logos', 'eh_dark_crop', 'png')" alt="Emmett & Henry logo" />	 -->
 			</a>
 
             <button class="navbar-toggler btn btn-light py-2 rounded-3" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
@@ -63,6 +65,9 @@ import { getImageUrl, getImageUrlSubfolder } from '../js/imageUtils'
 
 			<div class="offcanvas-body d-flex flex-column justify-content-end p-4 p-lg-0">
 			    <ul class="navbar-nav justify-content-end align-items-start align-items-lg-center flex-grow-1 p-0">
+				<li class="nav-item pe-2" role="button" data-bs-dismiss="offcanvas" aria-label="Close">
+                    <a class="nav-link" href="#patio">Patio</a>
+                </li>
 				<li class="nav-item pe-2" role="button" data-bs-dismiss="offcanvas" aria-label="Close">
                     <a class="nav-link" href="#benches">Benches</a>
                 </li>
@@ -88,7 +93,7 @@ import { getImageUrl, getImageUrlSubfolder } from '../js/imageUtils'
                         <a class="nav-link" href="#about">Our story</a>
                     </li>
                     <li class="nav-item" role="button" data-bs-dismiss="offcanvas" aria-label="Close">
-                    <a class="nav-link" href="mailto:emmettandhenrywoodworking@gmail.com">
+                    <a class="nav-link" href="mailto:emmettandhenrywoodworks@gmail.com">
                         <button class="d-none d-lg-block btn btn-light px-4 rounded-5">Contact us</button>
                         <p class="d-block d-lg-none">Contact us</p>
                     </a>

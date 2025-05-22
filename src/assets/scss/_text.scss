@@ -10,6 +10,13 @@
     letter-spacing: -3px;
 }
 
-.text-museo {
-font-family: 'MuseoModerno', Arial, Helvetica, sans-serif
-}  
+.text-burnt {
+    color: #3b2a1a; 
+    text-shadow:
+  0 1px 0 #00000055,
+  0 2px 1px #00000033,
+  0 3px 2px #00000022,
+  1px 1px 2px #00000044,
+  -1px -1px 2px #00000044;
+mix-blend-mode: multiply;
+}

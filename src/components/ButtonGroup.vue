@@ -2,12 +2,12 @@
     <div class="d-flex">
         <TheButton
             ButtonClass="btn-dark me-1"
-            ButtonLink="mailto:emmettandhenrywoodworking@gmail.com">
+            ButtonLink="mailto:emmettandhenrywoodworks@gmail.com">
             Order
         </TheButton>
         <TheButton
             ButtonClass="btn-outline-dark"
-            ButtonLink="mailto:emmettandhenrywoodworking@gmail.com">
+            ButtonLink="mailto:emmettandhenrywoodworks@gmail.com">
             Inquire
         </TheButton>
         </div>
