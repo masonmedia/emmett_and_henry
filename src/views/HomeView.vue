@@ -41,7 +41,7 @@ const imageLoaded = ref(false)
     <div class="container-fluid px-0">
 
 
-      <div class="row m-0" style="height: 100svh; background: url('https://images.pexels.com/photos/172277/pexels-photo-172277.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2') center; background-size: cover;">
+      <div class="row m-0" style="height: 100dvh; background: url('https://images.pexels.com/photos/172277/pexels-photo-172277.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2') center; background-size: cover;">
         <div class="col-lg-8 d-flex flex-column justify-content-end align-items-start text-start p-5"> 
           <h1 class="h4 text-uppercase fw-bold" style="font-family: 'Montserrat', sans-serif; letter-spacing: 2px;">Emmett & Henry</h1>   
           <h2 class="display-2 text-burnt ls-base lh-1 fw-bold py-3">Handcrafted furniture and wood products, built tough, built beautiful, built to last in Canada.</h2>
