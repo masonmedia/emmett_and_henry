@@ -5,6 +5,7 @@ import TheFooter from '../components/TheFooter.vue'
 import TheModal from '../components/TheModal.vue'
 import TheButton from '../components/TheButton.vue'
 import ButtonGroup from '../components/ButtonGroup.vue'
+import ImageModal from '../components/ImageModal.vue'
 // where 'name' is the actual name of the file, and 'ext' is the extension
 
 // i.e. myjpg.jpg
@@ -31,20 +32,32 @@ const getImageUrlSubfolder = (subfolder, name, extension) => {
 
 import { ref } from 'vue'
 
-const imageLoaded = ref({})
+const imageLoaded = ref(false)
 
-const handleImageLoad = (imageId) => {
-  imageLoaded.value[imageId] = true
+const benchesImages = [
+  { src: getImageUrlSubfolder('benches','cedar4','jpg'), alt: 'Cedar bench' },
+  { src: getImageUrlSubfolder('benches','bench3','jpg'), alt: 'Wooden bench' },
+  { src: getImageUrlSubfolder('benches','bench7','jpg'), alt: 'Wooden bench' },
+  { src: getImageUrlSubfolder('benches','bench5','jpg'), alt: 'Wooden bench' }
+]
+
+const currentBenchesIndex = ref(0)
+
+const openBenchesModal = (index) => {
+  currentBenchesIndex.value = index
 }
 </script>
 
 <template>
   <main class="overflow-x-hidden">
-    <TheNav/>
+  <TheNav/>
+
     <div class="container-fluid px-0">
+
+
       <div class="row m-0" style="height: 100dvh; background: url('https://images.pexels.com/photos/172277/pexels-photo-172277.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2') center; background-size: cover;">
         <div class="col-lg-8 d-flex flex-column justify-content-end align-items-start text-start p-5"> 
-          <h1 class="h4 text-uppercase fw-bold" style="font-family: 'Montserrat', sans-serif; letter-spacing: 2px;">Emmett & Henry</h1>   
+          <h1 class="h4 text-uppercase fw-bold" style="font-family: 'Montserrat', sans-serif; letter-spacing: 2px;">Emmett & Henry</h1>  
           <h2 class="display-2 text-burnt ls-base lh-1 fw-bold py-3">Handcrafted furniture and wood products, built tough, built beautiful, built to last in Canada.</h2>
           <div class="d-flex mt-4">
             <TheButton
@@ -61,7 +74,40 @@ const handleImageLoad = (imageId) => {
         </div>
       </div>
 
+      <!-- hero with burn eh logo -->
+      <!-- <div class="row m-0" style="height: 100svh; background: url('https://images.pexels.com/photos/172277/pexels-photo-172277.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2') center; background-size: cover;">
+        <div class="col-lg-8 offset-lg-2 d-flex flex-column justify-content-center align-items-center text-center p-5">
+         <img class="mt-4" style="width: 250px; height: auto; filter: grayscale(1); margin-left: -30px; margin-bottom: -70px" :src="getImageUrlSubfolder('logos','eh_burned1_trans','png')" alt="">
+         <h2 class="display-3 ls-base lh-1 fw-bold py-3 mt-2" style="color: #3b2a1a; text-shadow:
+  0 1px 0 #00000055,
+  0 2px 1px #00000033,
+  0 3px 2px #00000022,
+  1px 1px 2px #00000044,
+  -1px -1px 2px #00000044;
+mix-blend-mode: multiply;">Handcrafted furniture and wood products, built tough, built beautiful, built to last in Canada.</h2>
+          <div class="d-flex mt-4">
+            <TheButton
+              ButtonClass="btn-light me-2"
+              ButtonLink="#benches">
+              Shop
+            </TheButton>
+            <TheButton
+             ButtonClass="btn-dark"
+              ButtonLink="#about">
+              About us
+            </TheButton>
+          </div>
+        </div>
+      </div> -->
+      
+      <!-- <div class="row m-0">
+          <div class="col-lg-12 px-4 pt-4 min-vh-75" :style="{'background' : 'url('+ getImageUrlSubfolder('blocks','eh_blocks_shape','jpeg') +') center', 'background-size' : 'cover'}">
+        </div>
+       
+      </div> -->
+
       <!-- patio furniture -->
+
       <div id="patio" class="row m-0 pt-2">
         <div class="col-lg-8 offset-lg-2 min-vh-75 d-flex flex-column justify-content-center align-items-start align-items-lg-center text-start text-lg-center p-5">
           <h2 class="display-3 fw-900 ls-1 lh-1">Patio furniture</h2>
@@ -72,7 +118,7 @@ const handleImageLoad = (imageId) => {
           <div class="position-relative w-100 h-100">
             <div 
               class="position-absolute w-100 h-100 bg-light rounded-4 d-flex justify-content-center align-items-center"
-              :class="{ 'd-none': imageLoaded['patio-chair6'] }"
+              :class="{ 'd-none': imageLoaded }"
             >
               <div class="spinner-border text-secondary" role="status">
                 <span class="visually-hidden">Loading...</span>
@@ -80,12 +126,13 @@ const handleImageLoad = (imageId) => {
             </div>
             <img 
               class="w-100 h-100 rounded-4" 
-              style="object-fit: cover; filter: blur(10px); transition: filter 0.3s ease-out;"
-              :class="{ 'blur-0': imageLoaded['patio-chair6'] }"
+              style="object-fit: cover; cursor: pointer;" 
               loading="lazy"
               :src="getImageUrlSubfolder('patio','chair6','png')" 
               alt="Patio chair"
-              @load="handleImageLoad('patio-chair6')"
+              @load="imageLoaded = true"
+              data-bs-toggle="modal"
+              data-bs-target="#patioModal1"
             >
           </div>
         </div>
@@ -93,7 +140,7 @@ const handleImageLoad = (imageId) => {
           <div class="position-relative w-100 h-100">
             <div 
               class="position-absolute w-100 h-100 bg-light rounded-4 d-flex justify-content-center align-items-center"
-              :class="{ 'd-none': imageLoaded['patio-chair2'] }"
+              :class="{ 'd-none': imageLoaded }"
             >
               <div class="spinner-border text-secondary" role="status">
                 <span class="visually-hidden">Loading...</span>
@@ -101,60 +148,62 @@ const handleImageLoad = (imageId) => {
             </div>
             <img 
               class="w-100 h-100 rounded-4" 
-              style="object-fit: cover; filter: blur(10px); transition: filter 0.3s ease-out;"
-              :class="{ 'blur-0': imageLoaded['patio-chair2'] }"
+              style="object-fit: cover; cursor: pointer;" 
               loading="lazy"
               :src="getImageUrlSubfolder('patio','chair2','jpg')" 
               alt="Patio chair"
-              @load="handleImageLoad('patio-chair2')"
+              @load="imageLoaded = true"
+              data-bs-toggle="modal"
+              data-bs-target="#patioModal2"
             >
           </div>
         </div>
         <div class="col-lg-6 col-md-6 mb-3">
-          <div class="position-relative w-100 h-100">
-            <div 
-              class="position-absolute w-100 h-100 bg-light rounded-4 d-flex justify-content-center align-items-center"
-              :class="{ 'd-none': imageLoaded['patio-chair4'] }"
-            >
-              <div class="spinner-border text-secondary" role="status">
-                <span class="visually-hidden">Loading...</span>
-              </div>
-            </div>
-            <img 
-              class="w-100 h-100 rounded-4" 
-              style="object-fit: cover; filter: blur(10px); transition: filter 0.3s ease-out;"
-              :class="{ 'blur-0': imageLoaded['patio-chair4'] }"
-              loading="lazy"
-              :src="getImageUrlSubfolder('patio','chair4','jpg')" 
-              alt="Patio chair"
-              @load="handleImageLoad('patio-chair4')"
-            >
-          </div>
+          <img 
+            class="w-100 h-100 rounded-4" 
+            style="object-fit: cover; cursor: pointer;" 
+            :src="getImageUrlSubfolder('patio','chair4','jpg')" 
+            alt="Patio chair"
+            data-bs-toggle="modal"
+            data-bs-target="#patioModal3"
+          >
         </div>
         <div class="col-lg-6 col-md-6 mb-3">
-          <div class="position-relative w-100 h-100">
-            <div 
-              class="position-absolute w-100 h-100 bg-light rounded-4 d-flex justify-content-center align-items-center"
-              :class="{ 'd-none': imageLoaded['patio-sofa3'] }"
-            >
-              <div class="spinner-border text-secondary" role="status">
-                <span class="visually-hidden">Loading...</span>
-              </div>
-            </div>
-            <img 
-              class="w-100 h-100 rounded-4" 
-              style="object-fit: cover; filter: blur(10px); transition: filter 0.3s ease-out;"
-              :class="{ 'blur-0': imageLoaded['patio-sofa3'] }"
-              loading="lazy"
-              :src="getImageUrlSubfolder('patio','sofa3','png')" 
-              alt="Patio sofa"
-              @load="handleImageLoad('patio-sofa3')"
-            >
-          </div>
+          <img 
+            class="w-100 h-100 rounded-4" 
+            style="object-fit: cover; cursor: pointer;" 
+            :src="getImageUrlSubfolder('patio','sofa3','png')" 
+            alt="Patio sofa"
+            data-bs-toggle="modal"
+            data-bs-target="#patioModal4"
+          >
         </div>
       </div>
 
+      <!-- Patio Modals -->
+      <ImageModal 
+        modalId="patioModal1"
+        :imageSrc="getImageUrlSubfolder('patio','chair6','png')"
+        imageAlt="Patio chair"
+      />
+      <ImageModal 
+        modalId="patioModal2"
+        :imageSrc="getImageUrlSubfolder('patio','chair2','jpg')"
+        imageAlt="Patio chair"
+      />
+      <ImageModal 
+        modalId="patioModal3"
+        :imageSrc="getImageUrlSubfolder('patio','chair4','jpg')"
+        imageAlt="Patio chair"
+      />
+      <ImageModal 
+        modalId="patioModal4"
+        :imageSrc="getImageUrlSubfolder('patio','sofa3','png')"
+        imageAlt="Patio sofa"
+      />
+
       <!-- benches -->
+
       <div id="benches" class="row m-0 pt-2">
         <div class="col-lg-8 offset-lg-2 min-vh-75 d-flex flex-column justify-content-center align-items-start align-items-lg-center text-start text-lg-center p-5">
           <h2 class="display-3 fw-900 ls-1 lh-1">Benches</h2>
@@ -162,92 +211,95 @@ const handleImageLoad = (imageId) => {
           <ButtonGroup />
         </div>
         <div class="col-lg-3 col-md-6 mb-3">
-          <div class="image-wrapper w-100 h-100 rounded-4">
+          <div class="position-relative w-100 h-100">
             <div 
-              class="position-absolute w-100 h-100 d-flex justify-content-center align-items-center"
-              :class="{ 'd-none': imageLoaded['benches-cedar4'] }"
+              class="position-absolute w-100 h-100 bg-light rounded-4 d-flex justify-content-center align-items-center"
+              :class="{ 'd-none': imageLoaded }"
             >
               <div class="spinner-border text-secondary" role="status">
                 <span class="visually-hidden">Loading...</span>
               </div>
             </div>
             <img 
-              class="w-100 h-100 rounded-4 progressive-image" 
-              :class="{ 'loaded': imageLoaded['benches-cedar4'] }"
-              style="object-fit: cover;"
+              class="w-100 h-100 rounded-4" 
+              style="object-fit: cover; cursor: pointer;" 
               loading="lazy"
               :src="getImageUrlSubfolder('benches','cedar4','jpg')" 
               alt="Cedar bench"
-              @load="handleImageLoad('benches-cedar4')"
+              @load="imageLoaded = true"
+              data-bs-toggle="modal"
+              data-bs-target="#benchModal1"
             >
           </div>
         </div>
         <div class="col-lg-3 col-md-6 mb-3">
-          <div class="image-wrapper w-100 h-100 rounded-4">
+          <div class="position-relative w-100 h-100">
             <div 
-              class="position-absolute w-100 h-100 d-flex justify-content-center align-items-center"
-              :class="{ 'd-none': imageLoaded['benches-bench3'] }"
+              class="position-absolute w-100 h-100 bg-light rounded-4 d-flex justify-content-center align-items-center"
+              :class="{ 'd-none': imageLoaded }"
             >
               <div class="spinner-border text-secondary" role="status">
                 <span class="visually-hidden">Loading...</span>
               </div>
             </div>
             <img 
-              class="w-100 h-100 rounded-4 progressive-image" 
-              :class="{ 'loaded': imageLoaded['benches-bench3'] }"
-              style="object-fit: cover;"
+              class="w-100 h-100 rounded-4" 
+              style="object-fit: cover; cursor: pointer;" 
               loading="lazy"
               :src="getImageUrlSubfolder('benches','bench3','jpg')" 
               alt="Wooden bench"
-              @load="handleImageLoad('benches-bench3')"
+              @load="imageLoaded = true"
+              data-bs-toggle="modal"
+              data-bs-target="#benchModal2"
             >
           </div>
         </div>
         <div class="col-lg-3 col-md-6 mb-3">
-          <div class="image-wrapper w-100 h-100 rounded-4">
-            <div 
-              class="position-absolute w-100 h-100 d-flex justify-content-center align-items-center"
-              :class="{ 'd-none': imageLoaded['benches-bench7'] }"
-            >
-              <div class="spinner-border text-secondary" role="status">
-                <span class="visually-hidden">Loading...</span>
-              </div>
-            </div>
-            <img 
-              class="w-100 h-100 rounded-4 progressive-image" 
-              :class="{ 'loaded': imageLoaded['benches-bench7'] }"
-              style="object-fit: cover;"
-              loading="lazy"
-              :src="getImageUrlSubfolder('benches','bench7','jpg')" 
-              alt="Wooden bench"
-              @load="handleImageLoad('benches-bench7')"
-            >
-          </div>
+          <img 
+            class="w-100 h-100 rounded-4" 
+            style="object-fit: cover; cursor: pointer;" 
+            :src="getImageUrlSubfolder('benches','bench7','jpg')" 
+            alt="Wooden bench"
+            data-bs-toggle="modal"
+            data-bs-target="#benchModal3"
+          >
         </div>
         <div class="col-lg-3 col-md-6 mb-3">
-          <div class="image-wrapper w-100 h-100 rounded-4">
-            <div 
-              class="position-absolute w-100 h-100 d-flex justify-content-center align-items-center"
-              :class="{ 'd-none': imageLoaded['benches-bench5'] }"
-            >
-              <div class="spinner-border text-secondary" role="status">
-                <span class="visually-hidden">Loading...</span>
-              </div>
-            </div>
-            <img 
-              class="w-100 h-100 rounded-4 progressive-image" 
-              :class="{ 'loaded': imageLoaded['benches-bench5'] }"
-              style="object-fit: cover;"
-              loading="lazy"
-              :src="getImageUrlSubfolder('benches','bench5','jpg')" 
-              alt="Wooden bench"
-              @load="handleImageLoad('benches-bench5')"
-            >
-          </div>
+          <img 
+            class="w-100 h-100 rounded-4" 
+            style="object-fit: cover; cursor: pointer;" 
+            :src="getImageUrlSubfolder('benches','bench5','jpg')" 
+            alt="Wooden bench"
+            data-bs-toggle="modal"
+            data-bs-target="#benchModal4"
+          >
         </div>
       </div>
 
+      <!-- Image Modals -->
+      <ImageModal 
+        modalId="benchModal1"
+        :imageSrc="getImageUrlSubfolder('benches','cedar4','jpg')"
+        imageAlt="Cedar bench"
+      />
+      <ImageModal 
+        modalId="benchModal2"
+        :imageSrc="getImageUrlSubfolder('benches','bench3','jpg')"
+        imageAlt="Wooden bench"
+      />
+      <ImageModal 
+        modalId="benchModal3"
+        :imageSrc="getImageUrlSubfolder('benches','bench7','jpg')"
+        imageAlt="Wooden bench"
+      />
+      <ImageModal 
+        modalId="benchModal4"
+        :imageSrc="getImageUrlSubfolder('benches','bench5','jpg')"
+        imageAlt="Wooden bench"
+      />
+      
       <!-- tables -->
+
       <div id="tables" class="row m-0 pt-2">
         <div class="col-lg-8 offset-lg-2 min-vh-75 d-flex flex-column justify-content-center align-items-start align-items-lg-center text-start text-lg-center p-5">
           <h2 class="display-3 fw-900 ls-1 lh-1">Tables</h2>
@@ -255,92 +307,71 @@ const handleImageLoad = (imageId) => {
           <ButtonGroup />
         </div>
         <div class="col-lg-3 col-md-6 mb-3">
-          <div class="position-relative w-100 h-100">
-            <div 
-              class="position-absolute w-100 h-100 bg-light rounded-4 d-flex justify-content-center align-items-center"
-              :class="{ 'd-none': imageLoaded['tables-table1'] }"
-            >
-              <div class="spinner-border text-secondary" role="status">
-                <span class="visually-hidden">Loading...</span>
-              </div>
-            </div>
-            <img 
-              class="w-100 h-100 rounded-4" 
-              style="object-fit: cover; filter: blur(10px); transition: filter 0.3s ease-out;"
-              :class="{ 'blur-0': imageLoaded['tables-table1'] }"
-              loading="lazy"
-              :src="getImageUrlSubfolder('tables','table1','jpg')" 
-              alt="Console table"
-              @load="handleImageLoad('tables-table1')"
-            >
-          </div>
+          <img 
+            class="w-100 h-100 rounded-4" 
+            style="object-fit: cover; cursor: pointer;" 
+            :src="getImageUrlSubfolder('tables','table1','jpg')" 
+            alt="Console table"
+            data-bs-toggle="modal"
+            data-bs-target="#tableModal1"
+          >
         </div>
         <div class="col-lg-3 col-md-6 mb-3">
-          <div class="position-relative w-100 h-100">
-            <div 
-              class="position-absolute w-100 h-100 bg-light rounded-4 d-flex justify-content-center align-items-center"
-              :class="{ 'd-none': imageLoaded['tables-table2'] }"
-            >
-              <div class="spinner-border text-secondary" role="status">
-                <span class="visually-hidden">Loading...</span>
-              </div>
-            </div>
-            <img 
-              class="w-100 h-100 rounded-4" 
-              style="object-fit: cover; filter: blur(10px); transition: filter 0.3s ease-out;"
-              :class="{ 'blur-0': imageLoaded['tables-table2'] }"
-              loading="lazy"
-              :src="getImageUrlSubfolder('tables','table2','jpg')" 
-              alt="Console table"
-              @load="handleImageLoad('tables-table2')"
-            >
-          </div>
+          <img 
+            class="w-100 h-100 rounded-4" 
+            style="object-fit: cover; cursor: pointer;" 
+            :src="getImageUrlSubfolder('tables','table2','jpg')" 
+            alt="Console table"
+            data-bs-toggle="modal"
+            data-bs-target="#tableModal2"
+          >
         </div>
         <div class="col-lg-3 col-md-6 mb-3">
-          <div class="position-relative w-100 h-100">
-            <div 
-              class="position-absolute w-100 h-100 bg-light rounded-4 d-flex justify-content-center align-items-center"
-              :class="{ 'd-none': imageLoaded['tables-table8'] }"
-            >
-              <div class="spinner-border text-secondary" role="status">
-                <span class="visually-hidden">Loading...</span>
-              </div>
-            </div>
-            <img 
-              class="w-100 h-100 rounded-4" 
-              style="object-fit: cover; filter: blur(10px); transition: filter 0.3s ease-out;"
-              :class="{ 'blur-0': imageLoaded['tables-table8'] }"
-              loading="lazy"
-              :src="getImageUrlSubfolder('tables','table8','jpg')" 
-              alt="Console table"
-              @load="handleImageLoad('tables-table8')"
-            >
-          </div>
+          <img 
+            class="w-100 h-100 rounded-4" 
+            style="object-fit: cover; cursor: pointer;" 
+            :src="getImageUrlSubfolder('tables','table8','jpg')" 
+            alt="Console table"
+            data-bs-toggle="modal"
+            data-bs-target="#tableModal3"
+          >
         </div>
         <div class="col-lg-3 col-md-6 mb-3">
-          <div class="position-relative w-100 h-100">
-            <div 
-              class="position-absolute w-100 h-100 bg-light rounded-4 d-flex justify-content-center align-items-center"
-              :class="{ 'd-none': imageLoaded['tables-table7'] }"
-            >
-              <div class="spinner-border text-secondary" role="status">
-                <span class="visually-hidden">Loading...</span>
-              </div>
-            </div>
-            <img 
-              class="w-100 h-100 rounded-4" 
-              style="object-fit: cover; filter: blur(10px); transition: filter 0.3s ease-out;"
-              :class="{ 'blur-0': imageLoaded['tables-table7'] }"
-              loading="lazy"
-              :src="getImageUrlSubfolder('tables','table7','jpg')" 
-              alt="Console table"
-              @load="handleImageLoad('tables-table7')"
-            >
-          </div>
+          <img 
+            class="w-100 h-100 rounded-4" 
+            style="object-fit: cover; cursor: pointer;" 
+            :src="getImageUrlSubfolder('tables','table7','jpg')" 
+            alt="Console table"
+            data-bs-toggle="modal"
+            data-bs-target="#tableModal4"
+          >
         </div>
       </div>
 
+      <!-- Table Modals -->
+      <ImageModal 
+        modalId="tableModal1"
+        :imageSrc="getImageUrlSubfolder('tables','table1','jpg')"
+        imageAlt="Console table"
+      />
+      <ImageModal 
+        modalId="tableModal2"
+        :imageSrc="getImageUrlSubfolder('tables','table2','jpg')"
+        imageAlt="Console table"
+      />
+      <ImageModal 
+        modalId="tableModal3"
+        :imageSrc="getImageUrlSubfolder('tables','table8','jpg')"
+        imageAlt="Console table"
+      />
+      <ImageModal 
+        modalId="tableModal4"
+        :imageSrc="getImageUrlSubfolder('tables','table7','jpg')"
+        imageAlt="Console table"
+      />
+
       <!-- beds -->
+
       <div id="beds" class="row m-0 pt-2">
         <div class="col-lg-8 offset-lg-2 min-vh-75 d-flex flex-column justify-content-center align-items-start align-items-lg-center text-start text-lg-center p-5">
           <h2 class="display-3 fw-900 ls-1 lh-1">Kids Beds</h2>
@@ -348,92 +379,71 @@ const handleImageLoad = (imageId) => {
           <ButtonGroup />
         </div>
         <div class="col-lg-3 col-md-6 mb-3">
-          <div class="position-relative w-100 h-100">
-            <div 
-              class="position-absolute w-100 h-100 bg-light rounded-4 d-flex justify-content-center align-items-center"
-              :class="{ 'd-none': imageLoaded['beds-henry1'] }"
-            >
-              <div class="spinner-border text-secondary" role="status">
-                <span class="visually-hidden">Loading...</span>
-              </div>
-            </div>
-            <img 
-              class="w-100 h-100 rounded-4" 
-              style="object-fit: cover; filter: blur(10px); transition: filter 0.3s ease-out;"
-              :class="{ 'blur-0': imageLoaded['beds-henry1'] }"
-              loading="lazy"
-              :src="getImageUrlSubfolder('beds','henry1','jpg')" 
-              alt="Kids bed"
-              @load="handleImageLoad('beds-henry1')"
-            >
-          </div>
+          <img 
+            class="w-100 h-100 rounded-4" 
+            style="object-fit: cover; cursor: pointer;" 
+            :src="getImageUrlSubfolder('beds','henry1','jpg')" 
+            alt="Kids bed"
+            data-bs-toggle="modal"
+            data-bs-target="#bedModal1"
+          >
         </div>
         <div class="col-lg-3 col-md-6 mb-3">
-          <div class="position-relative w-100 h-100">
-            <div 
-              class="position-absolute w-100 h-100 bg-light rounded-4 d-flex justify-content-center align-items-center"
-              :class="{ 'd-none': imageLoaded['beds-henry3'] }"
-            >
-              <div class="spinner-border text-secondary" role="status">
-                <span class="visually-hidden">Loading...</span>
-              </div>
-            </div>
-            <img 
-              class="w-100 h-100 rounded-4" 
-              style="object-fit: cover; filter: blur(10px); transition: filter 0.3s ease-out;"
-              :class="{ 'blur-0': imageLoaded['beds-henry3'] }"
-              loading="lazy"
-              :src="getImageUrlSubfolder('beds','henry3','jpg')" 
-              alt="Kids bed"
-              @load="handleImageLoad('beds-henry3')"
-            >
-          </div>
+          <img 
+            class="w-100 h-100 rounded-4" 
+            style="object-fit: cover; cursor: pointer;" 
+            :src="getImageUrlSubfolder('beds','henry3','jpg')" 
+            alt="Kids bed"
+            data-bs-toggle="modal"
+            data-bs-target="#bedModal2"
+          >
         </div>
         <div class="col-lg-3 col-md-6 mb-3">
-          <div class="position-relative w-100 h-100">
-            <div 
-              class="position-absolute w-100 h-100 bg-light rounded-4 d-flex justify-content-center align-items-center"
-              :class="{ 'd-none': imageLoaded['beds-henry4'] }"
-            >
-              <div class="spinner-border text-secondary" role="status">
-                <span class="visually-hidden">Loading...</span>
-              </div>
-            </div>
-            <img 
-              class="w-100 h-100 rounded-4" 
-              style="object-fit: cover; filter: blur(10px); transition: filter 0.3s ease-out;"
-              :class="{ 'blur-0': imageLoaded['beds-henry4'] }"
-              loading="lazy"
-              :src="getImageUrlSubfolder('beds','henry4','jpg')" 
-              alt="Kids bed"
-              @load="handleImageLoad('beds-henry4')"
-            >
-          </div>
+          <img 
+            class="w-100 h-100 rounded-4" 
+            style="object-fit: cover; cursor: pointer;" 
+            :src="getImageUrlSubfolder('beds','henry4','jpg')" 
+            alt="Kids bed"
+            data-bs-toggle="modal"
+            data-bs-target="#bedModal3"
+          >
         </div>
         <div class="col-lg-3 col-md-6 mb-3">
-          <div class="position-relative w-100 h-100">
-            <div 
-              class="position-absolute w-100 h-100 bg-light rounded-4 d-flex justify-content-center align-items-center"
-              :class="{ 'd-none': imageLoaded['beds-emmett1'] }"
-            >
-              <div class="spinner-border text-secondary" role="status">
-                <span class="visually-hidden">Loading...</span>
-              </div>
-            </div>
-            <img 
-              class="w-100 h-100 rounded-4" 
-              style="object-fit: cover; filter: blur(10px); transition: filter 0.3s ease-out;"
-              :class="{ 'blur-0': imageLoaded['beds-emmett1'] }"
-              loading="lazy"
-              :src="getImageUrlSubfolder('beds','emmett1','jpeg')" 
-              alt="Kids bed"
-              @load="handleImageLoad('beds-emmett1')"
-            >
-          </div>
+          <img 
+            class="w-100 h-100 rounded-4" 
+            style="object-fit: cover; cursor: pointer;" 
+            :src="getImageUrlSubfolder('beds','emmett1','jpeg')" 
+            alt="Kids bed"
+            data-bs-toggle="modal"
+            data-bs-target="#bedModal4"
+          >
         </div>
       </div>
 
+      <!-- Bed Modals -->
+      <ImageModal 
+        modalId="bedModal1"
+        :imageSrc="getImageUrlSubfolder('beds','henry1','jpg')"
+        imageAlt="Kids bed"
+      />
+      <ImageModal 
+        modalId="bedModal2"
+        :imageSrc="getImageUrlSubfolder('beds','henry3','jpg')"
+        imageAlt="Kids bed"
+      />
+      <ImageModal 
+        modalId="bedModal3"
+        :imageSrc="getImageUrlSubfolder('beds','henry4','jpg')"
+        imageAlt="Kids bed"
+      />
+      <ImageModal 
+        modalId="bedModal4"
+        :imageSrc="getImageUrlSubfolder('beds','emmett1','jpeg')"
+        imageAlt="Kids bed"
+      />
+
       <!-- blocks -->
+      
       <div id="blocks" class="row m-0 pt-2">
         <div class="col-lg-8 offset-lg-2 min-vh-75 d-flex flex-column justify-content-center align-items-start align-items-lg-center text-start text-lg-center p-5">
           <h2 class="display-3 fw-900 ls-1 lh-1">Building Blocks</h2>
@@ -441,92 +451,84 @@ const handleImageLoad = (imageId) => {
           <ButtonGroup />
         </div>
         <div class="col-lg-3 col-md-6 mb-3">
-          <div class="position-relative w-100 h-100">
-            <div 
-              class="position-absolute w-100 h-100 bg-light rounded-4 d-flex justify-content-center align-items-center"
-              :class="{ 'd-none': imageLoaded['blocks-selection'] }"
-            >
-              <div class="spinner-border text-secondary" role="status">
-                <span class="visually-hidden">Loading...</span>
-              </div>
-            </div>
-            <img 
-              class="w-100 h-100 rounded-4" 
-              style="object-fit: cover; filter: blur(10px); transition: filter 0.3s ease-out;"
-              :class="{ 'blur-0': imageLoaded['blocks-selection'] }"
-              loading="lazy"
-              :src="getImageUrlSubfolder('blocks','eh_blocks_selection','jpeg')" 
-              alt="Building blocks"
-              @load="handleImageLoad('blocks-selection')"
-            >
-          </div>
+          <img 
+            class="w-100 h-100 rounded-4" 
+            style="object-fit: cover; cursor: pointer;" 
+            :src="getImageUrlSubfolder('blocks','eh_blocks_selection','jpeg')" 
+            alt="Building blocks"
+            data-bs-toggle="modal"
+            data-bs-target="#blockModal1"
+          >
         </div>
         <div class="col-lg-3 col-md-6 mb-3">
-          <div class="position-relative w-100 h-100">
-            <div 
-              class="position-absolute w-100 h-100 bg-light rounded-4 d-flex justify-content-center align-items-center"
-              :class="{ 'd-none': imageLoaded['blocks-selection2'] }"
-            >
-              <div class="spinner-border text-secondary" role="status">
-                <span class="visually-hidden">Loading...</span>
-              </div>
-            </div>
-            <img 
-              class="w-100 h-100 rounded-4" 
-              style="object-fit: cover; filter: blur(10px); transition: filter 0.3s ease-out;"
-              :class="{ 'blur-0': imageLoaded['blocks-selection2'] }"
-              loading="lazy"
-              :src="getImageUrlSubfolder('blocks','eh_blocks_selection2','jpeg')" 
-              alt="Building blocks"
-              @load="handleImageLoad('blocks-selection2')"
-            >
-          </div>
+          <img 
+            class="w-100 h-100 rounded-4" 
+            style="object-fit: cover; cursor: pointer;" 
+            :src="getImageUrlSubfolder('blocks','eh_blocks_selection2','jpeg')" 
+            alt="Building blocks"
+            data-bs-toggle="modal"
+            data-bs-target="#blockModal2"
+          >
         </div>
         <div class="col-lg-3 col-md-6 mb-3">
-          <div class="position-relative w-100 h-100">
-            <div 
-              class="position-absolute w-100 h-100 bg-light rounded-4 d-flex justify-content-center align-items-center"
-              :class="{ 'd-none': imageLoaded['blocks-shape'] }"
-            >
-              <div class="spinner-border text-secondary" role="status">
-                <span class="visually-hidden">Loading...</span>
-              </div>
-            </div>
-            <img 
-              class="w-100 h-100 rounded-4" 
-              style="object-fit: cover; filter: blur(10px); transition: filter 0.3s ease-out;"
-              :class="{ 'blur-0': imageLoaded['blocks-shape'] }"
-              loading="lazy"
-              :src="getImageUrlSubfolder('blocks','eh_blocks_shape','jpeg')" 
-              alt="Building blocks"
-              @load="handleImageLoad('blocks-shape')"
-            >
-          </div>
+          <img 
+            class="w-100 h-100 rounded-4" 
+            style="object-fit: cover; cursor: pointer;" 
+            :src="getImageUrlSubfolder('blocks','eh_blocks_shape','jpeg')" 
+            alt="Building blocks"
+            data-bs-toggle="modal"
+            data-bs-target="#blockModal3"
+          >
         </div>
         <div class="col-lg-3 col-md-6 mb-3">
-          <div class="position-relative w-100 h-100">
-            <div 
-              class="position-absolute w-100 h-100 bg-light rounded-4 d-flex justify-content-center align-items-center"
-              :class="{ 'd-none': imageLoaded['blocks-box'] }"
-            >
-              <div class="spinner-border text-secondary" role="status">
-                <span class="visually-hidden">Loading...</span>
-              </div>
-            </div>
-            <img 
-              class="w-100 h-100 rounded-4" 
-              style="object-fit: cover; filter: blur(10px); transition: filter 0.3s ease-out;"
-              :class="{ 'blur-0': imageLoaded['blocks-box'] }"
-              loading="lazy"
-              :src="getImageUrlSubfolder('blocks','eh_blocks_box','jpg')" 
-              alt="Building blocks"
-              @load="handleImageLoad('blocks-box')"
-            >
-          </div>
+          <img 
+            class="w-100 h-100 rounded-4" 
+            style="object-fit: cover; cursor: pointer;" 
+            :src="getImageUrlSubfolder('blocks','eh_blocks_box','jpg')" 
+            alt="Building blocks"
+            data-bs-toggle="modal"
+            data-bs-target="#blockModal4"
+          >
         </div>
       </div>
 
+      <!-- Block Modals -->
+      <ImageModal 
+        modalId="blockModal1"
+        :imageSrc="getImageUrlSubfolder('blocks','eh_blocks_selection','jpeg')"
+        imageAlt="Building blocks"
+      />
+      <ImageModal 
+        modalId="blockModal2"
+        :imageSrc="getImageUrlSubfolder('blocks','eh_blocks_selection2','jpeg')"
+        imageAlt="Building blocks"
+      />
+      <ImageModal 
+        modalId="blockModal3"
+        :imageSrc="getImageUrlSubfolder('blocks','eh_blocks_shape','jpeg')"
+        imageAlt="Building blocks"
+      />
+      <ImageModal 
+        modalId="blockModal4"
+        :imageSrc="getImageUrlSubfolder('blocks','eh_blocks_box','jpg')"
+        imageAlt="Building blocks"
+      />
+
+      <!-- jenga -->
+
+     <!-- <div class="row m-0 pt-2">
+        <div class="col-lg-8 offset-lg-2 min-vh-75 d-flex flex-column justify-content-center my-auto align-items-center text-center p-5">
+          <h2 class="display-3 fw-900 ls-1 lh-1">Giant Jenga Style Block Game</h2>
+          <p class="fs-5 py-3">A summer vacation inspired this game for the young and old. We found giant jenga at a restaurant in Muskoka which entertained our boys while we waited for a table. I vowed to look into making one for us and the e&h Giant Jenga Style Block Game was born. My kids play with these like a building block set, and as they get older the family Jenga concept will also fun. </p>
+          <button class="btn btn-dark" type="button" data-bs-toggle="modal" data-bs-target="blocks">more</button>
+        </div>
+        <div class="col-lg-12 px-4 pt-4 min-vh-75" :style="{'background' : 'url('+ getImageUrl('eh_blocks_selection','jpeg') +') center', 'background-size' : '100%'}">
+        </div>
+      </div>-->
+      
+
       <!-- climbers -->
+
       <div id="climbers" class="row m-0 pt-2">
         <div class="col-lg-8 offset-lg-2 min-vh-75 d-flex flex-column justify-content-center align-items-start align-items-lg-center text-start text-lg-center p-5">
           <h2 class="display-3 fw-900 ls-1 lh-1">Climbers</h2>
@@ -538,7 +540,21 @@ const handleImageLoad = (imageId) => {
         </div>
       </div>
 
-      <!-- ladders -->
+    <!-- climbing ramp -->
+
+      <!--<div class="row m-0 pt-2">
+        <div class="col-lg-8 offset-lg-2 min-vh-75 d-flex flex-column justify-content-center my-auto align-items-center text-center p-5">
+          <h2 class="display-3 fw-900 ls-1 lh-1">Climbing ramp</h2>
+          <p class="fs-5 pt-3">A great compliment to the Pikler style climber, the climbing ramp is built from white birch with a variety of 2x4 climbing holds. The design is tailored to little hands, and promotes climbing skills and agility. Adjust ramp incline by placing it on different climber steps for increased/decreased difficulty. Combined with the slide ramp,  little players get to climb up one side, then slide down the other. While intended for supervised indoor use, the ramp can be sealed/stained* for outdoor use.</p>
+          <p class="small fst-italic mt-0 mb-3">*Model shown is a custom scribbled design;) Ramps come in plain wood with sanded finish. *Be sure to use no/low-VOC and non-toxic stain/seal options for kid safety. *Outdoor use exposes material to wear, rot, and rust. *Always supervise children when using this product.</p> 
+          <ButtonGroup/>
+        </div>
+        <div class="col-lg-12 px-4 pt-4 min-vh-75" :style="{'background' : 'url('+ getImageUrl('eh_pikler_ramp','jpg') +') center', 'background-size' : '100%'}">
+        </div>
+      </div>-->
+
+      <!-- ladder -->
+
       <div id="ladders" class="row m-0 pt-2">
         <div class="col-lg-8 offset-lg-2 min-vh-75 d-flex flex-column justify-content-center align-items-start align-items-lg-center text-start text-lg-center p-5">
           <h2 class="display-3 fw-900 ls-1 lh-1">Ladders</h2>
@@ -550,7 +566,35 @@ const handleImageLoad = (imageId) => {
         </div>
       </div>
 
+      <!-- climbing holds -->
+
+      <!-- <div class="row m-0 pt-2">
+        <div class="col-lg-5 d-flex flex-column my-auto align-items-start p-5">
+          <h2 class="fs-1 fw-900 ls-base">Climbing Holds</h2>
+          <p>With a pile of scrap 2x4 and an idea to turn a bunkbed into a pseudo climbing wall, the <span class="fw-900">e&h</span> climbing holds were born. Holds are focused on basic crimps, slopers, and jugs and ensure easy hand placement and grab-ability for kid-sized palms. With pre-drilled holes and structural fasteners, each hold is cut cross-grain for greater strength, and is sanded to 80 grit for grip and ease of refinishing. Holds can be used in conjunction with the bunkbed, or independently as part of your own climbing wall, play structure*, or basement bouldering setup.</p>
+          <button class="btn btn-dark">more</button>
+        </div>
+        <div class="col-lg-7 px-4 pt-4">
+          <img class="w-100 rounded-4" :src="getImageUrl('eh_climbing_holds6','jpeg')" alt="">
+        </div>
+      </div> -->
+
+      <!-- baby gate -->
+
+      <!-- <div class="row m-0 pt-2">
+        <div class="col-lg-7 px-4 pt-4">
+          <img class="w-100 rounded-4" :src="getImageUrl('eh_gate','jpeg')" alt="">
+        </div>
+        <div class="col-lg-5 d-flex flex-column my-auto align-items-start p-5">
+          <h2 class="fs-1 fw-900 ls-base">Baby gate</h2>
+          <p>Built from dimensional pine 2x2 and 1x4, as well as GRK finishing screws, this gate has an excellent strength to weight ratio. Vertical spindles adhere to code, prevent climbing, and provide natural aesthetic beauty. While sizing can be customized, the gate comes in standard stairway and doorway widths, with two black heavy duty hinges, hinge screws, and standard flip-style gate latch. Other hardware options can be accommodated.</p>
+          <p class="fst-italic">*Gate comes in unfinished pine. Unit pictured is stained to exemplify ease of matching trim and finish colors.</p>
+          <button class="btn btn-dark">more</button>
+        </div>
+      </div> -->
+
       <!-- how we work -->
+
       <div id="how-we-work" class="row m-0 pt-2">
         <div class="col-lg-8 offset-lg-2 min-vh-75 d-flex flex-column justify-content-center align-items-start align-items-lg-center text-start text-lg-center p-5">
           <h2 class="display-3 fw-900 ls-1 lh-1">How we work</h2>
@@ -566,6 +610,7 @@ const handleImageLoad = (imageId) => {
       </div>
 
       <!-- about -->
+
       <div id="about" class="row m-0 pt-2">
         <div class="col-lg-8 offset-lg-2 min-vh-75 d-flex flex-column justify-content-center align-items-start align-items-lg-center text-start text-lg-center p-5">
           <h2 class="display-3 fw-900 ls-1 lh-1">About e&h</h2>
@@ -580,30 +625,20 @@ const handleImageLoad = (imageId) => {
         </div>
       </div>
 
+
     </div>
     <TheFooter />
   </main>
 </template>
 
 <style scoped>
-.blur-0 {
-  filter: blur(0) !important;
+/* Add cursor pointer to images */
+img[data-bs-toggle="modal"] {
+  cursor: pointer;
+  transition: opacity 0.2s ease-in-out;
 }
 
-.progressive-image {
-  filter: blur(20px);
-  transform: scale(1.1);
-  transition: filter 0.3s ease-out, transform 0.3s ease-out;
-}
-
-.progressive-image.loaded {
-  filter: blur(0);
-  transform: scale(1);
-}
-
-.image-wrapper {
-  position: relative;
-  overflow: hidden;
-  background-color: #f8f9fa;
+img[data-bs-toggle="modal"]:hover {
+  opacity: 0.9;
 }
 </style>
