@@ -310,6 +310,47 @@ mix-blend-mode: multiply;">Handcrafted furniture and wood products, built tough,
           <img 
             class="w-100 h-100 rounded-4" 
             style="object-fit: cover; cursor: pointer;" 
+            :src="getImageUrlSubfolder('tables','coffee5','png')" 
+            alt="Console table"
+            data-bs-toggle="modal"
+            data-bs-target="#coffeeModal1"
+          >
+        </div>
+        <div class="col-lg-3 col-md-6 mb-3">
+          <img 
+            class="w-100 h-100 rounded-4" 
+            style="object-fit: cover; cursor: pointer;" 
+            :src="getImageUrlSubfolder('tables','coffee2','png')" 
+            alt="Console table"
+            data-bs-toggle="modal"
+            data-bs-target="#coffeeModal2"
+          >
+        </div>
+        <div class="col-lg-3 col-md-6 mb-3">
+          <img 
+            class="w-100 h-100 rounded-4" 
+            style="object-fit: cover; cursor: pointer;" 
+            :src="getImageUrlSubfolder('tables','coffee3','png')" 
+            alt="Console table"
+            data-bs-toggle="modal"
+            data-bs-target="#coffeeModal3"
+          >
+        </div>
+        <div class="col-lg-3 col-md-6 mb-3">
+          <img 
+            class="w-100 h-100 rounded-4" 
+            style="object-fit: cover; cursor: pointer;" 
+            :src="getImageUrlSubfolder('tables','coffee4','jpg')" 
+            alt="Console table"
+            data-bs-toggle="modal"
+            data-bs-target="#coffeeModal4"
+          >
+        </div>
+
+        <div class="col-lg-3 col-md-6 mb-3">
+          <img 
+            class="w-100 h-100 rounded-4" 
+            style="object-fit: cover; cursor: pointer;" 
             :src="getImageUrlSubfolder('tables','table1','jpg')" 
             alt="Console table"
             data-bs-toggle="modal"
@@ -349,6 +390,27 @@ mix-blend-mode: multiply;">Handcrafted furniture and wood products, built tough,
       </div>
 
       <!-- Table Modals -->
+      <ImageModal 
+        modalId="coffeeModal1"
+        :imageSrc="getImageUrlSubfolder('tables','coffee5','png')"
+        imageAlt="Console table"
+      />
+      <ImageModal 
+        modalId="coffeeModal2"
+        :imageSrc="getImageUrlSubfolder('tables','coffee2','png')"
+        imageAlt="Console table"
+      />
+      <ImageModal 
+        modalId="coffeeModal3"
+        :imageSrc="getImageUrlSubfolder('tables','coffee3','png')"
+        imageAlt="Console table"
+      />
+      <ImageModal 
+        modalId="coffeeModal4"
+        :imageSrc="getImageUrlSubfolder('tables','coffee4','jpg')"
+        imageAlt="Console table"
+      />
+
       <ImageModal 
         modalId="tableModal1"
         :imageSrc="getImageUrlSubfolder('tables','table1','jpg')"
