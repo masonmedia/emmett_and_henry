@@ -50,19 +50,18 @@ const openBenchesModal = (index) => {
 
 <template>
   <main class="overflow-x-hidden">
-  <TheNav/>
+    <TheNav/>
 
     <div class="container-fluid px-0">
-
-
-      <div class="row m-0" style="height: 100dvh; background: url('https://images.pexels.com/photos/172277/pexels-photo-172277.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2') center; background-size: cover;">
+      <!-- Hero section -->
+      <div class="row m-0" :style="{'height': '100dvh', 'background': `url(${getImageUrlSubfolder('backgrounds','wood_hero','jpeg')}) center`, 'background-size': 'cover'}">
         <div class="col-lg-8 d-flex flex-column justify-content-end align-items-start text-start p-5"> 
           <h1 class="h4 text-uppercase fw-bold" style="font-family: 'Montserrat', sans-serif; letter-spacing: 2px;">Emmett & Henry</h1>  
           <h2 class="display-2 text-burnt ls-base lh-1 fw-bold py-3">Handcrafted furniture and wood products, built tough, built beautiful, built to last in Canada.</h2>
           <div class="d-flex mt-4">
             <TheButton
               ButtonClass="btn-light me-2"
-              ButtonLink="#benches">
+              ButtonLink="#patio">
               Shop
             </TheButton>
             <TheButton
@@ -74,40 +73,7 @@ const openBenchesModal = (index) => {
         </div>
       </div>
 
-      <!-- hero with burn eh logo -->
-      <!-- <div class="row m-0" style="height: 100svh; background: url('https://images.pexels.com/photos/172277/pexels-photo-172277.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2') center; background-size: cover;">
-        <div class="col-lg-8 offset-lg-2 d-flex flex-column justify-content-center align-items-center text-center p-5">
-         <img class="mt-4" style="width: 250px; height: auto; filter: grayscale(1); margin-left: -30px; margin-bottom: -70px" :src="getImageUrlSubfolder('logos','eh_burned1_trans','png')" alt="">
-         <h2 class="display-3 ls-base lh-1 fw-bold py-3 mt-2" style="color: #3b2a1a; text-shadow:
-  0 1px 0 #00000055,
-  0 2px 1px #00000033,
-  0 3px 2px #00000022,
-  1px 1px 2px #00000044,
-  -1px -1px 2px #00000044;
-mix-blend-mode: multiply;">Handcrafted furniture and wood products, built tough, built beautiful, built to last in Canada.</h2>
-          <div class="d-flex mt-4">
-            <TheButton
-              ButtonClass="btn-light me-2"
-              ButtonLink="#benches">
-              Shop
-            </TheButton>
-            <TheButton
-             ButtonClass="btn-dark"
-              ButtonLink="#about">
-              About us
-            </TheButton>
-          </div>
-        </div>
-      </div> -->
-      
-      <!-- <div class="row m-0">
-          <div class="col-lg-12 px-4 pt-4 min-vh-75" :style="{'background' : 'url('+ getImageUrlSubfolder('blocks','eh_blocks_shape','jpeg') +') center', 'background-size' : 'cover'}">
-        </div>
-       
-      </div> -->
-
       <!-- patio furniture -->
-
       <div id="patio" class="row m-0 pt-2">
         <div class="col-lg-8 offset-lg-2 min-vh-75 d-flex flex-column justify-content-center align-items-start align-items-lg-center text-start text-lg-center p-5">
           <h2 class="display-3 fw-900 ls-1 lh-1">Patio furniture</h2>
@@ -203,7 +169,6 @@ mix-blend-mode: multiply;">Handcrafted furniture and wood products, built tough,
       />
 
       <!-- benches -->
-
       <div id="benches" class="row m-0 pt-2">
         <div class="col-lg-8 offset-lg-2 min-vh-75 d-flex flex-column justify-content-center align-items-start align-items-lg-center text-start text-lg-center p-5">
           <h2 class="display-3 fw-900 ls-1 lh-1">Benches</h2>
@@ -299,7 +264,6 @@ mix-blend-mode: multiply;">Handcrafted furniture and wood products, built tough,
       />
       
       <!-- tables -->
-
       <div id="tables" class="row m-0 pt-2">
         <div class="col-lg-8 offset-lg-2 min-vh-75 d-flex flex-column justify-content-center align-items-start align-items-lg-center text-start text-lg-center p-5">
           <h2 class="display-3 fw-900 ls-1 lh-1">Tables</h2>
@@ -433,7 +397,6 @@ mix-blend-mode: multiply;">Handcrafted furniture and wood products, built tough,
       />
 
       <!-- beds -->
-
       <div id="beds" class="row m-0 pt-2">
         <div class="col-lg-8 offset-lg-2 min-vh-75 d-flex flex-column justify-content-center align-items-start align-items-lg-center text-start text-lg-center p-5">
           <h2 class="display-3 fw-900 ls-1 lh-1">Kids Beds</h2>
@@ -505,7 +468,6 @@ mix-blend-mode: multiply;">Handcrafted furniture and wood products, built tough,
       />
 
       <!-- blocks -->
-      
       <div id="blocks" class="row m-0 pt-2">
         <div class="col-lg-8 offset-lg-2 min-vh-75 d-flex flex-column justify-content-center align-items-start align-items-lg-center text-start text-lg-center p-5">
           <h2 class="display-3 fw-900 ls-1 lh-1">Building Blocks</h2>
@@ -576,21 +538,7 @@ mix-blend-mode: multiply;">Handcrafted furniture and wood products, built tough,
         imageAlt="Building blocks"
       />
 
-      <!-- jenga -->
-
-     <!-- <div class="row m-0 pt-2">
-        <div class="col-lg-8 offset-lg-2 min-vh-75 d-flex flex-column justify-content-center my-auto align-items-center text-center p-5">
-          <h2 class="display-3 fw-900 ls-1 lh-1">Giant Jenga Style Block Game</h2>
-          <p class="fs-5 py-3">A summer vacation inspired this game for the young and old. We found giant jenga at a restaurant in Muskoka which entertained our boys while we waited for a table. I vowed to look into making one for us and the e&h Giant Jenga Style Block Game was born. My kids play with these like a building block set, and as they get older the family Jenga concept will also fun. </p>
-          <button class="btn btn-dark" type="button" data-bs-toggle="modal" data-bs-target="blocks">more</button>
-        </div>
-        <div class="col-lg-12 px-4 pt-4 min-vh-75" :style="{'background' : 'url('+ getImageUrl('eh_blocks_selection','jpeg') +') center', 'background-size' : '100%'}">
-        </div>
-      </div>-->
-      
-
       <!-- climbers -->
-
       <div id="climbers" class="row m-0 pt-2">
         <div class="col-lg-8 offset-lg-2 min-vh-75 d-flex flex-column justify-content-center align-items-start align-items-lg-center text-start text-lg-center p-5">
           <h2 class="display-3 fw-900 ls-1 lh-1">Climbers</h2>
@@ -602,21 +550,7 @@ mix-blend-mode: multiply;">Handcrafted furniture and wood products, built tough,
         </div>
       </div>
 
-    <!-- climbing ramp -->
-
-      <!--<div class="row m-0 pt-2">
-        <div class="col-lg-8 offset-lg-2 min-vh-75 d-flex flex-column justify-content-center my-auto align-items-center text-center p-5">
-          <h2 class="display-3 fw-900 ls-1 lh-1">Climbing ramp</h2>
-          <p class="fs-5 pt-3">A great compliment to the Pikler style climber, the climbing ramp is built from white birch with a variety of 2x4 climbing holds. The design is tailored to little hands, and promotes climbing skills and agility. Adjust ramp incline by placing it on different climber steps for increased/decreased difficulty. Combined with the slide ramp,  little players get to climb up one side, then slide down the other. While intended for supervised indoor use, the ramp can be sealed/stained* for outdoor use.</p>
-          <p class="small fst-italic mt-0 mb-3">*Model shown is a custom scribbled design;) Ramps come in plain wood with sanded finish. *Be sure to use no/low-VOC and non-toxic stain/seal options for kid safety. *Outdoor use exposes material to wear, rot, and rust. *Always supervise children when using this product.</p> 
-          <ButtonGroup/>
-        </div>
-        <div class="col-lg-12 px-4 pt-4 min-vh-75" :style="{'background' : 'url('+ getImageUrl('eh_pikler_ramp','jpg') +') center', 'background-size' : '100%'}">
-        </div>
-      </div>-->
-
-      <!-- ladder -->
-
+      <!-- ladders -->
       <div id="ladders" class="row m-0 pt-2">
         <div class="col-lg-8 offset-lg-2 min-vh-75 d-flex flex-column justify-content-center align-items-start align-items-lg-center text-start text-lg-center p-5">
           <h2 class="display-3 fw-900 ls-1 lh-1">Ladders</h2>
@@ -628,39 +562,11 @@ mix-blend-mode: multiply;">Handcrafted furniture and wood products, built tough,
         </div>
       </div>
 
-      <!-- climbing holds -->
-
-      <!-- <div class="row m-0 pt-2">
-        <div class="col-lg-5 d-flex flex-column my-auto align-items-start p-5">
-          <h2 class="fs-1 fw-900 ls-base">Climbing Holds</h2>
-          <p>With a pile of scrap 2x4 and an idea to turn a bunkbed into a pseudo climbing wall, the <span class="fw-900">e&h</span> climbing holds were born. Holds are focused on basic crimps, slopers, and jugs and ensure easy hand placement and grab-ability for kid-sized palms. With pre-drilled holes and structural fasteners, each hold is cut cross-grain for greater strength, and is sanded to 80 grit for grip and ease of refinishing. Holds can be used in conjunction with the bunkbed, or independently as part of your own climbing wall, play structure*, or basement bouldering setup.</p>
-          <button class="btn btn-dark">more</button>
-        </div>
-        <div class="col-lg-7 px-4 pt-4">
-          <img class="w-100 rounded-4" :src="getImageUrl('eh_climbing_holds6','jpeg')" alt="">
-        </div>
-      </div> -->
-
-      <!-- baby gate -->
-
-      <!-- <div class="row m-0 pt-2">
-        <div class="col-lg-7 px-4 pt-4">
-          <img class="w-100 rounded-4" :src="getImageUrl('eh_gate','jpeg')" alt="">
-        </div>
-        <div class="col-lg-5 d-flex flex-column my-auto align-items-start p-5">
-          <h2 class="fs-1 fw-900 ls-base">Baby gate</h2>
-          <p>Built from dimensional pine 2x2 and 1x4, as well as GRK finishing screws, this gate has an excellent strength to weight ratio. Vertical spindles adhere to code, prevent climbing, and provide natural aesthetic beauty. While sizing can be customized, the gate comes in standard stairway and doorway widths, with two black heavy duty hinges, hinge screws, and standard flip-style gate latch. Other hardware options can be accommodated.</p>
-          <p class="fst-italic">*Gate comes in unfinished pine. Unit pictured is stained to exemplify ease of matching trim and finish colors.</p>
-          <button class="btn btn-dark">more</button>
-        </div>
-      </div> -->
-
       <!-- how we work -->
-
       <div id="how-we-work" class="row m-0 pt-2">
         <div class="col-lg-8 offset-lg-2 min-vh-75 d-flex flex-column justify-content-center align-items-start align-items-lg-center text-start text-lg-center p-5">
           <h2 class="display-3 fw-900 ls-1 lh-1">How we work</h2>
-          <p class="fs-5 py-3">Our products are made to order. We have varying levels of stock, but most often build on request. Timelines vary though generally take 2-4 weeks for average turnaround. We offer delivery on certain items within the Great Toronto Area, and ship wood blocks and giant jenga. All products are also available for pickup. Contact us for more details, custom orders, or special requests.</p>
+          <p class="fs-5 py-3">Our products are made to order. We have varying levels of stock, but most often build on request. Timelines vary though generally take 2-4 weeks for average turnaround. We offer delivery on certain items within the Greater Toronto Area, and ship wood blocks and giant jenga. All products are also available for pickup. Contact us for more details, custom orders, or special requests.</p>
           <TheButton
              ButtonClass="btn-dark"
               ButtonLink="mailto:emmettandhenrywoodworks@gmail.com">
@@ -672,7 +578,6 @@ mix-blend-mode: multiply;">Handcrafted furniture and wood products, built tough,
       </div>
 
       <!-- about -->
-
       <div id="about" class="row m-0 pt-2">
         <div class="col-lg-8 offset-lg-2 min-vh-75 d-flex flex-column justify-content-center align-items-start align-items-lg-center text-start text-lg-center p-5">
           <h2 class="display-3 fw-900 ls-1 lh-1">About e&h</h2>
@@ -686,7 +591,6 @@ mix-blend-mode: multiply;">Handcrafted furniture and wood products, built tough,
         <div class="col-lg-12 px-4 pt-4 min-vh-75" :style="{'background' : 'url('+ getImageUrl('eh_dinos','webp') +') center', 'background-size' : 'cover'}">
         </div>
       </div>
-
 
     </div>
     <TheFooter />
